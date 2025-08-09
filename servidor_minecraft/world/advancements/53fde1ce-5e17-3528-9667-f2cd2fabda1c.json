@@ -25,8 +25,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-08-09 23:45:51 +0000",
       "minecraft:windswept_hills": "2025-08-09 21:21:10 +0000",
       "minecraft:beach": "2025-08-09 23:35:28 +0000",
+      "minecraft:river": "2025-08-09 23:51:57 +0000",
+      "minecraft:dripstone_caves": "2025-08-09 23:56:07 +0000",
       "minecraft:forest": "2025-08-09 23:39:14 +0000",
       "minecraft:flower_forest": "2025-08-09 21:12:08 +0000",
       "minecraft:savanna": "2025-08-09 23:36:21 +0000",
@@ -676,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-09 23:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-08-09 23:40:39 +0000"
@@ -706,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-09 23:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-09 23:36:59 +0000"
@@ -724,9 +739,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-09 23:51:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-08-09 23:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-08-09 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-09 23:48:44 +0000"
     },
     "done": true
   },
@@ -739,13 +772,26 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-08-09 23:36:59 +0000",
-      "minecraft:enderman": "2025-08-09 23:35:54 +0000"
+      "minecraft:enderman": "2025-08-09 23:35:54 +0000",
+      "minecraft:zombie": "2025-08-09 23:55:48 +0000"
     },
     "done": false
   },
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2025-08-09 23:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-09 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-09 23:51:02 +0000"
     },
     "done": true
   },
@@ -821,6 +867,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-08-09 23:51:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_metal_leggings": {
     "criteria": {
       "has_the_recipe": "2025-08-09 23:32:59 +0000"
@@ -845,9 +897,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-09 23:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-09 23:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-09 23:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-09 23:57:20 +0000"
     },
     "done": true
   },
@@ -893,9 +963,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-09 23:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-09 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-09 23:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-09 23:48:48 +0000"
     },
     "done": true
   },
@@ -908,6 +996,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-08-09 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-09 23:49:09 +0000"
     },
     "done": true
   },
@@ -929,12 +1023,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-09 23:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-09 23:43:56 +0000",
       "cooked_beef": "2025-08-09 23:33:57 +0000",
       "cooked_chicken": "2025-08-09 23:40:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-09 23:55:40 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
     "criteria": {
@@ -942,9 +1049,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-09 23:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-09 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-09 23:47:34 +0000"
     },
     "done": true
   },

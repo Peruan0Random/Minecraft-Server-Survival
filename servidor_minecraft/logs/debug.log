@@ -3100,3 +3100,27 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [09Aug2025 23:43:45.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Masquerade]
 [09Aug2025 23:43:46.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Aug2025 23:43:46.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 23:48:44.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Sweet Dreams]
+[09Aug2025 23:48:46.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 23:48:46.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 23:48:49.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Sweet Dreams]
+[09Aug2025 23:50:21.318] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=611, y=63, z=-18}
+[09Aug2025 23:50:21.318] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[09Aug2025 23:50:21.318] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 2
+[09Aug2025 23:50:21.318] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJJxxx+Xz98+fqP
+[09Aug2025 23:52:07.442] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-402, y=65, z=90}
+[09Aug2025 23:52:07.442] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[09Aug2025 23:52:07.442] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[09Aug2025 23:52:07.442] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOOJxxxxP067nr80OP0nXXtxL+tQ7+bZOJ7k6WKxP0nvtxP16
+[09Aug2025 23:53:46.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 23:53:46.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Aug2025 23:55:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
+[09Aug2025 23:55:31.046] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-328, y:45, z:235, dim:minecraft:overworld]
+[09Aug2025 23:55:31.055] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[09Aug2025 23:56:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Monster Hunter]
+[09Aug2025 23:57:01.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Stone Age]
+[09Aug2025 23:57:24.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
+[09Aug2025 23:57:24.545] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-317, y:37, z:309, dim:minecraft:overworld]
+[09Aug2025 23:57:24.550] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[09Aug2025 23:58:46.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Aug2025 23:58:46.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
