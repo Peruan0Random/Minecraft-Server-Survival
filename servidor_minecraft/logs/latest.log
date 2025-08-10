@@ -76,3 +76,42 @@
 [10Aug2025 01:07:29.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
 [10Aug2025 01:07:29.743] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
 [10Aug2025 01:09:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Take Aim]
+[10Aug2025 01:09:51.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:46517] logged in with entity id 26540 at (-301.69999998807907, 6.0, 205.4373839130422)
+[10Aug2025 01:09:51.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[10Aug2025 01:09:51.981] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[10Aug2025 01:10:55.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 01:11:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Suit Up]
+[10Aug2025 01:13:28.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Enderman
+[10Aug2025 01:13:28.843] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:13:35.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[10Aug2025 01:13:35.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[10Aug2025 01:13:50.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Timed out
+[10Aug2025 01:13:50.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[10Aug2025 01:13:56.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:58433] logged in with entity id 27335 at (-569.9972723316073, 80.0, 515.3025716942204)
+[10Aug2025 01:13:56.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[10Aug2025 01:13:56.710] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[10Aug2025 01:14:11.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:58197] logged in with entity id 27602 at (-569.3187025285649, 80.0, 517.082817747449)
+[10Aug2025 01:14:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[10Aug2025 01:14:11.950] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[10Aug2025 01:14:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Knowledge of Death]
+[10Aug2025 01:14:19.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Ashes 'n Bones]
+[10Aug2025 01:14:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to -563.500000, 79.000000, 523.500000]
+[10Aug2025 01:14:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Knowledge raises the soul]
+[10Aug2025 01:16:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
+[10Aug2025 01:16:45.940] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:17:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[10Aug2025 01:17:46.296] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:18:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[10Aug2025 01:18:07.042] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:18:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was incinerated by Fire Dragon
+[10Aug2025 01:18:10.458] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 01:18:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has reached the goal [Chain Death]
+[10Aug2025 01:18:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
+[10Aug2025 01:18:57.444] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 01:19:00.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has reached the goal [Discreet Search]
+[10Aug2025 01:19:05.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[10Aug2025 01:19:05.948] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:19:34.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
+[10Aug2025 01:19:34.893] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:19:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
+[10Aug2025 01:19:40.241] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
