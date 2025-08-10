@@ -3294,3 +3294,42 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Aug2025 20:44:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
 [10Aug2025 20:44:21.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 20:44:21.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 20:46:24.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 20:47:20.283] [Worker-Main-15/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-945, y=72, z=13}
+[10Aug2025 20:47:20.285] [Worker-Main-15/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[10Aug2025 20:47:20.285] [Worker-Main-15/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[10Aug2025 20:47:20.285] [Worker-Main-15/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxxOOOOPy97b8mfyU8+bmb8+SXtzrtXWXtXS1SuXt8Syvn1tbrc8kkbr
+[10Aug2025 20:47:20.287] [Worker-Main-15/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Second attempt for code JJJxxOOOOPy97b8mfyU8+bmb8+SXtzrtXWXtXS1SuXt8Syvn1tbrc8kkbr has also failed
+[10Aug2025 20:47:23.222] [Worker-Main-16/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-865, y=68, z=-36}
+[10Aug2025 20:47:23.222] [Worker-Main-16/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[10Aug2025 20:47:23.222] [Worker-Main-16/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[10Aug2025 20:47:23.222] [Worker-Main-16/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJOOOJxJx9+fXyWSy+vkX188mczb86iy8nzebz89rzftftudr6yXtXyVVVr8mck6kn
+[10Aug2025 20:47:24.719] [Worker-Main-24/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-752, y=68, z=-50}
+[10Aug2025 20:47:24.719] [Worker-Main-24/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[10Aug2025 20:47:24.719] [Worker-Main-24/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[10Aug2025 20:47:24.719] [Worker-Main-24/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxxOOOOL+S8nzervmfnvSyuS9vkyXnkmbzvk8ntzebz99rvtyV9fkzb6kUyWXnn
+[10Aug2025 20:47:27.530] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterdungeons:skeleton_dungeon took 1 ms
+[10Aug2025 20:47:34.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to -399.500000, 71.000000, 1056.500000]
+[10Aug2025 20:47:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Adventure Mode]
+[10Aug2025 20:47:39.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 20:47:51.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to NoobToMC]
+[10Aug2025 20:47:51.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
+[10Aug2025 20:48:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 20:48:19.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [A Bone to Pick]
+[10Aug2025 20:48:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [A Bone to Pick]
+[10Aug2025 20:48:29.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 20:48:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to 2apjnas]
+[10Aug2025 20:49:10.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
+[10Aug2025 20:49:21.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 20:49:21.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 20:49:26.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to 2apjnas]
+[10Aug2025 20:49:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 20:49:45.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 20:50:03.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 20:50:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 20:51:21.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 20:52:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 20:52:55.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 20:53:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has reached the goal [Bone Crusher]
+[10Aug2025 20:54:21.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 20:54:21.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
