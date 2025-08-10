@@ -348,3 +348,36 @@ Caused by: java.lang.NullPointerException
 [10Aug2025 02:26:43.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
 [10Aug2025 02:29:33.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
 [10Aug2025 02:29:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[10Aug2025 03:43:34.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:53281] logged in with entity id 46795 at (-535.6890808858045, 64.0, 407.48219087748595)
+[10Aug2025 03:43:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[10Aug2025 03:43:34.750] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[10Aug2025 03:44:09.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Timed out
+[10Aug2025 03:44:09.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[10Aug2025 03:44:19.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:38513] logged in with entity id 47050 at (-535.6890808858045, 64.0, 407.48219087748595)
+[10Aug2025 03:44:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[10Aug2025 03:44:19.748] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[10Aug2025 03:45:43.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:49973] logged in with entity id 47621 at (-566.6338177892676, 76.0, 481.9877976344387)
+[10Aug2025 03:45:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[10Aug2025 03:45:43.574] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[10Aug2025 03:46:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 03:46:13.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 03:46:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 03:46:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 03:46:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 03:46:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 03:46:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 03:47:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 03:47:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 03:47:20.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 03:47:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 03:47:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Adventure Mode]
+[10Aug2025 03:47:30.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 03:47:33.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 03:48:48.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 03:48:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 03:49:11.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Quite the Renovation]
+[10Aug2025 03:49:15.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Quite the Renovation]
+[10Aug2025 03:50:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 03:50:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 03:50:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 03:50:50.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Best Friends Forever]
