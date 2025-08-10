@@ -381,3 +381,14 @@ Caused by: java.lang.NullPointerException
 [10Aug2025 03:50:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [10Aug2025 03:50:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
 [10Aug2025 03:50:50.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Best Friends Forever]
+[10Aug2025 03:51:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 03:52:05.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Timed out
+[10Aug2025 03:52:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[10Aug2025 03:52:18.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@306093b0[id=<null>,name=NoobToMC,properties={},legacy=false] (/127.30.169.203:59285) lost connection: Disconnected
+[10Aug2025 03:52:24.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:38291] logged in with entity id 49796 at (-689.3173462105232, 78.0, 679.0021299847944)
+[10Aug2025 03:52:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[10Aug2025 03:52:24.587] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[10Aug2025 03:55:26.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 03:59:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 03:59:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 03:59:35.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
