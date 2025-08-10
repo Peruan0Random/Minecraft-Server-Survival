@@ -444,3 +444,72 @@ Caused by: java.lang.NullPointerException
 [10Aug2025 04:21:18.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
 [10Aug2025 04:21:18.889] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
 [10Aug2025 04:21:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:22:08.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:22:09.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [My Name is Nobody]
+[10Aug2025 04:22:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
+[10Aug2025 04:22:24.591] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 04:22:31.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:22:36.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 04:22:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:23:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:24:11.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 04:24:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:24:39.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:24:55.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:24:57.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:25:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:25:07.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:25:20.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ice Dragon
+[10Aug2025 04:25:20.539] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 04:25:22.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
+[10Aug2025 04:25:22.641] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 04:25:48.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:25:51.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:27:28.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:28:09.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[10Aug2025 04:28:52.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:29:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:29:47.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:30:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
+[10Aug2025 04:30:43.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:30:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:30:54.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Frostmaw
+[10Aug2025 04:30:54.331] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-04.30.54.dat
+[10Aug2025 04:30:54.332] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 113 Y: 71 Z: 1231
+[10Aug2025 04:30:54.340] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 04:31:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has completed the challenge [Rude Awakening]
+[10Aug2025 04:32:31.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:32:34.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:32:55.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
+[10Aug2025 04:33:28.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:33:29.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:34:11.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:34:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:34:14.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:34:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:34:32.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:34:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:34:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 04:35:04.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:35:14.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:35:59.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:36:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:36:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:36:11.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:36:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:36:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:36:52.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -5.349761421184468,-3.369388557363093,-8.210254801864721
+[10Aug2025 04:36:58.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -8.647639826990712,0.10049803905230847,-6.030692943449139
+[10Aug2025 04:37:02.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -7.46811859294624,0.0,-7.251619103707412
+[10Aug2025 04:37:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
+[10Aug2025 04:37:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:37:51.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:37:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[10Aug2025 04:37:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:38:06.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
+[10Aug2025 04:38:06.837] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-04.38.06.dat
+[10Aug2025 04:38:06.838] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -404 Y: 33 Z: 818
+[10Aug2025 04:38:06.846] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 04:38:17.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:40:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
+[10Aug2025 04:40:11.243] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
