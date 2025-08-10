@@ -204,3 +204,6 @@
 [10Aug2025 01:47:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
 [10Aug2025 01:47:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
 [10Aug2025 01:47:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 01:55:25.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Take Aim]
+[10Aug2025 01:56:35.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38344, l='ServerLevel[world]', x=-446.30, y=65.00, z=344.09] died, message: 'Armorer was shot by NoobToMC'
+[10Aug2025 01:56:35.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Neighborhood Brawl]
