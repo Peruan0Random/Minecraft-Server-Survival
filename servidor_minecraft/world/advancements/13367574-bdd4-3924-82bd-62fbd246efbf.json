@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-10 00:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-09 23:39:45 +0000"
@@ -110,6 +116,12 @@
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-08-09 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-10 00:09:09 +0000"
     },
     "done": true
   },
@@ -1210,6 +1222,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-08-09 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-10 00:09:09 +0000"
     },
     "done": true
   },
