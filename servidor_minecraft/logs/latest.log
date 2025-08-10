@@ -392,3 +392,29 @@ Caused by: java.lang.NullPointerException
 [10Aug2025 03:59:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
 [10Aug2025 03:59:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
 [10Aug2025 03:59:35.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 04:02:16.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 13000]
+[10Aug2025 04:02:50.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
+[10Aug2025 04:03:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to 2apjnas]
+[10Aug2025 04:03:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[10Aug2025 04:04:03.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:04:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:04:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 04:04:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 04:04:55.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[10Aug2025 04:06:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:06:27.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:06:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:08:17.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[10Aug2025 04:08:17.538] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 04:09:12.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas suffocated in a wall whilst fighting Fire Dragon
+[10Aug2025 04:09:12.189] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 04:09:23.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has reached the goal [Strong or Careful]
+[10Aug2025 04:09:23.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was incinerated by Fire Dragon
+[10Aug2025 04:09:23.290] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 04:09:56.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
+[10Aug2025 04:09:56.799] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 04:10:03.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC walked into fire whilst fighting Fire Dragon
+[10Aug2025 04:10:03.240] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 04:10:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[10Aug2025 04:10:18.793] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 04:10:58.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Mother of Dragons]
