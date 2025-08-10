@@ -3254,3 +3254,43 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Aug2025 20:34:21.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 20:34:21.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Aug2025 20:34:42.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Skeleton]
+[10Aug2025 20:35:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 20:35:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 20:35:35.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Summoned new Cockatrice]
+[10Aug2025 20:36:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was doomed to fall
+[10Aug2025 20:36:03.520] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-20.36.03.dat
+[10Aug2025 20:36:03.520] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -600 Y: 69 Z: 510
+[10Aug2025 20:36:03.522] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-601, y:69, z:510, dim:minecraft:overworld]
+[10Aug2025 20:36:03.523] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 20:37:40.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 20:37:41.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[10Aug2025 20:38:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 20:38:09.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 20:38:18.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 20:38:19.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 20:38:20.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 20:38:27.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 20:38:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 20:38:27.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 20:38:29.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 20:38:33.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[10Aug2025 20:38:36.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 20:38:52.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 13000]
+[10Aug2025 20:39:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[10Aug2025 20:39:21.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 20:39:21.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 20:39:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Made 2apjnas no longer a server operator]
+[10Aug2025 20:39:36.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 20:39:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 20:40:00.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Made 2apjnas a server operator]
+[10Aug2025 20:40:35.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 20:40:41.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 20:41:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 20:41:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 20:41:53.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
+[10Aug2025 20:42:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 20:42:31.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 20:43:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 20:44:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 20:44:21.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 20:44:21.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
