@@ -3165,3 +3165,48 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Aug2025 00:15:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [10Aug2025 00:18:46.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 00:18:46.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 00:19:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> we
+[10Aug2025 00:19:59.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> estas ahi?
+[10Aug2025 00:21:05.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> oe
+[10Aug2025 00:21:17.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 00:22:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 00:23:33.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> voy a estar afk
+[10Aug2025 00:23:46.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 00:23:46.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 00:25:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> anyelo ve jugando
+[10Aug2025 00:25:18.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> el server va a estar abiero
+[10Aug2025 00:25:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> abierto*
+[10Aug2025 00:25:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> juega ya cuando vuelvas me avisas
+[10Aug2025 00:25:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> hablando por la llamada
+[10Aug2025 00:25:53.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[10Aug2025 00:25:53.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[10Aug2025 00:28:46.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 00:28:46.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 00:31:14.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 00:31:45.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 00:31:51.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 00:32:23.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 00:32:31.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 00:32:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 00:33:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Not Today, Thank You]
+[10Aug2025 00:33:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
+[10Aug2025 00:33:43.144] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-315, y:-48, z:337, dim:minecraft:overworld]
+[10Aug2025 00:33:43.145] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 00:33:46.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 00:33:46.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 00:37:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
+[10Aug2025 00:37:13.538] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-316, y:-51, z:262, dim:minecraft:overworld]
+[10Aug2025 00:37:13.541] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 00:37:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Diamonds!]
+[10Aug2025 00:38:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
+[10Aug2025 00:38:19.989] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-332, y:-52, z:268, dim:minecraft:overworld]
+[10Aug2025 00:38:19.998] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 00:38:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 00:38:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 00:38:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Ashes 'n Bones]
+[10Aug2025 00:38:46.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 00:38:46.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 00:39:01.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
+[10Aug2025 00:39:01.288] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-346, y:-53, z:277, dim:minecraft:overworld]
+[10Aug2025 00:39:01.300] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 00:39:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
