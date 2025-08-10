@@ -3726,3 +3726,30 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Aug2025 01:19:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
 [10Aug2025 01:19:40.235] [Server thread/DEBUG] [tombstone/]: A new grave of the player NoobToMC was created at position [x:-654, y:64, z:536, dim:minecraft:overworld]
 [10Aug2025 01:19:40.241] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 01:20:04.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
+[10Aug2025 01:20:04.335] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-671, y:61, z:552, dim:minecraft:overworld]
+[10Aug2025 01:20:04.345] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:20:07.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
+[10Aug2025 01:20:07.389] [Server thread/DEBUG] [tombstone/]: A new grave of the player NoobToMC was created at position [x:-673, y:61, z:555, dim:minecraft:overworld]
+[10Aug2025 01:20:07.403] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 01:20:33.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
+[10Aug2025 01:20:33.936] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-688, y:60, z:568, dim:minecraft:overworld]
+[10Aug2025 01:20:33.942] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:20:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
+[10Aug2025 01:20:56.536] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-681, y:62, z:561, dim:minecraft:overworld]
+[10Aug2025 01:20:56.546] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:20:59.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
+[10Aug2025 01:20:59.139] [Server thread/DEBUG] [tombstone/]: A new grave of the player NoobToMC was created at position [x:-677, y:60, z:561, dim:minecraft:overworld]
+[10Aug2025 01:20:59.155] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 01:21:36.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Dragonslayer]
+[10Aug2025 01:22:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Diamonds!]
+[10Aug2025 01:22:40.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by 2apjnas
+[10Aug2025 01:22:40.393] [Server thread/DEBUG] [tombstone/]: A new grave of the player NoobToMC was created at position [x:-651, y:64, z:580, dim:minecraft:overworld]
+[10Aug2025 01:22:40.394] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 01:22:41.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Funeral Theft]
+[10Aug2025 01:23:46.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 01:23:46.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 01:27:56.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 01:28:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 01:28:46.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 01:28:46.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
