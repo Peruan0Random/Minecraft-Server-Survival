@@ -3385,3 +3385,17 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Aug2025 21:14:21.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Aug2025 21:14:35.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
 [10Aug2025 21:14:42.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 21:19:21.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:19:21.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:21:11.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
+[10Aug2025 21:21:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to 2apjnas]
+[10Aug2025 21:21:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 21:24:21.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:24:21.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:25:34.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 21:26:21.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 0.3042034604990249
+[10Aug2025 21:26:21.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 0.903122773567361
+[10Aug2025 21:26:21.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 1.5183429180967778
+[10Aug2025 21:26:22.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 2.142285312537524
+[10Aug2025 21:26:22.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 2.7708948090029253
+[10Aug2025 21:26:22.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 3.4020015787098146
