@@ -338,3 +338,13 @@ Caused by: java.lang.NullPointerException
 [10Aug2025 02:18:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [10Aug2025 02:18:48.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Summoned new Hippogryph]
 [10Aug2025 02:20:08.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Allay]
+[10Aug2025 02:22:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [You've Got a Friend in Me]
+[10Aug2025 02:22:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Zombie
+[10Aug2025 02:22:01.844] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 02:22:30.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Not Today, Thank You]
+[10Aug2025 02:24:01.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 02:24:53.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[10Aug2025 02:26:43.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[10Aug2025 02:26:43.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[10Aug2025 02:29:33.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
+[10Aug2025 02:29:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
