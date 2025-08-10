@@ -3124,3 +3124,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [09Aug2025 23:57:24.550] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
 [09Aug2025 23:58:46.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Aug2025 23:58:46.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 00:02:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was shot by Skeleton
+[10Aug2025 00:02:16.244] [Server thread/DEBUG] [tombstone/]: A new grave of the player NoobToMC was created at position [x:-336, y:42, z:212, dim:minecraft:overworld]
+[10Aug2025 00:02:16.245] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 00:03:46.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 00:03:46.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 00:04:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
+[10Aug2025 00:04:17.390] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-324, y:42, z:241, dim:minecraft:overworld]
+[10Aug2025 00:04:17.391] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 00:06:15.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Acquire Hardware]
+[10Aug2025 00:07:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 00:07:25.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 00:07:28.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 00:07:35.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 00:07:38.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 00:07:58.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 00:08:02.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Acquire Hardware]
+[10Aug2025 00:08:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [A Strange Grave Dust]
+[10Aug2025 00:08:46.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 00:08:46.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
