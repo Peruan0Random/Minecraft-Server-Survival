@@ -2822,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-10 04:12:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-08-10 04:07:47 +0000"
@@ -3028,7 +3034,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-08-10 03:49:15 +0000"
+      "in_better_monster_room": "2025-08-10 03:49:15 +0000",
+      "in_better_spider_dungeon": "2025-08-10 04:15:55 +0000"
     },
     "done": false
   },
@@ -3050,9 +3057,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-08-10 04:10:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-08-10 04:07:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-08-10 04:15:55 +0000"
     },
     "done": true
   },

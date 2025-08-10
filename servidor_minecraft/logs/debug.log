@@ -5211,3 +5211,42 @@ Caused by: java.lang.NullPointerException
 [10Aug2025 04:10:18.784] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-418, y:-11, z:777, dim:minecraft:overworld]
 [10Aug2025 04:10:18.793] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
 [10Aug2025 04:10:58.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Mother of Dragons]
+[10Aug2025 04:13:38.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:13:46.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 04:13:46.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 04:14:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 04:14:19.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:14:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:14:27.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:14:33.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:14:52.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -6.349495042594981,0.0,8.649562559152969
+[10Aug2025 04:14:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 04:15:00.372] [Worker-Main-186/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1335, y=67, z=501}
+[10Aug2025 04:15:00.372] [Worker-Main-186/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[10Aug2025 04:15:00.372] [Worker-Main-186/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[10Aug2025 04:15:00.372] [Worker-Main-186/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORJXZJxR+fn0hOJPSJ9pJOJ8
+[10Aug2025 04:15:02.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
+[10Aug2025 04:15:04.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 8.706022002640339,0.0,5.513203500358486
+[10Aug2025 04:15:08.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to 2apjnas]
+[10Aug2025 04:15:18.771] [Worker-Main-203/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-757, y=72, z=981}
+[10Aug2025 04:15:18.771] [Worker-Main-203/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[10Aug2025 04:15:18.771] [Worker-Main-203/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[10Aug2025 04:15:18.771] [Worker-Main-203/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORJXZJxR+fn0hOJPSJ9pJOJ8
+[10Aug2025 04:15:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 04:15:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Cobweb Entanglement]
+[10Aug2025 04:16:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:16:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 04:16:14.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Cobweb Entanglement]
+[10Aug2025 04:16:20.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 04:16:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[10Aug2025 04:17:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 04:18:46.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 04:18:46.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 04:19:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Your First Receptacle]
+[10Aug2025 04:19:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Your First Receptacle]
+[10Aug2025 04:19:58.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 04:20:02.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 04:21:18.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
+[10Aug2025 04:21:18.884] [Server thread/DEBUG] [tombstone/]: A new grave of the player NoobToMC was created at position [x:-11, y:88, z:965, dim:minecraft:overworld]
+[10Aug2025 04:21:18.889] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[10Aug2025 04:21:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
