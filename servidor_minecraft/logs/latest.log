@@ -521,3 +521,30 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Aug2025 22:06:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
 [10Aug2025 22:06:41.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
 [10Aug2025 22:07:13.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[10Aug2025 22:08:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has reached the goal [Heliomancer]
+[10Aug2025 22:09:28.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 22:09:29.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 22:10:02.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[10Aug2025 22:10:02.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[10Aug2025 22:11:15.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 22:11:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 22:11:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 22:11:55.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 22:15:08.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was frozen to death by Frostmaw
+[10Aug2025 22:15:08.911] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-22.15.08.dat
+[10Aug2025 22:15:08.914] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -244 Y: 96 Z: 942
+[10Aug2025 22:15:08.916] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 22:15:38.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 22:16:04.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Adventure Mode]
+[10Aug2025 22:16:08.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 22:16:25.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Adventure Mode]
+[10Aug2025 22:16:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 22:18:29.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[10Aug2025 22:18:43.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 22:19:53.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68502, l='ServerLevel[world]', x=-967.63, y=77.50, z=1373.72] died, message: 'Unemployed suffocated in a wall'
+[10Aug2025 22:19:55.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68436, l='ServerLevel[world]', x=-959.81, y=71.00, z=1418.49] died, message: 'Unemployed was turned to ice by 2apjnas'
+[10Aug2025 22:19:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Neighborhood Brawl]
+[10Aug2025 22:20:54.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.7786246897683213
+[10Aug2025 22:20:54.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.0
+[10Aug2025 22:21:01.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
+[10Aug2025 22:21:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
