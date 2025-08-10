@@ -3221,3 +3221,21 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Aug2025 00:53:46.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Aug2025 00:58:46.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 00:58:46.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 01:00:42.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [The Parrots and the Bats]
+[10Aug2025 01:03:24.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 01:03:46.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 01:03:46.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 01:03:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 01:04:21.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Suit Up]
+[10Aug2025 01:06:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
+[10Aug2025 01:06:18.640] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-554, y:79, z:521, dim:minecraft:overworld]
+[10Aug2025 01:06:18.644] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:06:47.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[10Aug2025 01:06:47.635] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-564, y:79, z:523, dim:minecraft:overworld]
+[10Aug2025 01:06:47.641] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:07:29.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
+[10Aug2025 01:07:29.736] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-460, y:63, z:473, dim:minecraft:overworld]
+[10Aug2025 01:07:29.743] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 01:08:46.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 01:08:46.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 01:09:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Take Aim]
