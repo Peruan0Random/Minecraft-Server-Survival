@@ -1,607 +1,142 @@
-[10Aug2025 00:02:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was shot by Skeleton
-[10Aug2025 00:02:16.245] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 00:04:17.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[10Aug2025 00:04:17.391] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 00:06:15.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Acquire Hardware]
-[10Aug2025 00:07:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 00:07:25.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 00:07:28.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:07:35.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:07:38.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 00:07:58.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 00:08:02.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Acquire Hardware]
-[10Aug2025 00:08:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [A Strange Grave Dust]
-[10Aug2025 00:09:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Isn't It Iron Pick]
-[10Aug2025 00:09:28.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Isn't It Iron Pick]
-[10Aug2025 00:11:27.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 00:11:53.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 00:12:37.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:13:17.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:13:27.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ?
-[10Aug2025 00:13:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> colge sin querer
-[10Aug2025 00:13:46.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> colgate de estaaa
-[10Aug2025 00:13:49.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> xd
-[10Aug2025 00:14:19.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:14:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:14:33.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 00:14:56.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:14:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 00:15:02.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:15:11.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:15:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:19:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> we
-[10Aug2025 00:19:59.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> estas ahi?
-[10Aug2025 00:21:05.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> oe
-[10Aug2025 00:21:17.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 00:22:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 00:23:33.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> voy a estar afk
-[10Aug2025 00:25:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> anyelo ve jugando
-[10Aug2025 00:25:18.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> el server va a estar abiero
-[10Aug2025 00:25:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> abierto*
-[10Aug2025 00:25:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> juega ya cuando vuelvas me avisas
-[10Aug2025 00:25:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> hablando por la llamada
-[10Aug2025 00:25:53.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
-[10Aug2025 00:25:53.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
-[10Aug2025 00:31:14.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 00:31:45.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:31:51.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:32:23.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:32:31.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:32:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:33:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Not Today, Thank You]
-[10Aug2025 00:33:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[10Aug2025 00:33:43.145] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 00:37:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[10Aug2025 00:37:13.541] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 00:37:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Diamonds!]
-[10Aug2025 00:38:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
-[10Aug2025 00:38:19.998] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 00:38:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:38:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:38:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Ashes 'n Bones]
-[10Aug2025 00:39:01.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
-[10Aug2025 00:39:01.300] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 00:39:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:39:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 00:41:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 00:41:50.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:00:42.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [The Parrots and the Bats]
-[10Aug2025 01:03:24.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:03:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:04:21.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Suit Up]
-[10Aug2025 01:06:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
-[10Aug2025 01:06:18.644] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:06:47.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[10Aug2025 01:06:47.641] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:07:29.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
-[10Aug2025 01:07:29.743] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:09:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Take Aim]
-[10Aug2025 01:09:51.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:46517] logged in with entity id 26540 at (-301.69999998807907, 6.0, 205.4373839130422)
-[10Aug2025 01:09:51.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
-[10Aug2025 01:09:51.981] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
-[10Aug2025 01:10:55.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 01:11:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Suit Up]
-[10Aug2025 01:13:28.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Enderman
-[10Aug2025 01:13:28.843] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:13:35.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
-[10Aug2025 01:13:35.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
-[10Aug2025 01:13:50.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Timed out
-[10Aug2025 01:13:50.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
-[10Aug2025 01:13:56.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:58433] logged in with entity id 27335 at (-569.9972723316073, 80.0, 515.3025716942204)
-[10Aug2025 01:13:56.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
-[10Aug2025 01:13:56.710] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
-[10Aug2025 01:14:11.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:58197] logged in with entity id 27602 at (-569.3187025285649, 80.0, 517.082817747449)
-[10Aug2025 01:14:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[10Aug2025 01:14:11.950] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[10Aug2025 01:14:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Knowledge of Death]
-[10Aug2025 01:14:19.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Ashes 'n Bones]
-[10Aug2025 01:14:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to -563.500000, 79.000000, 523.500000]
-[10Aug2025 01:14:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Knowledge raises the soul]
-[10Aug2025 01:16:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[10Aug2025 01:16:45.940] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:17:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[10Aug2025 01:17:46.296] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:18:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[10Aug2025 01:18:07.042] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:18:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was incinerated by Fire Dragon
-[10Aug2025 01:18:10.458] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 01:18:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has reached the goal [Chain Death]
-[10Aug2025 01:18:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
-[10Aug2025 01:18:57.444] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 01:19:00.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has reached the goal [Discreet Search]
-[10Aug2025 01:19:05.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[10Aug2025 01:19:05.948] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:19:34.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
-[10Aug2025 01:19:34.893] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:19:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
-[10Aug2025 01:19:40.241] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 01:20:04.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
-[10Aug2025 01:20:04.345] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:20:07.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
-[10Aug2025 01:20:07.403] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 01:20:33.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
-[10Aug2025 01:20:33.942] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:20:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
-[10Aug2025 01:20:56.546] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 01:20:59.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
-[10Aug2025 01:20:59.155] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 01:21:36.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Dragonslayer]
-[10Aug2025 01:22:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Diamonds!]
-[10Aug2025 01:22:40.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by 2apjnas
-[10Aug2025 01:22:40.394] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 01:22:41.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Funeral Theft]
-[10Aug2025 01:27:56.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:28:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:32:17.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:32:27.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 01:32:32.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:32:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 01:32:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 01:33:00.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:33:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:33:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 01:34:29.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:34:34.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 01:34:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:34:57.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 01:36:54.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:36:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 01:36:57.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:37:00.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:37:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 01:37:01.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 01:37:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:37:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:37:03.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 01:37:04.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:37:08.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 01:37:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:37:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:37:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:37:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:37:22.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 01:39:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:39:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:39:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:39:42.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:39:43.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 01:39:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:40:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 01:40:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 01:40:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:40:54.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 01:42:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:42:24.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:06.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:23.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:23.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:23.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:24.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:25.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:28.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:43:28.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:43:30.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 01:44:23.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
-[10Aug2025 01:44:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
-[10Aug2025 01:44:36.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:36003] logged in with entity id 38144 at (-652.6154863050161, -43.0, 197.1396546978904)
-[10Aug2025 01:44:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[10Aug2025 01:44:36.215] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[10Aug2025 01:45:00.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:46:36.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Timed out
-[10Aug2025 01:46:36.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
-[10Aug2025 01:47:12.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:41857] logged in with entity id 38875 at (-639.5262984103168, -39.0, 165.3715623615385)
-[10Aug2025 01:47:12.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[10Aug2025 01:47:12.473] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[10Aug2025 01:47:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
-[10Aug2025 01:47:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 01:47:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
-[10Aug2025 01:47:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 01:55:25.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Take Aim]
-[10Aug2025 01:56:35.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/38344, l='ServerLevel[world]', x=-446.30, y=65.00, z=344.09] died, message: 'Armorer was shot by NoobToMC'
-[10Aug2025 01:56:35.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Neighborhood Brawl]
-[10Aug2025 02:00:46.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[10Aug2025 02:02:52.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [NoobToMC] hola
-[10Aug2025 02:05:38.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Zombie]
-[10Aug2025 02:05:41.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [A Strange Grave Dust]
-[10Aug2025 02:06:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Bee]
-[10Aug2025 02:07:29.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Arrow]
-[10Aug2025 02:07:43.246] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
-net.minecraft.ReportedException: Loading entity NBT
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
-	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.CompoundTag.m_128461_(String)" because "nbt" is null
-	at com.ferreusveritas.dynamictrees.util.BranchDestructionData.<init>(BranchDestructionData.java:123) ~[DynamicTrees-1.20.1-1.4.5.jar%23122!/:1.20.1-1.4.5]
-	at com.ferreusveritas.dynamictrees.entity.FallingTreeEntity.setupFromNBT(FallingTreeEntity.java:182) ~[DynamicTrees-1.20.1-1.4.5.jar%23122!/:1.20.1-1.4.5]
-	at com.ferreusveritas.dynamictrees.entity.FallingTreeEntity.m_7378_(FallingTreeEntity.java:502) ~[DynamicTrees-1.20.1-1.4.5.jar%23122!/:1.20.1-1.4.5]
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1750) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	... 27 more
-[10Aug2025 02:07:51.838] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
-net.minecraft.ReportedException: Loading entity NBT
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
-	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.CompoundTag.m_128461_(String)" because "nbt" is null
-	at com.ferreusveritas.dynamictrees.util.BranchDestructionData.<init>(BranchDestructionData.java:123) ~[DynamicTrees-1.20.1-1.4.5.jar%23122!/:1.20.1-1.4.5]
-	at com.ferreusveritas.dynamictrees.entity.FallingTreeEntity.setupFromNBT(FallingTreeEntity.java:182) ~[DynamicTrees-1.20.1-1.4.5.jar%23122!/:1.20.1-1.4.5]
-	at com.ferreusveritas.dynamictrees.entity.FallingTreeEntity.m_7378_(FallingTreeEntity.java:502) ~[DynamicTrees-1.20.1-1.4.5.jar%23122!/:1.20.1-1.4.5]
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1750) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	... 27 more
-[10Aug2025 02:08:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Bat]
-[10Aug2025 02:08:34.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Cat]
-[10Aug2025 02:08:55.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 02:09:00.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 02:10:37.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Potion]
-[10Aug2025 02:11:25.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Summoned new Cockatrice]
-[10Aug2025 02:11:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Allay]
-[10Aug2025 02:12:43.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Strength to NoobToMC]
-[10Aug2025 02:14:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Summoned new Myrmex Worker]
-[10Aug2025 02:15:03.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Creeper]
-[10Aug2025 02:15:22.400] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
-net.minecraft.ReportedException: Loading entity NBT
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
-	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.NullPointerException
-[10Aug2025 02:16:25.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Summoned new Myrmex Royal]
-[10Aug2025 02:17:00.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Summoned new Dragon Egg]
-[10Aug2025 02:17:14.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Mother of Dragons]
-[10Aug2025 02:17:30.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Creeper]
-[10Aug2025 02:17:32.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
-[10Aug2025 02:17:32.040] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 02:18:00.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 02:18:13.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 6.935234716737909,-0.45463636255183104,-7.447201499803612
-[10Aug2025 02:18:17.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
-[10Aug2025 02:18:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 02:18:48.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Summoned new Hippogryph]
-[10Aug2025 02:20:08.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Allay]
-[10Aug2025 02:22:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [You've Got a Friend in Me]
-[10Aug2025 02:22:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Zombie
-[10Aug2025 02:22:01.844] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 02:22:30.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Not Today, Thank You]
-[10Aug2025 02:24:01.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
-[10Aug2025 02:24:53.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
-[10Aug2025 02:26:43.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
-[10Aug2025 02:26:43.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
-[10Aug2025 02:29:33.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
-[10Aug2025 02:29:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
-[10Aug2025 03:43:34.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:53281] logged in with entity id 46795 at (-535.6890808858045, 64.0, 407.48219087748595)
-[10Aug2025 03:43:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
-[10Aug2025 03:43:34.750] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
-[10Aug2025 03:44:09.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Timed out
-[10Aug2025 03:44:09.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
-[10Aug2025 03:44:19.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:38513] logged in with entity id 47050 at (-535.6890808858045, 64.0, 407.48219087748595)
-[10Aug2025 03:44:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
-[10Aug2025 03:44:19.748] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
-[10Aug2025 03:45:43.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:49973] logged in with entity id 47621 at (-566.6338177892676, 76.0, 481.9877976344387)
-[10Aug2025 03:45:43.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[10Aug2025 03:45:43.574] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[10Aug2025 03:46:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 03:46:13.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 03:46:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 03:46:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 03:46:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 03:46:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 03:46:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 03:47:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 03:47:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 03:47:20.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 03:47:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 03:47:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Adventure Mode]
-[10Aug2025 03:47:30.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 03:47:33.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 03:48:48.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 03:48:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 03:49:11.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Quite the Renovation]
-[10Aug2025 03:49:15.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Quite the Renovation]
-[10Aug2025 03:50:09.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 03:50:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 03:50:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 03:50:50.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Best Friends Forever]
-[10Aug2025 03:51:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 03:52:05.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Timed out
-[10Aug2025 03:52:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
-[10Aug2025 03:52:18.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@306093b0[id=<null>,name=NoobToMC,properties={},legacy=false] (/127.30.169.203:59285) lost connection: Disconnected
-[10Aug2025 03:52:24.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:38291] logged in with entity id 49796 at (-689.3173462105232, 78.0, 679.0021299847944)
-[10Aug2025 03:52:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
-[10Aug2025 03:52:24.587] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
-[10Aug2025 03:55:26.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 03:59:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 03:59:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 03:59:35.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 04:02:16.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 13000]
-[10Aug2025 04:02:50.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
-[10Aug2025 04:03:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to 2apjnas]
-[10Aug2025 04:03:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[10Aug2025 04:04:03.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:04:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:04:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 04:04:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 04:04:55.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
-[10Aug2025 04:06:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:06:27.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:06:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:08:17.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[10Aug2025 04:08:17.538] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:09:12.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas suffocated in a wall whilst fighting Fire Dragon
-[10Aug2025 04:09:12.189] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:09:23.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has reached the goal [Strong or Careful]
-[10Aug2025 04:09:23.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was incinerated by Fire Dragon
-[10Aug2025 04:09:23.290] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:09:56.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
-[10Aug2025 04:09:56.799] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:10:03.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC walked into fire whilst fighting Fire Dragon
-[10Aug2025 04:10:03.240] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:10:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[10Aug2025 04:10:18.793] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:10:58.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Mother of Dragons]
-[10Aug2025 04:13:38.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:14:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:14:19.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:14:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:14:27.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:14:33.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:14:52.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -6.349495042594981,0.0,8.649562559152969
-[10Aug2025 04:14:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 04:15:02.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
-[10Aug2025 04:15:04.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 8.706022002640339,0.0,5.513203500358486
-[10Aug2025 04:15:08.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to 2apjnas]
-[10Aug2025 04:15:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 04:15:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Cobweb Entanglement]
-[10Aug2025 04:16:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:16:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 04:16:14.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Cobweb Entanglement]
-[10Aug2025 04:16:20.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:16:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[10Aug2025 04:17:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 04:19:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Your First Receptacle]
-[10Aug2025 04:19:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Your First Receptacle]
-[10Aug2025 04:19:58.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:20:02.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:21:18.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
-[10Aug2025 04:21:18.889] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:21:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:22:08.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:22:09.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [My Name is Nobody]
-[10Aug2025 04:22:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
-[10Aug2025 04:22:24.591] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:22:31.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:22:36.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 04:22:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:23:15.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:24:11.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 04:24:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:24:39.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:24:55.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:24:57.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:25:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:25:07.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:25:20.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ice Dragon
-[10Aug2025 04:25:20.539] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:25:22.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
-[10Aug2025 04:25:22.641] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:25:48.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:25:51.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:27:28.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:28:09.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[10Aug2025 04:28:52.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:29:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:29:47.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:30:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
-[10Aug2025 04:30:43.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:30:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:30:54.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Frostmaw
-[10Aug2025 04:30:54.331] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-04.30.54.dat
-[10Aug2025 04:30:54.332] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 113 Y: 71 Z: 1231
-[10Aug2025 04:30:54.340] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:31:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has completed the challenge [Rude Awakening]
-[10Aug2025 04:32:31.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:32:34.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:32:55.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
-[10Aug2025 04:33:28.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:33:29.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:34:11.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:34:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:34:14.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:34:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:34:32.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:34:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:34:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
-[10Aug2025 04:35:04.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:35:14.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:35:59.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:36:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:36:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:36:11.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:36:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:36:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:36:52.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -5.349761421184468,-3.369388557363093,-8.210254801864721
-[10Aug2025 04:36:58.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -8.647639826990712,0.10049803905230847,-6.030692943449139
-[10Aug2025 04:37:02.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -7.46811859294624,0.0,-7.251619103707412
-[10Aug2025 04:37:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
-[10Aug2025 04:37:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:37:51.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:37:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
-[10Aug2025 04:37:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:38:06.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[10Aug2025 04:38:06.837] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-04.38.06.dat
-[10Aug2025 04:38:06.838] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -404 Y: 33 Z: 818
-[10Aug2025 04:38:06.846] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:38:17.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:40:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[10Aug2025 04:40:11.243] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:43:03.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
-[10Aug2025 04:43:36.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
-[10Aug2025 04:44:27.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ferrous Wroughtnaut
-[10Aug2025 04:44:27.338] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:44:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[10Aug2025 04:44:30.937] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-04.44.30.dat
-[10Aug2025 04:44:30.937] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -403 Y: 33 Z: 813
-[10Aug2025 04:44:30.950] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:44:53.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ferrous Wroughtnaut
-[10Aug2025 04:44:53.541] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:45:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[10Aug2025 04:45:54.036] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-04.45.54.dat
-[10Aug2025 04:45:54.037] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -408 Y: 33 Z: 812
-[10Aug2025 04:45:54.046] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:48:27.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has completed the challenge [Just a Flesh Wound]
-[10Aug2025 04:49:18.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:49:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:49:43.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
-[10Aug2025 04:50:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 04:50:43.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
-[10Aug2025 04:51:56.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:52:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
-[10Aug2025 04:52:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ice Dragon
-[10Aug2025 04:52:25.338] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_10.08.2025-04.52.25.dat
-[10Aug2025 04:52:25.339] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 377 Y: -2 Z: 832
-[10Aug2025 04:52:25.344] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:52:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:52:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:53:17.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to 2apjnas]
-[10Aug2025 04:53:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was frozen by Ice Dragon
-[10Aug2025 04:53:26.595] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:53:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:53:29.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
-[10Aug2025 04:53:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:53:59.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:54:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was turned to ice by Ice Dragon
-[10Aug2025 04:54:00.439] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:54:07.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:54:11.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 04:54:21.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:54:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned to ice by Ice Dragon
-[10Aug2025 04:54:30.659] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:54:35.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:54:43.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:54:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:55:04.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
-[10Aug2025 04:55:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:56:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:56:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 04:56:07.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:56:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Ice Dragon
-[10Aug2025 04:56:23.194] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
-[10Aug2025 04:56:47.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -6.775808725924435,-0.5474786902142199,8.51742809384325
-[10Aug2025 04:56:53.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:56:54.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas hit the ground too hard
-[10Aug2025 04:56:54.665] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 04:56:58.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 04:57:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 04:57:12.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:58:03.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
-[10Aug2025 04:58:12.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 04:59:00.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 04:59:47.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 04:59:50.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 05:00:13.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 05:00:13.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/76493, l='ServerLevel[world]', x=286.56, y=69.00, z=669.42] died, message: 'Farmer was frozen by Ice Dragon'
-[10Aug2025 05:00:17.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas was kicked for floating too long!
-[10Aug2025 05:00:17.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Flying is not enabled on this server
-[10Aug2025 05:00:17.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
-[10Aug2025 05:00:21.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 05:00:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
-[10Aug2025 05:01:18.432] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/76446, l='ServerLevel[world]', x=285.18, y=69.50, z=670.44] died, message: 'Unemployed was pricked to death'
-[10Aug2025 05:01:42.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:33307] logged in with entity id 78224 at (224.4436715172741, 64.2042300853093, 726.8460484007571)
-[10Aug2025 05:01:42.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[10Aug2025 05:01:42.226] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[10Aug2025 05:01:52.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Adventure Mode]
-[10Aug2025 05:01:55.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 05:02:11.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[10Aug2025 05:02:37.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported 2apjnas to NoobToMC]
-[10Aug2025 05:03:31.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 05:03:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
-[10Aug2025 05:03:51.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ice Dragon
-[10Aug2025 05:03:51.990] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[10Aug2025 05:03:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
-[10Aug2025 05:04:13.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[10Aug2025 05:04:26.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
-[10Aug2025 05:04:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
-[10Aug2025 05:05:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Draconic Evolution]
-[10Aug2025 05:06:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Dragonslayer]
-[10Aug2025 05:06:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[10Aug2025 05:06:48.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
-[10Aug2025 05:06:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[10Aug2025 18:53:45.191] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Aug2025 18:53:45.196] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[10Aug2025 18:53:47.734] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Aug2025 18:53:47.848] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Aug2025 18:53:48.209] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 18:53:48.212] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 18:53:48.213] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 18:53:48.215] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Aug2025 18:53:48.544] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[10Aug2025 18:53:50.520] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Aug2025 18:53:50.567] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Aug2025 18:53:50.793] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
+[10Aug2025 18:53:51.859] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[10Aug2025 18:53:59.074] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Aug2025 18:53:59.074] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Aug2025 18:54:01.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[10Aug2025 18:54:01.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
+[10Aug2025 18:54:01.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Aug2025 18:54:01.718] [main/INFO] [journeymap/]: Initializing Packet Registries
+[10Aug2025 18:54:01.770] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[10Aug2025 18:54:01.770] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[10Aug2025 18:54:01.771] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[10Aug2025 18:54:01.771] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[10Aug2025 18:54:01.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[10Aug2025 18:54:01.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[10Aug2025 18:54:01.889] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[10Aug2025 18:54:01.896] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[10Aug2025 18:54:01.908] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[10Aug2025 18:54:01.912] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[10Aug2025 18:54:01.915] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[10Aug2025 18:54:01.916] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[10Aug2025 18:54:02.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[10Aug2025 18:54:02.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[10Aug2025 18:54:02.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.5 Target: null
+[10Aug2025 18:54:02.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[10Aug2025 18:54:02.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[10Aug2025 18:54:02.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[10Aug2025 18:54:02.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[10Aug2025 18:54:02.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[10Aug2025 18:54:02.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[10Aug2025 18:54:02.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[10Aug2025 18:54:02.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
+[10Aug2025 18:54:03.811] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Aug2025 18:54:05.179] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
+[10Aug2025 18:54:05.179] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
+[10Aug2025 18:54:07.288] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
+	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23142!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[10Aug2025 18:54:07.300] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[10Aug2025 18:54:07.439] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2749 advancements
+[10Aug2025 18:54:08.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Aug2025 18:54:08.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Aug2025 18:54:08.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Aug2025 18:54:08.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Aug2025 18:54:08.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Aug2025 18:54:08.624] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Aug2025 18:54:08.720] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Aug2025 18:54:08.721] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Aug2025 18:54:08.721] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Aug2025 18:54:08.721] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Aug2025 18:54:08.746] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Aug2025 18:54:08.749] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Aug2025 18:54:08.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Aug2025 18:54:12.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Aug2025 18:54:13.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:13.530] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:13.531] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:13.735] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:14.501] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:14.734] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:17.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:17.390] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:17.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:17.399] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:17.403] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:17.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:18.235] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Aug2025 18:54:18.732] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[10Aug2025 18:54:19.232] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[10Aug2025 18:54:19.475] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7244 ms
+[10Aug2025 18:54:19.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.740s)! For help, type "help"
+[10Aug2025 18:54:19.514] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Aug2025 18:54:19.547] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[10Aug2025 18:54:19.547] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10Aug2025 19:01:30.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:43677] logged in with entity id 427 at (-205.69999998807907, 119.0, 592.9306361120358)
+[10Aug2025 19:01:30.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[10Aug2025 19:01:30.564] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[10Aug2025 19:01:32.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[10Aug2025 19:03:59.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 19:04:39.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.659272539106325,0.0,3.3771354518423777
+[10Aug2025 19:04:51.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 7.470324077112366,0.0,7.761184211396312
+[10Aug2025 19:05:20.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 19:05:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 19:05:39.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.30.169.203:48993] logged in with entity id 2511 at (-47.155017372415394, 70.23301546726603, 833.582755325309)
+[10Aug2025 19:05:39.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[10Aug2025 19:05:39.208] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[10Aug2025 19:05:55.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 19:07:23.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 19:07:28.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 19:07:35.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[10Aug2025 19:07:49.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 19:08:00.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 19:10:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[10Aug2025 19:10:33.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 19:10:49.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[10Aug2025 19:11:18.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> we
+[10Aug2025 19:11:27.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> te llamo
+[10Aug2025 19:11:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> oe
+[10Aug2025 19:11:32.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> si llamame
+[10Aug2025 19:11:36.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[10Aug2025 19:12:37.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Frostmaw
+[10Aug2025 19:12:37.140] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[10Aug2025 19:12:45.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[10Aug2025 19:12:53.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[10Aug2025 19:13:17.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Frostmaw
+[10Aug2025 19:13:17.762] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
