@@ -3399,3 +3399,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Aug2025 02:35:15.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
 [12Aug2025 02:38:55.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Aug2025 02:38:55.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 02:43:55.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 02:43:55.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 02:48:55.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 02:48:55.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
