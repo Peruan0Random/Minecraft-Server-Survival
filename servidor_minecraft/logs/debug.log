@@ -3071,3 +3071,34 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Aug2025 00:25:22.362] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1e99853e into net.minecraft.network.Connection@7ddd54e4
 [12Aug2025 00:25:22.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
 [12Aug2025 00:25:22.392] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[12Aug2025 00:29:52.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 00:29:52.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 00:34:52.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 00:34:52.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 00:35:06.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 0.306496872455682
+[12Aug2025 00:35:06.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 2apjnas) moved wrongly! 0.478872411216571
+[12Aug2025 00:35:18.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[12Aug2025 00:36:16.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5225, l='ServerLevel[world]', x=-772.63, y=67.00, z=1776.72] died, message: 'Unemployed suffocated in a wall'
+[12Aug2025 00:36:36.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 14.69309418007657,0.0,-0.10183147738416665
+[12Aug2025 00:36:47.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 15.266155710907782,0.0,0.594727098870635
+[12Aug2025 00:37:00.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 10.706754443560653,0.0,-3.215316948685768
+[12Aug2025 00:37:21.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 2.2541997877805002,0.0,-9.949130560510412
+[12Aug2025 00:37:21.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4621ms or 92 ticks behind
+[12Aug2025 00:37:22.839] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-93, y=64, z=1681}
+[12Aug2025 00:37:22.839] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[12Aug2025 00:37:22.839] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[12Aug2025 00:37:22.839] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxP0+fX0n1Xb+uuvXb60nWvX0mnz6+t1+fXzen176Wn16
+[12Aug2025 00:37:22.880] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-8, y=62, z=1682}
+[12Aug2025 00:37:22.880] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[12Aug2025 00:37:22.880] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[12Aug2025 00:37:22.880] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxJ+Xz8+mXz89yy97z9+SyX09+b0fufv0mXz8nty9z9+SyWX09+nty9+mbzfvmXmb8y89z9ty+fv
+[12Aug2025 00:37:22.900] [Worker-Main-35/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=10, y=67, z=1683}
+[12Aug2025 00:37:22.900] [Worker-Main-35/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[12Aug2025 00:37:22.900] [Worker-Main-35/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[12Aug2025 00:37:22.900] [Worker-Main-35/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxJ+Xz8+WV8+bvty9+bc+mSy98zfi9tXkn
+[12Aug2025 00:37:24.229] [Worker-Main-34/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=253, y=68, z=1683}
+[12Aug2025 00:37:24.230] [Worker-Main-34/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[12Aug2025 00:37:24.230] [Worker-Main-34/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[12Aug2025 00:37:24.230] [Worker-Main-34/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxOPXny+b+k9+bz+nv0yXmfnuXt+Sy+k99uXz9
+[12Aug2025 00:37:47.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -4.661873608718196,-4.8732039342523805,-7.433196966056357
+[12Aug2025 00:37:56.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 14.295056522409837,0.0,4.017531372346184
