@@ -241,3 +241,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Aug2025 02:26:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
 [12Aug2025 02:26:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
 [12Aug2025 02:27:40.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to NoobToMC: tencuidado
+[12Aug2025 02:32:47.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[12Aug2025 02:33:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[12Aug2025 02:34:24.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[12Aug2025 02:35:15.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[12Aug2025 02:35:15.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
