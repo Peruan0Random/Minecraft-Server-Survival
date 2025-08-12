@@ -1,49 +1,49 @@
-[12Aug2025 01:25:54.962] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Aug2025 01:25:54.966] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[12Aug2025 01:25:55.701] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Aug2025 01:25:55.779] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[12Aug2025 01:25:56.061] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 01:25:56.066] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 01:25:56.068] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 01:25:56.070] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Aug2025 01:25:56.263] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[12Aug2025 01:25:58.392] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Aug2025 01:25:58.465] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[12Aug2025 01:25:58.633] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
-[12Aug2025 01:25:59.690] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[12Aug2025 01:26:06.530] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[12Aug2025 01:26:06.530] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[12Aug2025 01:26:09.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[12Aug2025 01:26:09.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
-[12Aug2025 01:26:09.517] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Aug2025 01:26:09.622] [main/INFO] [journeymap/]: Initializing Packet Registries
-[12Aug2025 01:26:09.693] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[12Aug2025 01:26:09.694] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[12Aug2025 01:26:09.694] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[12Aug2025 01:26:09.695] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[12Aug2025 01:26:09.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[12Aug2025 01:26:09.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[12Aug2025 01:26:09.804] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[12Aug2025 01:26:09.817] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[12Aug2025 01:26:09.856] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[12Aug2025 01:26:09.870] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[12Aug2025 01:26:09.878] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
-[12Aug2025 01:26:09.893] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[12Aug2025 01:26:09.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[12Aug2025 01:26:09.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[12Aug2025 01:26:10.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.5 Target: null
-[12Aug2025 01:26:10.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[12Aug2025 01:26:10.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[12Aug2025 01:26:10.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[12Aug2025 01:26:10.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
-[12Aug2025 01:26:10.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[12Aug2025 01:26:10.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[12Aug2025 01:26:10.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[12Aug2025 01:26:10.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
-[12Aug2025 01:26:11.858] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Aug2025 01:26:13.064] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
-[12Aug2025 01:26:13.065] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
-[12Aug2025 01:26:15.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[12Aug2025 02:08:22.023] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[12Aug2025 02:08:22.027] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[12Aug2025 02:08:22.737] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[12Aug2025 02:08:22.798] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[12Aug2025 02:08:23.073] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[12Aug2025 02:08:23.076] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[12Aug2025 02:08:23.077] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[12Aug2025 02:08:23.079] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[12Aug2025 02:08:23.241] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[12Aug2025 02:08:25.171] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12Aug2025 02:08:25.225] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[12Aug2025 02:08:25.416] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
+[12Aug2025 02:08:26.716] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[12Aug2025 02:08:33.589] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[12Aug2025 02:08:33.590] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[12Aug2025 02:08:36.658] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[12Aug2025 02:08:36.741] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
+[12Aug2025 02:08:36.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Aug2025 02:08:36.793] [main/INFO] [journeymap/]: Initializing Packet Registries
+[12Aug2025 02:08:36.842] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[12Aug2025 02:08:36.843] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[12Aug2025 02:08:36.844] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[12Aug2025 02:08:36.844] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[12Aug2025 02:08:36.977] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[12Aug2025 02:08:36.999] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[12Aug2025 02:08:37.005] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[12Aug2025 02:08:37.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[12Aug2025 02:08:37.034] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[12Aug2025 02:08:37.038] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[12Aug2025 02:08:37.040] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[12Aug2025 02:08:37.041] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[12Aug2025 02:08:37.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[12Aug2025 02:08:37.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[12Aug2025 02:08:37.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.5 Target: null
+[12Aug2025 02:08:37.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[12Aug2025 02:08:37.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[12Aug2025 02:08:37.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[12Aug2025 02:08:37.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[12Aug2025 02:08:37.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[12Aug2025 02:08:37.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[12Aug2025 02:08:37.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[12Aug2025 02:08:37.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
+[12Aug2025 02:08:38.932] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Aug2025 02:08:40.246] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
+[12Aug2025 02:08:40.246] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
+[12Aug2025 02:08:42.297] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
 	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
 	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23142!/:?]
@@ -72,52 +72,172 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[12Aug2025 01:26:15.108] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[12Aug2025 01:26:15.237] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2749 advancements
-[12Aug2025 01:26:16.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[12Aug2025 01:26:16.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Aug2025 01:26:16.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Aug2025 01:26:16.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Aug2025 01:26:16.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Aug2025 01:26:16.527] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Aug2025 01:26:16.615] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12Aug2025 01:26:16.617] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[12Aug2025 01:26:16.617] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12Aug2025 01:26:16.617] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[12Aug2025 01:26:16.644] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Aug2025 01:26:16.645] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Aug2025 01:26:16.647] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Aug2025 01:26:16.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Aug2025 01:26:19.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Aug2025 01:26:23.625] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.651] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.675] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.685] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.707] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.712] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:23.750] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:24.250] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:24.749] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Aug2025 01:26:25.248] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[12Aug2025 01:26:25.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[12Aug2025 01:26:25.901] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6154 ms
-[12Aug2025 01:26:25.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.267s)! For help, type "help"
-[12Aug2025 01:26:25.933] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Aug2025 01:26:25.965] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[12Aug2025 01:26:25.966] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[12Aug2025 01:42:22.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:41571] logged in with entity id 423 at (38.5098782484085, 4.808950772407203, 171.070000271367)
-[12Aug2025 01:42:22.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[12Aug2025 01:42:22.823] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[12Aug2025 01:43:20.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.562346070898457,-3.352387552436962,2.087758907578859
-[12Aug2025 01:43:30.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.727118795139859,0.0,-0.3426027264650884
-[12Aug2025 01:45:08.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.75.70.31:36301] logged in with entity id 2349 at (105.22144570173296, -38.0, 918.5203677796469)
-[12Aug2025 01:45:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
-[12Aug2025 01:45:08.037] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
-[12Aug2025 01:45:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to NoobToMC]
-[12Aug2025 01:45:50.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[12Aug2025 01:45:52.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[12Aug2025 01:45:54.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[12Aug2025 01:46:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[12Aug2025 01:46:02.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[12Aug2025 02:08:42.306] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[12Aug2025 02:08:42.422] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2749 advancements
+[12Aug2025 02:08:43.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[12Aug2025 02:08:43.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Aug2025 02:08:43.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Aug2025 02:08:43.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Aug2025 02:08:43.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Aug2025 02:08:43.603] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Aug2025 02:08:43.681] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Aug2025 02:08:43.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Aug2025 02:08:43.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Aug2025 02:08:43.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Aug2025 02:08:43.706] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Aug2025 02:08:43.707] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Aug2025 02:08:43.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Aug2025 02:08:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Aug2025 02:08:51.619] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.654] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.664] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.679] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.691] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.727] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.739] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.747] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:51.830] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Aug2025 02:08:52.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[12Aug2025 02:08:52.366] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[12Aug2025 02:08:52.830] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[12Aug2025 02:08:52.981] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6152 ms
+[12Aug2025 02:08:52.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.284s)! For help, type "help"
+[12Aug2025 02:08:53.024] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Aug2025 02:08:53.057] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[12Aug2025 02:08:53.058] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[12Aug2025 02:08:59.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.75.70.31:41505] logged in with entity id 421 at (-978.723825064054, 72.0, 1391.6493265448062)
+[12Aug2025 02:08:59.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[12Aug2025 02:08:59.453] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[12Aug2025 02:09:02.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[12Aug2025 02:09:03.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:36437] logged in with entity id 644 at (-1055.7029483974197, 63.79808846209456, 1390.0062573528799)
+[12Aug2025 02:09:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[12Aug2025 02:09:04.020] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[12Aug2025 02:09:35.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [What a Deal!]
+[12Aug2025 02:12:26.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Splintering II]
+[12Aug2025 02:12:56.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Cockatrice]
+[12Aug2025 02:13:51.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[12Aug2025 02:14:08.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.8270209848942613
+[12Aug2025 02:14:08.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.8270209848942613
+[12Aug2025 02:14:08.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.8270209848942613
+[12Aug2025 02:14:08.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.8270209848942613
+[12Aug2025 02:14:08.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.8270209848942613
+[12Aug2025 02:17:20.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[12Aug2025 02:17:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Made 2apjnas no longer a server operator]
+[12Aug2025 02:17:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[12Aug2025 02:18:05.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.7951440301271759
+[12Aug2025 02:18:05.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.8148554698348622
+[12Aug2025 02:18:05.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.6026272032794395
+[12Aug2025 02:18:05.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 2.5070519803759908
+[12Aug2025 02:18:06.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.4707703502253935
+[12Aug2025 02:18:06.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.2400711354495115
+[12Aug2025 02:18:06.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.6517086474200369
+[12Aug2025 02:18:06.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.8719676729089088
+[12Aug2025 02:18:27.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[12Aug2025 02:18:57.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -11.254349169222223,0.0,2.4331025936619426
+[12Aug2025 02:18:57.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 9.42815765014825,0.0,-3.3432272746319995
+[12Aug2025 02:18:57.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -12.979604855720936,0.0,2.6986374361547405
+[12Aug2025 02:18:57.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 10.806457323907125,0.0,-3.744601060418745
+[12Aug2025 02:18:57.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -14.715660992118956,0.0,2.997777133196905
+[12Aug2025 02:18:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 12.191297629885412,0.0,-4.127667592761782
+[12Aug2025 02:18:57.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -16.444455086328162,0.0,3.3671321298654675
+[12Aug2025 02:18:57.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 13.581906773481137,0.0,-4.494587127567456
+[12Aug2025 02:18:57.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -18.151047331317613,0.0,3.8237705553556225
+[12Aug2025 02:18:57.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 14.977604031855435,0.0,-4.847265010545243
+[12Aug2025 02:18:57.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -19.8690279323057,0.0,4.280558491938109
+[12Aug2025 02:18:57.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -12.046517204746806,0.0,2.576019522599381
+[12Aug2025 02:18:57.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -13.783401611177851,0.0,3.0330556362323478
+[12Aug2025 02:18:57.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.724806643228703,0.0,2.594446354280308
+[12Aug2025 02:18:57.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.724806643228703,0.0,2.594446354280308
+[12Aug2025 02:18:57.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.724806643228703,0.0,2.594446354280308
+[12Aug2025 02:18:57.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.724806643228703,0.0,2.594446354280308
+[12Aug2025 02:18:57.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.724806643228703,0.0,2.594446354280308
+[12Aug2025 02:19:23.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Made 2apjnas a server operator]
+[12Aug2025 02:20:05.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -4.5623014212028465,0.0,-9.055483435103042
+[12Aug2025 02:20:05.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -5.238435230812797,0.0,-10.339055320916714
+[12Aug2025 02:20:05.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -5.894681760104142,0.12510151313169615,-11.57813788219596
+[12Aug2025 02:20:05.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -6.5333877081544784,0.360542560845559,-12.777980859236095
+[12Aug2025 02:20:05.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -7.15662286355024,0.6933030780608931,-13.943214522977314
+[12Aug2025 02:20:05.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -7.790179940518094,0.9867978542448128,-15.120726917970842
+[12Aug2025 02:20:05.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -8.432840952312532,1.2456602468390372,-16.30906915392893
+[12Aug2025 02:20:05.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.083531634624023,1.473976877107134,-17.50696330961773
+[12Aug2025 02:20:05.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.74130448633155,1.6753521450036004,-18.713282258509025
+[12Aug2025 02:20:05.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -10.40532381144638,1.8529651312882862,-19.927031875005014
+[12Aug2025 02:20:05.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -11.074852526106454,2.0096197851913757,-21.147335340328254
+[12Aug2025 02:20:05.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -11.749240522345431,2.1477891899339028,-22.37341930031721
+[12Aug2025 02:20:05.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -8.537121078633433,2.269654604916809,-15.834600741044369
+[12Aug2025 02:20:05.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.21957511298799,2.3771399009317378,-17.070279882860632
+[12Aug2025 02:20:05.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.905363241197506,2.471941932016904,-18.309925189516434
+[12Aug2025 02:20:06.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -4.9298676549292395,0.17205825974750155,-8.831155979477671
+[12Aug2025 02:20:12.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -8.07852130576876,0.0,-6.530943674811169
+[12Aug2025 02:20:12.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.23271667882922,0.0,-7.464030132818607
+[12Aug2025 02:20:13.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -8.263500970921498,0.0,-5.884063768818805
+[12Aug2025 02:20:13.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.383404053588293,0.0,-6.800199466898675
+[12Aug2025 02:20:13.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -10.495355611191798,0.0,-7.726726521137152
+[12Aug2025 02:20:13.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -11.614704621221435,0.0,-8.645185181700754
+[12Aug2025 02:20:13.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -12.749256128238045,0.0,-9.543430234357857
+[12Aug2025 02:20:13.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -13.749930557426694,0.0,-10.335682370801578
+[12Aug2025 02:20:13.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -14.632525403971087,0.0,-11.034448755144922
+[12Aug2025 02:20:13.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -8.278875159586434,0.0,-6.668495173755673
+[12Aug2025 02:20:13.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -8.965466872989637,0.0,-7.212082314529425
+[12Aug2025 02:20:14.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.571040764211261,0.0,-7.691526172691965
+[12Aug2025 02:20:14.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -10.105156936268727,0.0,-8.114395655591352
+[12Aug2025 02:20:14.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -10.57624740002342,0.0,-8.487366539508685
+[12Aug2025 02:20:14.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -10.991749189055056,0.0,-8.816326859123592
+[12Aug2025 02:20:14.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -11.35822176698096,0.0,-9.106469861023925
+[12Aug2025 02:20:14.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -11.681450580711612,0.0,-9.362375988700023
+[12Aug2025 02:20:16.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -9.634476019348156,0.0,-3.7102755061814605
+[12Aug2025 02:20:21.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -3.425435993003731,0.0,-10.153721364057674
+[12Aug2025 02:20:23.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -3.2629296658318196,0.0,-10.384029624393634
+[12Aug2025 02:20:24.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.4215490131716138,0.0,-10.978248312782284
+[12Aug2025 02:20:24.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.5536021684592924,0.0,-12.385286081051504
+[12Aug2025 02:20:24.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.6441046323890873,0.0,-13.79597455802184
+[12Aug2025 02:20:24.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.697959386541214,0.0,-15.20988296006658
+[12Aug2025 02:20:24.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.7194908606694526,0.0,-16.62663133602689
+[12Aug2025 02:20:24.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.71251320181662,0.0,-18.045884568980682
+[12Aug2025 02:20:24.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.6803904876744866,0.0,-19.46734708580277
+[12Aug2025 02:20:24.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -0.38067520407219035,0.0,-11.314969388283089
+[12Aug2025 02:20:24.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -0.30681360917401435,0.0,-12.740099148420995
+[12Aug2025 02:20:25.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -0.218810629395648,0.0,-14.167191808994971
+[12Aug2025 02:20:25.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -0.12413741435085512,0.0,-15.596695019843423
+[12Aug2025 02:20:25.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -0.02761390754105264,0.0,-17.028679022677466
+[12Aug2025 02:20:25.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.06786524989445297,0.0,-18.46303367614587
+[12Aug2025 02:20:25.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.153427358735172,0.0,-19.899785974878796
+[12Aug2025 02:20:25.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.21946779725055876,0.0,-21.338399336339535
+[12Aug2025 02:20:25.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.2575524463587726,0.0,-22.7777248139123
+[12Aug2025 02:20:25.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.2651909559904766,0.0,-24.216893536753105
+[12Aug2025 02:20:25.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.23976413784271244,0.0,-25.65485687252692
+[12Aug2025 02:20:25.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.17377925660056803,0.0,-27.089178841271178
+[12Aug2025 02:20:25.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 0.06986098061889834,0.0,-28.519707072319875
+[12Aug2025 02:20:25.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -0.06751454952299696,0.0,-29.946889226721055
+[12Aug2025 02:20:25.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -0.234827521835399,0.0,-31.37100124076676
+[12Aug2025 02:20:28.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.429442836424812,0.0,-10.853638037944961
+[12Aug2025 02:20:28.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -2.7480043190875563,0.0,-12.15889870712374
+[12Aug2025 02:20:28.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! -3.072533974431934,0.0,-13.47617692393112
+[12Aug2025 02:20:36.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC was kicked for floating too long!
+[12Aug2025 02:20:36.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[12Aug2025 02:20:36.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[12Aug2025 02:20:36.943] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 02:20:44.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.75.70.31:40707] logged in with entity id 10228 at (-185.68551635742188, 65.95229758262634, 863.324951171875)
+[12Aug2025 02:20:44.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[12Aug2025 02:20:44.459] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[12Aug2025 02:21:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [A Flaming Sword]
+[12Aug2025 02:22:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[12Aug2025 02:22:01.405] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[12Aug2025 02:22:13.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2487, y=55, z=1664} BlockPos{x=-2487, y=56, z=1664}
+[12Aug2025 02:24:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[12Aug2025 02:24:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[12Aug2025 02:24:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[12Aug2025 02:24:40.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[12Aug2025 02:24:52.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[12Aug2025 02:25:00.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[12Aug2025 02:25:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[12Aug2025 02:25:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[12Aug2025 02:25:43.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_12.08.2025-02.25.43.dat
+[12Aug2025 02:25:43.490] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2989 Y: 80 Z: 1971
+[12Aug2025 02:25:43.506] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[12Aug2025 02:26:18.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
+[12Aug2025 02:26:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[12Aug2025 02:26:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[12Aug2025 02:27:40.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to NoobToMC: tencuidado
