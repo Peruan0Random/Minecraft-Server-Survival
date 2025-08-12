@@ -124,3 +124,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Aug2025 00:17:27.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [What a Deal!]
 [12Aug2025 00:17:48.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
 [12Aug2025 00:17:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[12Aug2025 00:25:22.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:53037] logged in with entity id 1759 at (-975.5721650603152, 78.0, 1367.4217458752644)
+[12Aug2025 00:25:22.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[12Aug2025 00:25:22.392] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
