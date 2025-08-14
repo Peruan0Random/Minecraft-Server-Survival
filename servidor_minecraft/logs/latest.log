@@ -119,3 +119,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Aug2025 01:18:23.838] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
 [14Aug2025 01:21:04.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
 [14Aug2025 01:22:19.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[14Aug2025 01:25:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Suit Up]
+[14Aug2025 01:26:47.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[14Aug2025 01:26:51.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 01:28:09.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[14Aug2025 01:28:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[14Aug2025 01:28:09.883] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Aug2025 01:28:25.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.75.70.31:40395] logged in with entity id 3349 at (-621.0878783945076, 70.0, 1020.8794795607357)
+[14Aug2025 01:28:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[14Aug2025 01:28:25.096] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[14Aug2025 01:33:06.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
