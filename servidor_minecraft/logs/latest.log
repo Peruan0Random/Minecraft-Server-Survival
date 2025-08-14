@@ -388,3 +388,20 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Aug2025 02:27:06.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
 [14Aug2025 02:27:12.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> abajo
 [14Aug2025 02:27:15.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> es?
+[14Aug2025 02:27:37.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> si
+[14Aug2025 02:27:43.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[14Aug2025 02:27:47.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 02:28:17.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
+[14Aug2025 02:28:24.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> se me lageo tod X
+[14Aug2025 02:28:54.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> nd
+[14Aug2025 02:28:57.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> asu
+[14Aug2025 02:29:04.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> me tengo q irw
+[14Aug2025 02:29:09.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> chao
+[14Aug2025 02:29:10.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> ala
+[14Aug2025 02:29:13.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
+[14Aug2025 02:29:13.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[14Aug2025 02:29:15.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> chao
+[14Aug2025 02:29:31.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[14Aug2025 02:30:05.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 02:31:03.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[14Aug2025 02:31:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
