@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:taiga": "2025-08-12 01:51:49 +0000",
       "minecraft:frozen_river": "2025-08-10 04:19:53 +0000",
+      "minecraft:sunflower_plains": "2025-08-14 01:57:25 +0000",
       "minecraft:birch_forest": "2025-08-10 01:41:06 +0000",
       "minecraft:windswept_hills": "2025-08-09 23:30:54 +0000",
       "minecraft:beach": "2025-08-09 23:35:37 +0000",
@@ -3712,6 +3713,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-14 01:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-14 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-08-14 02:01:49 +0000"
     },
     "done": true
   },

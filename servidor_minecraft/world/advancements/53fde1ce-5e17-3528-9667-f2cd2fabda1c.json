@@ -795,7 +795,8 @@
       "minecraft:witch": "2025-08-10 20:22:37 +0000",
       "minecraft:enderman": "2025-08-09 23:35:54 +0000",
       "minecraft:silverfish": "2025-08-10 21:18:56 +0000",
-      "minecraft:zombie": "2025-08-09 23:55:48 +0000"
+      "minecraft:zombie": "2025-08-09 23:55:48 +0000",
+      "minecraft:drowned": "2025-08-14 02:00:25 +0000"
     },
     "done": false
   },
@@ -3939,6 +3940,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-08-14 02:00:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-08-14 02:00:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-08-14 02:00:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-08-14 01:52:12 +0000"
@@ -4017,15 +4036,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-14 01:57:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-08-14 01:52:12 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-14 02:00:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-08-14 01:52:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-08-14 02:00:18 +0000"
     },
     "done": true
   },
