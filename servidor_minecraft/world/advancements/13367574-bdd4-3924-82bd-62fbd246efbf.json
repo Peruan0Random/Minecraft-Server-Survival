@@ -40,6 +40,7 @@
       "minecraft:forest": "2025-08-09 23:37:00 +0000",
       "minecraft:ice_spikes": "2025-08-10 04:30:11 +0000",
       "minecraft:frozen_ocean": "2025-08-10 19:09:18 +0000",
+      "minecraft:ocean": "2025-08-14 02:14:37 +0000",
       "minecraft:snowy_beach": "2025-08-10 05:02:31 +0000",
       "minecraft:flower_forest": "2025-08-09 23:29:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-10 01:45:18 +0000",
@@ -138,6 +139,7 @@
       "cooked_porkchop": "2025-08-09 23:58:38 +0000",
       "cooked_mutton": "2025-08-09 23:44:49 +0000",
       "cooked_beef": "2025-08-09 23:33:52 +0000",
+      "golden_apple": "2025-08-14 02:13:21 +0000",
       "rotten_flesh": "2025-08-09 23:57:33 +0000",
       "cooked_chicken": "2025-08-09 23:40:42 +0000",
       "enchanted_golden_apple": "2025-08-10 21:04:52 +0000"
@@ -3713,6 +3715,42 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-14 01:44:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-14 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-08-14 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-14 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-08-14 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-08-14 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-08-14 02:09:28 +0000"
     },
     "done": true
   },
