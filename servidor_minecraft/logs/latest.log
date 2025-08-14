@@ -129,3 +129,99 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Aug2025 01:28:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
 [14Aug2025 01:28:25.096] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
 [14Aug2025 01:33:06.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[14Aug2025 01:37:28.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[14Aug2025 01:37:28.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[14Aug2025 01:37:35.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.75.70.31:55539] logged in with entity id 13973 at (-827.7513077920232, 105.42738795280457, 863.3308530481153)
+[14Aug2025 01:37:35.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[14Aug2025 01:37:36.176] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[14Aug2025 01:37:57.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[14Aug2025 01:38:00.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[14Aug2025 01:38:06.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 01:38:20.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Funeral Theft]
+[14Aug2025 01:40:14.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[14Aug2025 01:40:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 01:45:34.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.137.246.84:39039] logged in with entity id 16360 at (-2991.748218130286, 78.0, 1969.699999988079)
+[14Aug2025 01:45:34.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[14Aug2025 01:45:34.756] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[14Aug2025 01:45:37.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[14Aug2025 01:45:37.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_14.08.2025-01.45.37.dat
+[14Aug2025 01:45:37.790] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2993 Y: 78 Z: 1969
+[14Aug2025 01:45:37.808] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[14Aug2025 01:46:23.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ya vine ptas
+[14Aug2025 01:46:38.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> q fue :v
+[14Aug2025 01:46:46.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> te domeraste
+[14Aug2025 01:46:52.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> andaba afk
+[14Aug2025 01:47:03.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
+[14Aug2025 01:47:03.196] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_14.08.2025-01.47.03.dat
+[14Aug2025 01:47:03.197] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2953 Y: 84 Z: 1946
+[14Aug2025 01:47:03.201] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[14Aug2025 01:47:06.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> xd
+[14Aug2025 01:47:09.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> donde
+[14Aug2025 01:47:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> ?
+[14Aug2025 01:47:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> me tepeo
+[14Aug2025 01:47:19.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> le intasle la lod mods a mi primo p
+[14Aug2025 01:47:21.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[14Aug2025 01:47:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[14Aug2025 01:47:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 01:48:02.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> oe
+[14Aug2025 01:48:07.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> y su nido
+[14Aug2025 01:48:17.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> we
+[14Aug2025 01:48:30.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> hazte tp
+[14Aug2025 01:48:33.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> ya
+[14Aug2025 01:48:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[14Aug2025 01:48:43.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[14Aug2025 01:48:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
+[14Aug2025 01:48:49.982] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_14.08.2025-01.48.49.dat
+[14Aug2025 01:48:49.982] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2946 Y: 69 Z: 1908
+[14Aug2025 01:48:49.986] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[14Aug2025 01:48:55.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 01:49:10.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[14Aug2025 01:49:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[14Aug2025 01:49:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[14Aug2025 01:49:16.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> crjo
+[14Aug2025 01:49:17.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
+[14Aug2025 01:49:17.479] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[14Aug2025 01:49:21.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Adventure Mode]
+[14Aug2025 01:49:27.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was slain by Fire Dragon
+[14Aug2025 01:49:27.671] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_14.08.2025-01.49.27.dat
+[14Aug2025 01:49:27.672] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2952 Y: 84 Z: 1934
+[14Aug2025 01:49:27.682] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[14Aug2025 01:49:29.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> no tengo armadura
+[14Aug2025 01:49:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[14Aug2025 01:49:36.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[14Aug2025 01:49:36.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[14Aug2025 01:49:42.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.75.70.31:34317] logged in with entity id 20732 at (-2950.5, 84.0, 1934.5)
+[14Aug2025 01:49:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[14Aug2025 01:49:42.675] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[14Aug2025 01:49:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[14Aug2025 01:49:49.170] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[14Aug2025 01:49:50.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[14Aug2025 01:50:03.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[14Aug2025 01:50:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[14Aug2025 01:50:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> we
+[14Aug2025 01:50:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> q
+[14Aug2025 01:50:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> listo
+[14Aug2025 01:50:58.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
+[14Aug2025 01:51:12.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[14Aug2025 01:51:36.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> no solto nada
+[14Aug2025 01:51:45.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> porq le saque la sangre
+[14Aug2025 01:51:48.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> ni escamas?
+[14Aug2025 01:52:19.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ?
+[14Aug2025 01:53:07.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> o ns
+[14Aug2025 01:53:25.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.33098846098619106
+[14Aug2025 01:53:25.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.9049918035484552
+[14Aug2025 01:53:25.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.483410567435385
+[14Aug2025 01:53:25.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.3447268163490662
+[14Aug2025 01:53:25.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.9274814854020406
+[14Aug2025 01:53:25.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.5093537257143907
+[14Aug2025 01:53:43.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> esta es la casa de killer fire
+[14Aug2025 01:53:51.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> pq cuando me subo a mi dragon me da fuerza?
+[14Aug2025 01:54:02.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[14Aug2025 01:54:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> su rugido
+[14Aug2025 01:54:13.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> a con razon no entendia
+[14Aug2025 01:54:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> te la valentia
+[14Aug2025 01:54:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> encambio me dio debilidad
+[14Aug2025 01:54:39.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> era etapa 3 ese we
+[14Aug2025 01:54:47.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> asi
+[14Aug2025 01:54:57.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
+[14Aug2025 01:55:23.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
