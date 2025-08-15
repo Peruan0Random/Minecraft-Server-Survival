@@ -281,3 +281,47 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Aug2025 23:24:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
 [15Aug2025 23:25:01.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Stone Age]
 [15Aug2025 23:27:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Applied effect Saturation to M1lanX]
+[15Aug2025 23:30:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [The Song of the Dragons]
+[15Aug2025 23:30:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Dragon Commander]
+[15Aug2025 23:31:09.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[15Aug2025 23:31:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[15Aug2025 23:31:20.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[15Aug2025 23:31:23.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[15Aug2025 23:32:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:32:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:33:15.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/27821, l='ServerLevel[world]', x=647.77, y=72.50, z=658.97] died, message: 'Toolsmith was pricked to death'
+[15Aug2025 23:34:34.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
+[15Aug2025 23:34:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Monster Hunter]
+[15Aug2025 23:34:53.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/27852, l='ServerLevel[world]', x=677.23, y=79.50, z=637.60] died, message: 'Farmer was pricked to death'
+[15Aug2025 23:39:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Best Friends Forever]
+[15Aug2025 23:40:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Applied effect Saturation to M1lanX]
+[15Aug2025 23:42:45.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Take Aim]
+[15Aug2025 23:43:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[15Aug2025 23:44:15.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Dragonslayer]
+[15Aug2025 23:44:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
+[15Aug2025 23:44:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[15Aug2025 23:44:36.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:44:40.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[15Aug2025 23:44:53.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:44:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:45:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:47:34.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
+[15Aug2025 23:47:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> anyelo
+[15Aug2025 23:47:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> por suerte he matado mas dragones hembra
+[15Aug2025 23:47:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ya para cazar
+[15Aug2025 23:48:09.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> y ade
+[15Aug2025 23:48:30.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ya se va
+[15Aug2025 23:48:39.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
+[15Aug2025 23:48:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ya voy a buscar un dragon
+[15Aug2025 23:49:01.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> me dijo q va a jugar mas tarde
+[15Aug2025 23:49:05.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> perate
+[15Aug2025 23:49:07.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> va
+[15Aug2025 23:49:30.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> te haces tp cuando encuentre uno
+[15Aug2025 23:49:39.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ya
+[15Aug2025 23:49:49.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[15Aug2025 23:49:58.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ponte espectador
+[15Aug2025 23:50:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ya perate
+[15Aug2025 23:50:07.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> y haste tp con tu cama
+[15Aug2025 23:50:09.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:50:24.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> osino te doy una
+[15Aug2025 23:50:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
