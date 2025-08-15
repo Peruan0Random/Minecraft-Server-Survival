@@ -2965,3 +2965,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Aug2025 03:11:23.261] [Worker-Main-20/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
 [15Aug2025 03:11:23.261] [Worker-Main-20/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORLJx+XvtJOXePfkJJxx67f
 [15Aug2025 03:11:26.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[15Aug2025 03:11:49.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:11:49.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 03:12:09.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[15Aug2025 03:12:53.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[15Aug2025 03:12:56.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[15Aug2025 03:12:56.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[15Aug2025 03:16:49.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:16:49.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 03:21:49.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:21:49.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

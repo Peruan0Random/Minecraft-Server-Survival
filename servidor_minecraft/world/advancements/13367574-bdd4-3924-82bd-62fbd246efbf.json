@@ -43,6 +43,7 @@
       "minecraft:frozen_ocean": "2025-08-10 19:09:18 +0000",
       "minecraft:ocean": "2025-08-14 02:14:37 +0000",
       "minecraft:snowy_beach": "2025-08-10 05:02:31 +0000",
+      "minecraft:windswept_savanna": "2025-08-15 03:10:17 +0000",
       "minecraft:flower_forest": "2025-08-09 23:29:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-10 01:45:18 +0000",
       "minecraft:meadow": "2025-08-10 04:15:41 +0000",
@@ -2483,11 +2484,12 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-08-15 03:10:31 +0000",
       "in_better_monster_room": "2025-08-10 03:49:11 +0000",
       "in_better_spider_dungeon": "2025-08-10 04:16:14 +0000",
       "in_better_skeleton_dungeon": "2025-08-10 20:48:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
@@ -3842,6 +3844,12 @@
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-15 03:00:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-15 03:10:31 +0000"
     },
     "done": true
   },

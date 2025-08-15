@@ -144,3 +144,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Aug2025 03:10:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [When in Rome]
 [15Aug2025 03:11:07.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
 [15Aug2025 03:11:26.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[15Aug2025 03:12:09.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[15Aug2025 03:12:53.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[15Aug2025 03:12:56.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
+[15Aug2025 03:12:56.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
