@@ -2919,3 +2919,49 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Aug2025 02:58:46.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
 [15Aug2025 02:59:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
 [15Aug2025 03:00:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[15Aug2025 03:01:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[15Aug2025 03:01:40.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[15Aug2025 03:01:49.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:01:49.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 03:02:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[15Aug2025 03:05:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[15Aug2025 03:06:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[15Aug2025 03:06:45.944] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1691, y=63, z=664}
+[15Aug2025 03:06:45.944] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[15Aug2025 03:06:45.944] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[15Aug2025 03:06:45.944] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxxxxxx6+d86vz9viPyWXkx87Znzf0kxOfnzZ89uLxOfvbfufuPv
+[15Aug2025 03:06:46.146] [Worker-Main-10/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1639, y=63, z=671}
+[15Aug2025 03:06:46.146] [Worker-Main-10/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[15Aug2025 03:06:46.146] [Worker-Main-10/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[15Aug2025 03:06:46.146] [Worker-Main-10/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOOOROJx+fy+vnSPtJx+fvbJOOPvz88hJxxz687b
+[15Aug2025 03:06:49.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:06:49.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 03:07:28.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 3.340596016552354,0.0,10.032026224395167
+[15Aug2025 03:07:28.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 3.7133169878063654,0.0,11.773390627271283
+[15Aug2025 03:07:28.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 4.048916833591761,0.0,13.528686144569747
+[15Aug2025 03:07:28.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 4.351775846713849,0.0,15.296268904788576
+[15Aug2025 03:07:28.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 4.625757445426871,0.0,17.07468901326297
+[15Aug2025 03:07:28.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 4.874269164631073,0.0,18.862667662898957
+[15Aug2025 03:07:28.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 5.100316450108608,0.0,20.659076945839615
+[15Aug2025 03:07:28.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 5.305982112413176,0.0,22.462939122510534
+[15Aug2025 03:07:28.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 2.5610233779508462,0.0,15.967008023281778
+[15Aug2025 03:07:28.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 2.7090284524032313,0.0,17.78311092376748
+[15Aug2025 03:07:28.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved too quickly! 2.8223497849213572,0.0,19.60375729140378
+[15Aug2025 03:08:57.719] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:savanna took 405 ms
+[15Aug2025 03:09:00.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[15Aug2025 03:09:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to -1930.500000, 81.000000, 185.500000]
+[15Aug2025 03:09:14.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[15Aug2025 03:09:57.757] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:savanna took 0 ms
+[15Aug2025 03:10:11.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[15Aug2025 03:10:31.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Professional Dungeoneer]
+[15Aug2025 03:10:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [When in Rome]
+[15Aug2025 03:11:07.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[15Aug2025 03:11:18.285] [Worker-Main-11/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1772, y=66, z=596}
+[15Aug2025 03:11:18.285] [Worker-Main-11/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[15Aug2025 03:11:18.285] [Worker-Main-11/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[15Aug2025 03:11:18.285] [Worker-Main-11/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORJXZJxR+fn0hOJPSJ9pJOJ8
+[15Aug2025 03:11:23.261] [Worker-Main-20/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1803, y=65, z=621}
+[15Aug2025 03:11:23.261] [Worker-Main-20/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[15Aug2025 03:11:23.261] [Worker-Main-20/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[15Aug2025 03:11:23.261] [Worker-Main-20/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORLJx+XvtJOXePfkJJxx67f
+[15Aug2025 03:11:26.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
