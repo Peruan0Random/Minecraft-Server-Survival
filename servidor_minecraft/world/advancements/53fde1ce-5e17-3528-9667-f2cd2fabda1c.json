@@ -4108,5 +4108,71 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-15 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-15 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-15 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_head": {
+    "criteria": {
+      "has_the_recipe": "2025-08-15 23:04:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-08-15 23:05:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-08-15 23:26:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
