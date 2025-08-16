@@ -115,3 +115,21 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 02:18:31.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [The Heart and the Flame]
 [16Aug2025 02:18:37.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [16Aug2025 02:19:44.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:21:13.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:58495] logged in with entity id 1193 at (-477.2243408960795, 69.0, 785.0827919996032)
+[16Aug2025 02:21:13.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
+[16Aug2025 02:21:13.591] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
+[16Aug2025 02:21:40.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
+[16Aug2025 02:24:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> llamen
+[16Aug2025 02:24:53.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:24:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:24:59.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:25:15.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 02:25:21.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:25:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by M1lanX
+[16Aug2025 02:25:33.268] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 02:28:18.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 02:28:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Forged in Flame]
+[16Aug2025 02:29:00.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 02:31:00.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.71.230.70:56895] logged in with entity id 3341 at (-1923.1269043150912, 64.0, 315.693167104724)
+[16Aug2025 02:31:00.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
+[16Aug2025 02:31:00.619] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)

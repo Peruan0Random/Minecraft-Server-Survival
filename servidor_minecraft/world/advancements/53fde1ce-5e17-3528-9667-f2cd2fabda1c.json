@@ -4204,33 +4204,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
-    "criteria": {
-      "has_item": "2025-08-16 01:53:51 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-08-16 01:45:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonbone": {
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
-      "has_dragon_bone_block": "2025-08-16 01:56:28 +0000"
+      "has_item": "2025-08-16 01:45:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
-      "has_dragonscale_blue": "2025-08-16 02:05:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
-    "criteria": {
-      "has_dragonscale_white": "2025-08-16 02:04:14 +0000"
+      "has_item": "2025-08-16 01:45:41 +0000"
     },
     "done": true
   },
@@ -4252,9 +4240,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+  "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
-      "has_item": "2025-08-16 01:45:41 +0000"
+      "has_item": "2025-08-16 01:52:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-08-16 01:53:51 +0000"
     },
     "done": true
   },
@@ -4270,15 +4264,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_torch": {
+  "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
-      "has_item": "2025-08-16 01:52:01 +0000"
+      "has_dragon_bone_block": "2025-08-16 01:56:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
     "criteria": {
-      "has_item": "2025-08-16 01:45:41 +0000"
+      "has_dragonscale_white": "2025-08-16 02:04:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-08-16 02:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-08-16 02:18:31 +0000"
     },
     "done": true
   },
