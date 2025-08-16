@@ -2897,3 +2897,24 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 14:40:35.635] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x0443b255bd936672
 [16Aug2025 14:41:02.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
 [16Aug2025 14:41:17.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 14:43:28.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 14:43:28.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 14:44:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 14:44:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 14:46:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: we ve consiguiendome acero dragonico
+[16Aug2025 14:46:55.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
+[16Aug2025 14:47:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: ya ps
+[16Aug2025 14:48:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> perate mijo
+[16Aug2025 14:48:13.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> estoy organizando cosas
+[16Aug2025 14:48:15.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> oe
+[16Aug2025 14:48:26.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> saque 3 paneles
+[16Aug2025 14:48:28.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 14:48:28.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 14:49:50.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: ya
+[16Aug2025 14:50:10.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> PERATE
+[16Aug2025 14:50:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a pero mi dragon lo hase solo
+[16Aug2025 14:50:25.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> XD
+[16Aug2025 14:50:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
+[16Aug2025 14:50:57.661] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-513, y:69, z:783, dim:minecraft:overworld]
+[16Aug2025 14:50:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[16Aug2025 14:50:57.681] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
