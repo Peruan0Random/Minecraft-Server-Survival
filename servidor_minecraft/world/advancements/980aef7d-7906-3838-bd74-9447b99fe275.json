@@ -1694,6 +1694,7 @@
       "minecraft:vindicator": "2025-08-16 03:04:41 +0000",
       "minecraft:spider": "2025-08-16 01:41:15 +0000",
       "minecraft:creeper": "2025-08-16 03:36:33 +0000",
+      "minecraft:zombified_piglin": "2025-08-16 16:22:02 +0000",
       "minecraft:stray": "2025-08-16 01:42:47 +0000",
       "minecraft:enderman": "2025-08-16 15:40:04 +0000",
       "minecraft:vex": "2025-08-16 03:09:47 +0000",
@@ -2601,6 +2602,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-16 16:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-16 16:14:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-08-16 16:00:20 +0000"
@@ -2610,6 +2623,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-16 16:00:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 16:19:05 +0000"
     },
     "done": true
   },
