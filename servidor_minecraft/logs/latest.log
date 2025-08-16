@@ -151,3 +151,21 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 20:26:05.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [16Aug2025 20:29:14.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
 [16Aug2025 20:29:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 20:34:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 20:35:11.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 20:35:32.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 20:35:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 20:35:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 20:35:52.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 20:35:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[16Aug2025 20:35:54.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 20:36:07.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 20:37:34.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Kicked by an operator
+[16Aug2025 20:37:34.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[16Aug2025 20:37:34.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Kicked 2apjnas: Kicked by an operator]
+[16Aug2025 20:37:34.740] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 20:37:47.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:39921] logged in with entity id 17493 at (-478.1963186911134, 69.0, 783.9635196960376)
+[16Aug2025 20:37:47.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[16Aug2025 20:37:47.234] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[16Aug2025 20:40:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the weather to clear]
+[16Aug2025 20:41:26.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
