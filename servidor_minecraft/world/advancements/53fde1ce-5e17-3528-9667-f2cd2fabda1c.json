@@ -4144,12 +4144,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal_smithing": {
-    "criteria": {
-      "has_coal": "2025-08-15 23:26:55 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-08-15 23:17:15 +0000"
@@ -4159,6 +4153,24 @@
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-15 23:17:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-08-15 23:26:55 +0000"
     },
     "done": true
   },
@@ -4174,15 +4186,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_dragonscales_white": "2025-08-15 23:17:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-15 23:17:15 +0000"
+      "diamond_chestplate": "2025-08-16 01:02:38 +0000"
     },
     "done": true
   },
