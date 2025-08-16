@@ -4602,9 +4602,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_myrmex": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "chitin": "2025-08-16 22:37:39 +0000"
+      "has_clay_ball": "2025-08-16 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-16 20:58:03 +0000"
     },
     "done": true
   },
@@ -4620,39 +4626,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-08-16 21:41:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
-    "criteria": {
-      "has_item": "2025-08-16 22:37:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-08-16 21:27:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-08-16 20:58:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_axe": {
-    "criteria": {
-      "has_item": "2025-08-16 22:37:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-16 22:37:39 +0000"
     },
     "done": true
   },
@@ -4662,57 +4638,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-08-16 22:42:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_boots": {
-    "criteria": {
-      "has_item": "2025-08-16 22:37:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_sword": {
-    "criteria": {
-      "has_item": "2025-08-16 22:37:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/acacia_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-08-16 21:27:51 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-08-16 22:42:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2025-08-16 22:42:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2025-08-16 22:45:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
     "criteria": {
       "has_keypad_chest": "2025-08-16 21:27:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-08-16 22:42:01 +0000"
     },
     "done": true
   },
@@ -4728,15 +4662,63 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 21:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-16 21:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-16 21:41:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-08-16 22:37:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
     "criteria": {
       "has_item": "2025-08-16 22:37:39 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_chestplate": {
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
     "criteria": {
-      "has_item": "2025-08-16 22:42:04 +0000"
+      "has_item": "2025-08-16 22:37:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-16 22:37:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 22:37:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-08-16 22:37:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-08-16 22:37:39 +0000"
     },
     "done": true
   },
@@ -4752,27 +4734,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-16 21:41:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-08-16 20:58:03 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/myrmex_jungle_shovel": {
     "criteria": {
       "has_item": "2025-08-16 22:37:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_helmet": {
-    "criteria": {
-      "has_item": "2025-08-16 22:42:04 +0000"
     },
     "done": true
   },
@@ -4782,9 +4746,63 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+  "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
-      "has_keypad_chest": "2025-08-16 21:27:51 +0000"
+      "killed_fire_dragon": "2025-08-16 22:42:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-08-16 22:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 22:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-08-16 22:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-16 22:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-08-16 22:42:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-08-16 22:45:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-08-16 23:13:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-08-16 23:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-08-16 23:19:19 +0000"
     },
     "done": true
   },

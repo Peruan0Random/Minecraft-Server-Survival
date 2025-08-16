@@ -789,3 +789,59 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 23:15:25.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
 [16Aug2025 23:15:25.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
 [16Aug2025 23:15:36.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 23:16:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 23:16:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was killed
+[16Aug2025 23:16:01.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Killed NoobToMC]
+[16Aug2025 23:16:01.294] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[16Aug2025 23:16:02.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ESE TRAPEADOR ANYELO
+[16Aug2025 23:16:06.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
+[16Aug2025 23:16:06.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[16Aug2025 23:16:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Night Vision to NoobToMC]
+[16Aug2025 23:16:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[16Aug2025 23:16:33.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:40595] logged in with entity id 96757 at (-495.30000001192093, 69.0, 753.8269262662249)
+[16Aug2025 23:16:33.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[16Aug2025 23:16:34.008] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[16Aug2025 23:16:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[16Aug2025 23:16:45.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by M1lanX
+[16Aug2025 23:16:45.399] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 23:17:30.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
+[16Aug2025 23:18:16.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M1lanX was kicked for floating too long!
+[16Aug2025 23:18:16.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M1lanX lost connection: Flying is not enabled on this server
+[16Aug2025 23:18:16.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX left the game
+[16Aug2025 23:18:56.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:44125] logged in with entity id 97645 at (-483.40464147810707, 72.16610926093821, 751.6890138212465)
+[16Aug2025 23:18:56.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
+[16Aug2025 23:18:56.761] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
+[16Aug2025 23:19:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by 2apjnas
+[16Aug2025 23:19:15.675] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.gold_16.08.2025-23.19.15.dat
+[16Aug2025 23:19:15.675] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -489 Y: 70 Z: 747
+[16Aug2025 23:19:15.677] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:19:19.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has reached the goal [Tomb Raider]
+[16Aug2025 23:19:48.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[16Aug2025 23:20:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 23:21:56.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported M1lanX to 2apjnas]
+[16Aug2025 23:22:10.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported M1lanX to NoobToMC]
+[16Aug2025 23:22:18.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M1lanX was kicked for floating too long!
+[16Aug2025 23:22:18.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M1lanX lost connection: Flying is not enabled on this server
+[16Aug2025 23:22:18.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX left the game
+[16Aug2025 23:22:26.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[16Aug2025 23:22:46.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:36237] logged in with entity id 98483 at (-484.5968209185286, 68.96455249140338, 752.9967793810416)
+[16Aug2025 23:22:46.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
+[16Aug2025 23:22:46.307] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
+[16Aug2025 23:23:10.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 23:23:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by 2apjnas
+[16Aug2025 23:23:37.073] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:23:41.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 23:24:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 23:24:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 23:24:19.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 23:24:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 23:24:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Made M1lanX no longer a server operator]
+[16Aug2025 23:24:44.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set M1lanX's game mode to Survival Mode]
+[16Aug2025 23:24:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX blew up
+[16Aug2025 23:24:52.604] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:25:16.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ONTA MI MANZANA
+[16Aug2025 23:25:22.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> MSI DRAGONES
+[16Aug2025 23:25:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> cofre
+[16Aug2025 23:25:49.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[16Aug2025 23:25:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> pasen dragones pe
+[16Aug2025 23:26:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> cofre
