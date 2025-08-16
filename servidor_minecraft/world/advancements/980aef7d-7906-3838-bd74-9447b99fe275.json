@@ -474,6 +474,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-15 23:14:15 +0000",
       "porkchop": "2025-08-16 02:05:17 +0000",
+      "apple": "2025-08-16 15:42:11 +0000",
       "mutton": "2025-08-15 23:26:06 +0000",
       "bread": "2025-08-16 03:08:27 +0000",
       "rotten_flesh": "2025-08-16 01:49:26 +0000"
@@ -1694,6 +1695,7 @@
       "minecraft:spider": "2025-08-16 01:41:15 +0000",
       "minecraft:creeper": "2025-08-16 03:36:33 +0000",
       "minecraft:stray": "2025-08-16 01:42:47 +0000",
+      "minecraft:enderman": "2025-08-16 15:40:04 +0000",
       "minecraft:vex": "2025-08-16 03:09:47 +0000",
       "minecraft:zombie": "2025-08-15 23:34:49 +0000"
     },
@@ -2548,6 +2550,54 @@
   "travelersbackpack:recipes/misc/gold_smithing": {
     "criteria": {
       "has_gold": "2025-08-16 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-16 15:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-16 15:36:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-08-16 15:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-16 15:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-16 15:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-16 15:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-16 15:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-08-16 15:46:29 +0000"
     },
     "done": true
   },
