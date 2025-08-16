@@ -4204,6 +4204,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-08-16 01:53:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-08-16 01:45:41 +0000"
@@ -4216,9 +4222,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-08-16 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-08-16 01:52:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-08-16 01:45:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-08-16 01:53:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-08-16 01:53:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-08-16 01:52:01 +0000"
     },
     "done": true
   },

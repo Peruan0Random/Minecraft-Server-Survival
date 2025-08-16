@@ -469,7 +469,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-15 23:14:15 +0000",
-      "mutton": "2025-08-15 23:26:06 +0000"
+      "mutton": "2025-08-15 23:26:06 +0000",
+      "rotten_flesh": "2025-08-16 01:49:26 +0000"
     },
     "done": false
   },
@@ -1801,6 +1802,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-16 01:54:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2025-08-16 01:45:51 +0000"
@@ -1810,6 +1817,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-08-16 01:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-16 01:49:39 +0000"
     },
     "done": true
   },
@@ -1846,6 +1859,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-16 01:43:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-16 01:49:39 +0000"
     },
     "done": true
   },
@@ -1939,6 +1958,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-08-16 01:48:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-08-16 01:45:51 +0000"
@@ -1987,15 +2012,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-08-16 01:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-16 01:08:10 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-16 01:51:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2025-08-16 01:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-16 01:49:39 +0000"
     },
     "done": true
   },

@@ -405,3 +405,60 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 01:45:06.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:40215] logged in with entity id 25795 at (744.6999999880791, 70.0, 1303.699999988079)
 [16Aug2025 01:45:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
 [16Aug2025 01:45:06.207] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[16Aug2025 01:47:11.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
+[16Aug2025 01:47:11.377] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.47.11.dat
+[16Aug2025 01:47:11.399] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 743 Y: 72 Z: 1320
+[16Aug2025 01:47:11.404] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:47:19.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Scuttler
+[16Aug2025 01:47:19.021] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:47:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Scuttler
+[16Aug2025 01:47:27.539] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:47:30.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 01:48:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 01:48:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:48:58.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 01:49:00.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:49:12.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 01:49:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:49:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:49:17.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 01:49:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by Dread Ghoul
+[16Aug2025 01:49:47.072] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-01.49.47.dat
+[16Aug2025 01:49:47.072] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 769 Y: 70 Z: 1335
+[16Aug2025 01:49:47.078] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 01:49:52.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:49:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 01:49:56.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:50:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:50:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to M1lanX]
+[16Aug2025 01:50:15.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:50:25.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 01:50:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 01:50:41.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 01:50:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:51:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:51:17.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:51:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Beast
+[16Aug2025 01:51:35.225] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.51.35.dat
+[16Aug2025 01:51:35.226] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 747 Y: 72 Z: 1332
+[16Aug2025 01:51:35.231] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:51:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Ashes 'n Bones]
+[16Aug2025 01:51:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
+[16Aug2025 01:51:54.686] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:51:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
+[16Aug2025 01:52:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:52:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:52:23.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
+[16Aug2025 01:52:23.852] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:52:34.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:52:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 01:52:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:52:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:53:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
+[16Aug2025 01:53:03.650] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:53:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Another Brick in the Wall]
+[16Aug2025 01:54:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [A Strange Grave Dust]
+[16Aug2025 01:54:48.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Ghoul
+[16Aug2025 01:54:48.489] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:55:46.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:55:53.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
