@@ -1,49 +1,49 @@
-[16Aug2025 14:32:58.165] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Aug2025 14:32:58.168] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[16Aug2025 14:32:58.854] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Aug2025 14:32:58.910] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Aug2025 14:32:59.151] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 14:32:59.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 14:32:59.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 14:32:59.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 14:32:59.316] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[16Aug2025 14:33:01.341] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Aug2025 14:33:01.391] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Aug2025 14:33:01.539] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
-[16Aug2025 14:33:02.429] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[16Aug2025 14:33:09.035] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Aug2025 14:33:09.035] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Aug2025 14:33:11.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[16Aug2025 14:33:11.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
-[16Aug2025 14:33:11.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Aug2025 14:33:11.895] [main/INFO] [journeymap/]: Initializing Packet Registries
-[16Aug2025 14:33:11.943] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[16Aug2025 14:33:11.943] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[16Aug2025 14:33:11.943] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[16Aug2025 14:33:11.944] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[16Aug2025 14:33:12.055] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[16Aug2025 14:33:12.063] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[16Aug2025 14:33:12.076] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[16Aug2025 14:33:12.080] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[16Aug2025 14:33:12.082] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
-[16Aug2025 14:33:12.082] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[16Aug2025 14:33:12.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[16Aug2025 14:33:12.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[16Aug2025 14:33:12.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[16Aug2025 14:33:12.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[16Aug2025 14:33:12.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.5 Target: null
-[16Aug2025 14:33:12.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[16Aug2025 14:33:12.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[16Aug2025 14:33:12.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[16Aug2025 14:33:12.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
-[16Aug2025 14:33:12.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[16Aug2025 14:33:12.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[16Aug2025 14:33:12.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[16Aug2025 14:33:12.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
-[16Aug2025 14:33:14.199] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Aug2025 14:33:15.417] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
-[16Aug2025 14:33:15.417] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
-[16Aug2025 14:33:17.656] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[16Aug2025 18:28:10.678] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Aug2025 18:28:10.681] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[16Aug2025 18:28:11.354] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Aug2025 18:28:11.404] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Aug2025 18:28:11.644] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 18:28:11.647] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 18:28:11.648] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 18:28:11.649] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 18:28:11.825] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[16Aug2025 18:28:13.849] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Aug2025 18:28:13.905] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Aug2025 18:28:14.053] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
+[16Aug2025 18:28:15.003] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[16Aug2025 18:28:22.245] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Aug2025 18:28:22.245] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Aug2025 18:28:25.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Aug2025 18:28:25.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
+[16Aug2025 18:28:25.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Aug2025 18:28:25.503] [main/INFO] [journeymap/]: Initializing Packet Registries
+[16Aug2025 18:28:25.582] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[16Aug2025 18:28:25.582] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[16Aug2025 18:28:25.583] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[16Aug2025 18:28:25.583] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[16Aug2025 18:28:25.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[16Aug2025 18:28:25.626] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[16Aug2025 18:28:25.755] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[16Aug2025 18:28:25.772] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[16Aug2025 18:28:25.807] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[16Aug2025 18:28:25.821] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[16Aug2025 18:28:25.822] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[16Aug2025 18:28:25.826] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[16Aug2025 18:28:25.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[16Aug2025 18:28:25.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[16Aug2025 18:28:26.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.5 Target: null
+[16Aug2025 18:28:26.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[16Aug2025 18:28:26.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[16Aug2025 18:28:26.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[16Aug2025 18:28:26.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[16Aug2025 18:28:26.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16Aug2025 18:28:26.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[16Aug2025 18:28:26.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[16Aug2025 18:28:26.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
+[16Aug2025 18:28:27.902] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Aug2025 18:28:29.096] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
+[16Aug2025 18:28:29.096] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
+[16Aug2025 18:28:31.349] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
 	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
 	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23142!/:?]
@@ -72,442 +72,38 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Aug2025 14:33:17.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[16Aug2025 14:33:17.790] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2749 advancements
-[16Aug2025 14:33:18.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[16Aug2025 14:33:18.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Aug2025 14:33:18.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Aug2025 14:33:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Aug2025 14:33:19.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Aug2025 14:33:19.038] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Aug2025 14:33:19.129] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Aug2025 14:33:19.129] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Aug2025 14:33:19.130] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Aug2025 14:33:19.130] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Aug2025 14:33:19.154] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Aug2025 14:33:19.155] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Aug2025 14:33:19.156] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Aug2025 14:33:19.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Aug2025 14:33:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Aug2025 14:33:26.443] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.470] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.484] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.503] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.520] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.531] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.542] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.549] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.559] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:26.808] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:27.311] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 14:33:27.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[16Aug2025 14:33:28.310] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
-[16Aug2025 14:33:28.551] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6246 ms
-[16Aug2025 14:33:28.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.407s)! For help, type "help"
-[16Aug2025 14:33:28.596] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Aug2025 14:33:28.634] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[16Aug2025 14:33:28.635] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[16Aug2025 14:40:34.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:55339] logged in with entity id 418 at (-475.9880074336375, 69.0, 784.6814645531556)
-[16Aug2025 14:40:34.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[16Aug2025 14:40:34.221] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[16Aug2025 14:41:02.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 14:41:17.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 14:44:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 14:44:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 14:46:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: we ve consiguiendome acero dragonico
-[16Aug2025 14:46:55.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
-[16Aug2025 14:47:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: ya ps
-[16Aug2025 14:48:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> perate mijo
-[16Aug2025 14:48:13.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> estoy organizando cosas
-[16Aug2025 14:48:15.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> oe
-[16Aug2025 14:48:26.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> saque 3 paneles
-[16Aug2025 14:49:50.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: ya
-[16Aug2025 14:50:10.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> PERATE
-[16Aug2025 14:50:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a pero mi dragon lo hase solo
-[16Aug2025 14:50:25.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> XD
-[16Aug2025 14:50:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[16Aug2025 14:50:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 14:50:57.681] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 14:55:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: oe q fue
-[16Aug2025 14:55:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> por?
-[16Aug2025 15:00:45.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:01:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 15:01:09.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to rain]
-[16Aug2025 15:01:14.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to clear]
-[16Aug2025 15:01:38.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 10.03651019368931,0.530851796147978,-2.263961521529268
-[16Aug2025 15:01:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:02:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[16Aug2025 15:02:05.850] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:04:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[16Aug2025 15:04:15.549] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:05:47.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[16Aug2025 15:05:47.747] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:06:20.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[16Aug2025 15:06:20.448] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:06:34.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:06:58.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 1.7733859900770028,-3.564540875082116,10.313961206901809
-[16Aug2025 15:07:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:10:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:10:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:11:50.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 15:12:33.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:12:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:12:44.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6568, l='ServerLevel[world]', x=-986.23, y=77.00, z=1366.05] died, message: 'Unemployed hit the ground too hard whilst trying to escape 2apjnas'
-[16Aug2025 15:12:45.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6566, l='ServerLevel[world]', x=-987.62, y=83.92, z=1363.50] died, message: 'Unemployed was slain by 2apjnas'
-[16Aug2025 15:13:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:13:26.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.062067125401086,0.0,-2.555888094707825
-[16Aug2025 15:19:35.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.566787750813546,0.0,-11.876012117893424
-[16Aug2025 15:20:04.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:20:21.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
-[16Aug2025 15:20:21.107] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:20:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
-[16Aug2025 15:20:33.804] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:21:03.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:21:50.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 15:22:24.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 5.027061115594279,0.0,-10.35851293339283
-[16Aug2025 15:22:28.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -6.833583821343382,0.9831079158072242,-7.7455402452794715
-[16Aug2025 15:22:39.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 6.335227109454991,-3.0847396630668698,-8.772906658392913
-[16Aug2025 15:22:41.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.120287308048319,-4.0498372215344745,-5.565493401573804
-[16Aug2025 15:22:52.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -3.2333006657931946,2.121176649262381,-10.40834875861401
-[16Aug2025 15:24:26.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:24:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[16Aug2025 15:24:27.582] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:25:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:26:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:26:22.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:26:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:27:03.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[16Aug2025 15:27:03.949] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:27:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:29:26.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 6.33698670473359,0.0,14.870538528006819
-[16Aug2025 15:29:36.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 13.878670217500257,0.6362399971041128,-11.22863896250442
-[16Aug2025 15:29:50.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.626233518583376,0.0,-8.455815638503282
-[16Aug2025 15:30:00.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.553457538071598,0.0,-6.6787384206597835
-[16Aug2025 15:30:03.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.700609870204062,0.0,2.0955291169693737
-[16Aug2025 15:30:10.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 16.65958242918532,0.0,2.704577504312738
-[16Aug2025 15:30:15.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.216744482847389,7.189623281012132,-14.839447861171266
-[16Aug2025 15:30:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:31:07.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[16Aug2025 15:31:23.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:31:30.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: oe Milan va a entrar ahorita
-[16Aug2025 15:31:36.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ns
-[16Aug2025 15:32:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: que va a entrar ahora milan pq me a llamado
-[16Aug2025 15:32:11.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> aaa
-[16Aug2025 15:32:44.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:50167] logged in with entity id 28895 at (-476.5872680144335, 69.0, 782.7204324371135)
-[16Aug2025 15:32:44.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
-[16Aug2025 15:32:44.638] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
-[16Aug2025 15:33:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:34:57.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to M1lanX: XDDDD
-[16Aug2025 15:35:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 15:35:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 15:35:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 15:35:46.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> gracias anyelo
-[16Aug2025 15:36:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:36:13.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: anyelo e ando llamando
-[16Aug2025 15:36:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: te*
-[16Aug2025 15:40:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Enderman
-[16Aug2025 15:40:02.301] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 15:41:09.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
-[16Aug2025 15:41:09.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve M1lanX Apple 30<--[HERE]
-[16Aug2025 15:41:45.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 30 [Apple] to M1lanX
-[16Aug2025 15:44:15.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'iceandfire:dragonegg'
-[16Aug2025 15:44:15.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve M1lanX iceandfire:dragonegg<--[HERE]
-[16Aug2025 15:45:52.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:46:36.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 5.086580417559844,-3.749995733639415,-9.055361165002296
-[16Aug2025 15:47:06.408] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.408] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-638, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.408] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=78, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.409] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=78, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.409] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=78, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.409] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.410] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.410] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.411] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.411] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.411] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-638, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.411] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-637, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.411] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.411] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.411] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.412] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.412] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-638, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.412] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=79, z=-94}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.412] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=79, z=-94}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.412] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=79, z=-94}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.412] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.413] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.413] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.413] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.413] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-638, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.414] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=80, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.414] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=80, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.414] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=80, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.415] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=81, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.415] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=81, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.416] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=81, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.416] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=76, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.416] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=76, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.416] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=76, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.416] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-645, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.417] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.417] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.418] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.418] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=77, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.419] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=77, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.419] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=77, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.419] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.420] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.420] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.420] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-646, y=76, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.421] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-645, y=76, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.421] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=76, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.421] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-647, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.421] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-646, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-645, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=77, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-646, y=77, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-645, y=77, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=77, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-646, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.422] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-645, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.423] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.424] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-637, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.424] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-636, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.425] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-635, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.425] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.425] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.425] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-644, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.425] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.425] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=79, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-643, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-642, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.426] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-41, -6], pos: BlockPos{x=-641, y=80, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.427] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-638, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.427] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-637, y=78, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.427] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=78, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.428] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=78, z=-95}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.428] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-640, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.428] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-639, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:06.428] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-40, -6], pos: BlockPos{x=-638, y=79, z=-96}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / dynamictrees:dynamic_tree]
-[16Aug2025 15:47:14.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.268824511480375,0.0,3.414250249164269
-[16Aug2025 15:47:33.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -5.930650960774869,-2.0745054314171867,-8.562182056548892
-[16Aug2025 15:47:34.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -8.94812960930733,0.0,-5.466612218524602
-[16Aug2025 15:47:43.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.671921640353503,0.0,0.884021159731418
-[16Aug2025 15:47:54.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -8.38439395153614,0.0,6.365493179156317
-[16Aug2025 15:47:57.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.6187306453553,0.0,9.963292674443693
-[16Aug2025 15:48:07.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 2.2335479277803643,0.0,10.312870209024396
-[16Aug2025 15:48:18.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -11.718046683254443,0.0,3.2559422481568276
-[16Aug2025 15:48:22.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'ice_and_fire:'
-[16Aug2025 15:48:22.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve M1lanX ice_and_fire:Dragon_egg<--[HERE]
-[16Aug2025 15:48:37.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.207919831285153,0.0,11.466201502718604
-[16Aug2025 15:48:56.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 10.104463863605815,0.0,10.09988199154418
-[16Aug2025 15:49:01.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 10.62252087894558,0.0,10.62353905948703
-[16Aug2025 15:49:20.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 6.069047592902734,0.0,9.519590552308955
-[16Aug2025 15:49:26.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 15.297260736220096,0.0,-2.1081824012719608
-[16Aug2025 15:49:49.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 8.105770358258738,0.019614448128379536,6.824430046959151
-[16Aug2025 15:49:49.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 9.26880944890334,0.019614448128379536,7.796290410470419
-[16Aug2025 15:49:49.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 10.423412583742653,0.019614448128379536,8.77824958991755
-[16Aug2025 15:49:49.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 11.569927421984417,0.019614448128379536,9.76978114316853
-[16Aug2025 15:49:49.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 12.709308382627142,0.019614448128379536,10.76975553011448
-[16Aug2025 15:49:49.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 3.692282232185221,0.0,-10.322856315323293
-[16Aug2025 15:49:49.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 13.842397263227511,0.019614448128379536,11.777176496379298
-[16Aug2025 15:49:49.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 14.96993652923053,0.019614448128379536,12.791165345603531
-[16Aug2025 15:49:49.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 16.09258103515868,0.019614448128379536,13.810947067597908
-[16Aug2025 15:49:49.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 17.2109083627008,0.019614448128379536,14.835838103375636
-[16Aug2025 15:49:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 18.327052796046125,0.019614448128379536,15.863553796572887
-[16Aug2025 15:49:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 19.44127191670988,0.019614448128379536,16.89376083761408
-[16Aug2025 15:49:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 20.55444377374119,0.019614448128379536,17.925479131336488
-[16Aug2025 15:49:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 21.667971103023866,0.019614448128379536,18.957160501447788
-[16Aug2025 15:49:49.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 22.777593765346833,0.019614448128379536,19.993221117296343
-[16Aug2025 15:49:49.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 23.883772511411333,0.019614448128379536,21.03314422788526
-[16Aug2025 15:49:49.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 24.98691372333587,0.019614448128379536,22.076474058835174
-[16Aug2025 15:49:49.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 26.08737583014896,0.019614448128379536,23.12280861714339
-[16Aug2025 15:49:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 27.185474966253754,0.019614448128379536,24.171793344981552
-[16Aug2025 15:49:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 28.281489962193827,0.019614448128379536,25.223115522345324
-[16Aug2025 15:49:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 29.375666746508617,0.019614448128379536,26.276499330190518
-[16Aug2025 15:49:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 30.46985593621392,0.019614448128379536,27.330028322449834
-[16Aug2025 15:49:49.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 31.564389697394958,0.019614448128379536,28.383338257984178
-[16Aug2025 15:49:49.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 32.659227370617586,0.019614448128379536,29.436454985487217
-[16Aug2025 15:49:49.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 33.7543330942609,0.019614448128379536,30.489401303506384
-[16Aug2025 15:49:49.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 34.84967523837526,0.019614448128379536,31.542197320361083
-[16Aug2025 15:49:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 35.94522590534508,0.019614448128379536,32.59486077158863
-[16Aug2025 15:49:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 37.04096048947343,0.019614448128379536,33.647407299932865
-[16Aug2025 15:49:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 38.13685728853558,0.019614448128379536,34.69985070229404
-[16Aug2025 15:49:49.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 39.232897161169355,0.019614448128379536,35.75220314753824
-[16Aug2025 15:49:49.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 40.3290632246933,0.019614448128379536,36.80447536860538
-[16Aug2025 15:49:49.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 41.42534058858238,0.019614448128379536,37.85667683194811
-[16Aug2025 15:49:49.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 42.5217161193935,0.019614448128379536,38.90881588697812
-[16Aug2025 15:49:49.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 43.618178233429866,0.019614448128379536,39.96089989787629
-[16Aug2025 15:49:49.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 44.7147167138709,0.019614448128379536,41.01293535984996
-[16Aug2025 15:49:49.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 45.81132254948085,0.019614448128379536,42.06492800167234
-[16Aug2025 15:49:49.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 46.90862859568488,0.019614448128379536,43.11621091289976
-[16Aug2025 15:49:49.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 48.00784675790617,0.019614448128379536,44.165488832366464
-[16Aug2025 15:49:49.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 49.110331699077314,0.019614448128379536,45.2112746461728
-[16Aug2025 15:49:49.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 50.21633061859886,0.019614448128379536,46.25327751346845
-[16Aug2025 15:49:49.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 51.326671745644525,0.019614448128379536,47.290540964295815
-[16Aug2025 15:49:49.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 52.44268491711797,0.019614448128379536,48.321489257746634
-[16Aug2025 15:49:49.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 53.566400656901266,0.019614448128379536,49.34361145441312
-[16Aug2025 15:49:49.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 54.69923783908138,0.019614448128379536,50.35501101450791
-[16Aug2025 15:49:49.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 55.84350551884316,0.019614448128379536,51.352442668581034
-[16Aug2025 15:49:49.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 57.006166559380425,0.019614448128379536,52.32503937600336
-[16Aug2025 15:49:49.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 58.193311291951254,0.019614448128379536,53.26046322518641
-[16Aug2025 15:49:49.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 59.4084753391741,0.019614448128379536,54.14797635271293
-[16Aug2025 15:49:49.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 60.65234443631779,0.019614448128379536,54.98120785866968
-[16Aug2025 15:49:49.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 61.92476281204,0.019614448128379536,55.753833126517975
-[16Aug2025 15:49:49.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 63.22471876059844,0.019614448128379536,56.45959468454453
-[16Aug2025 15:49:49.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 64.54995271728991,0.019614448128379536,57.0975146607866
-[16Aug2025 15:49:49.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 65.89785343341484,0.019614448128379536,57.6704364647876
-[16Aug2025 15:49:49.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 67.26588522690223,0.019614448128379536,58.18323072158296
-[16Aug2025 15:49:49.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 68.6517556025066,0.019614448128379536,58.640638373689626
-[16Aug2025 15:49:49.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 70.05341827150303,0.019614448128379536,59.04637585656883
-[16Aug2025 15:49:49.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 71.46900232475967,0.019614448128379536,59.40139942325186
-[16Aug2025 15:49:49.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 72.8966871870665,0.019614448128379536,59.706056718848004
-[16Aug2025 15:49:49.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 74.33476185160175,0.019614448128379536,59.9616056788841
-[16Aug2025 15:49:49.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 75.78185304179934,0.019614448128379536,60.17197274443174
-[16Aug2025 15:49:49.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 77.23677315151855,0.019614448128379536,60.341084907280674
-[16Aug2025 15:49:49.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 78.6985552361315,0.019614448128379536,60.47334801602278
-[16Aug2025 15:49:49.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 80.16638958260073,0.019614448128379536,60.57311025904255
-[16Aug2025 15:49:49.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 81.63947045778754,0.019614448128379536,60.643265512164135
-[16Aug2025 15:49:49.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 83.11717877130326,0.019614448128379536,60.68730740019578
-[16Aug2025 15:49:49.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 84.59896848542508,0.019614448128379536,60.708317300217914
-[16Aug2025 15:49:49.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 86.08435799488147,0.019614448128379536,60.70901298681565
-[16Aug2025 15:49:49.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 87.57292252382297,0.019614448128379536,60.69117794159388
-[16Aug2025 15:49:49.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 89.06428741995032,0.019614448128379536,60.65761238648656
-[16Aug2025 15:49:49.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 90.5071232393364,0.15031540589588133,60.615269548719425
-[16Aug2025 15:49:49.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 91.90715641303666,0.3962946084143226,60.56518514764616
-[16Aug2025 15:49:49.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 93.32043665384126,0.6132482650355797,60.5031756606777
-[16Aug2025 15:49:49.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 94.74540080783187,0.8046013901755344,60.430648247949875
-[16Aug2025 15:49:49.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 96.18067017325254,0.9733748465489782,60.3488440247022
-[16Aug2025 15:49:49.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 97.62502873515452,1.1222330350703515,60.258857654576104
-[16Aug2025 15:49:49.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 99.07740396835302,1.2535259573461985,60.16165463090306
-[16Aug2025 15:49:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 100.53684990563505,1.369326314793497,60.0580865188017
-[16Aug2025 15:49:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 102.00253220391875,1.4714622300620164,59.948904398706645
-[16Aug2025 15:49:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 103.47371497260593,1.5615461073288515,59.83477072356118
-[16Aug2025 15:49:49.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 104.94974915618897,1.6410000870781971,59.716269776861054
-[16Aug2025 15:49:49.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 106.4306253249475,1.711078497217116,59.6009434644393
-[16Aug2025 15:49:49.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 107.91511795942324,1.7728876549596464,59.51793303328532
-[16Aug2025 15:49:49.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 109.40005750906568,1.827403332088565,59.48105338211326
-[16Aug2025 15:49:49.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 110.88490232162671,1.8754861593162673,59.48714781370518
-[16Aug2025 15:49:49.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4390ms or 87 ticks behind
-[16Aug2025 15:49:49.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 105.43253495769571,1.8982807648027205,53.672372032604926
-[16Aug2025 15:49:49.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 106.91664065153911,1.9356855500910086,53.752389088880136
-[16Aug2025 15:49:49.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 108.40012085150312,1.9686765707152745,53.864335180759326
-[16Aug2025 15:49:57.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [When in Rome]
-[16Aug2025 15:49:57.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Professional Dungeoneer]
-[16Aug2025 15:49:58.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -0.7080436256959501,0.0,10.738767132084718
-[16Aug2025 15:50:07.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 10.184676480792064,0.0,-2.6166471064275356
-[16Aug2025 15:50:10.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 10.221750352013032,0.0,-2.8258645401067497
-[16Aug2025 15:50:10.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 11.700318131428958,0.0,-3.1440790420024314
-[16Aug2025 15:50:10.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 13.183532106746497,0.0,-3.4336814139401213
-[16Aug2025 15:50:10.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 14.67092764010249,0.0,-3.6961756150037672
-[16Aug2025 15:50:10.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 16.16208864616624,0.0,-3.9324061169090783
-[16Aug2025 15:50:10.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -4.994824197285652,4.112986444416048,8.620828428536356
-[16Aug2025 15:50:10.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 17.656632114118565,0.0,-4.140331569780756
-[16Aug2025 15:50:10.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 19.15408578660106,0.0,-4.318598701600422
-[16Aug2025 15:50:10.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 20.653856007642048,0.0,-4.465073323072602
-[16Aug2025 15:50:10.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 22.155477900776305,0.0,-4.58069365493634
-[16Aug2025 15:50:10.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 14.910504338633473,0.0,-2.18916625176621
-[16Aug2025 15:50:10.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 16.41509557813481,0.0,-2.2522369370697106
-[16Aug2025 15:50:15.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved too quickly! 10.230664035385871,0.0,-2.578009378515617
-[16Aug2025 15:50:55.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
-[16Aug2025 15:51:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was turned to ice by Ice Dragon
-[16Aug2025 15:51:27.103] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.gold_16.08.2025-15.51.27.dat
-[16Aug2025 15:51:27.107] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 709 Y: 101.0977828502655 Z: 1499
-[16Aug2025 15:51:27.122] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
-[16Aug2025 15:51:29.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 14.876467801855142,0.0,0.37326561222903365
-[16Aug2025 15:51:38.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:51:41.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M1lanX was kicked for floating too long!
-[16Aug2025 15:51:41.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M1lanX lost connection: Disconnected
-[16Aug2025 15:51:41.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX left the game
-[16Aug2025 15:51:41.604] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[16Aug2025 15:51:51.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 15:52:05.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17b1e33c[id=<null>,name=M1lanX,properties={},legacy=false] (/127.82.135.8:49187) lost connection: Disconnected
-[16Aug2025 15:52:12.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:50903] logged in with entity id 42350 at (706.6457527600388, 87.32476691508852, 1497.1241808350765)
-[16Aug2025 15:52:12.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
-[16Aug2025 15:52:12.303] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
-[16Aug2025 15:52:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:52:43.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 15:53:12.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 15:53:13.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:53:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 15:53:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 15:53:53.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:56:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
-[16Aug2025 15:56:39.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 15:57:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 15:58:14.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 15:58:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 15:59:04.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:59:11.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
-[16Aug2025 15:59:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 15:59:33.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 15:59:34.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:02:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
-[16Aug2025 16:03:52.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:04:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:04:19.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:04:23.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:04:27.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:04:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:05:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
-[16Aug2025 16:05:20.450] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 16:06:00.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:06:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:06:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:07:00.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 16:07:09.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
-[16Aug2025 16:07:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:08:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:08:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:08:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 16:08:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [A Throwaway Joke]
-[16Aug2025 16:09:13.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:09:26.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:10:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
-[16Aug2025 16:10:12.901] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 16:10:28.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX burned to death
-[16Aug2025 16:10:28.855] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.gold_16.08.2025-16.10.28.dat
-[16Aug2025 16:10:28.856] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3253 Y: -2 Z: 2485
-[16Aug2025 16:10:28.859] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
-[16Aug2025 16:10:46.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:10:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:11:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:11:22.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:11:23.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 16:11:27.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 16:13:02.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:14:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Not Today, Thank You]
-[16Aug2025 16:14:19.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 16:14:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:14:21.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 16:14:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:14:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:14:39.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 16:14:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:18:31.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:19:16.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:19:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[16Aug2025 16:19:34.905] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 16:19:45.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:19:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:19:53.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:19:54.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:20:36.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[16Aug2025 16:20:36.154] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 16:21:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was shot by Skeleton
-[16Aug2025 16:21:05.798] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 16:21:05.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Applied effect Night Vision to 2apjnas]
-[16Aug2025 16:21:24.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Applied effect Night Vision to 2apjnas]
-[16Aug2025 16:24:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:24:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
-[16Aug2025 16:24:40.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 16:24:42.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:24:43.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 16:25:02.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 16:25:15.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 18:28:31.358] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[16Aug2025 18:28:31.493] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2749 advancements
+[16Aug2025 18:28:32.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Aug2025 18:28:32.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Aug2025 18:28:32.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Aug2025 18:28:32.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Aug2025 18:28:32.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Aug2025 18:28:32.544] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Aug2025 18:28:32.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Aug2025 18:28:32.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Aug2025 18:28:32.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Aug2025 18:28:32.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Aug2025 18:28:32.654] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Aug2025 18:28:32.655] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Aug2025 18:28:32.657] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Aug2025 18:28:32.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Aug2025 18:28:35.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Aug2025 18:28:40.063] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.077] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.087] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.099] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.104] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.113] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.120] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.137] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.144] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.362] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:40.961] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 18:28:41.358] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[16Aug2025 18:28:41.858] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[16Aug2025 18:28:41.909] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6052 ms
+[16Aug2025 18:28:41.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.267s)! For help, type "help"
+[16Aug2025 18:28:41.949] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Aug2025 18:28:41.982] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[16Aug2025 18:28:41.983] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
