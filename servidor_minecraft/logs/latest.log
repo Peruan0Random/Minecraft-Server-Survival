@@ -138,3 +138,21 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 15:01:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [16Aug2025 15:02:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
 [16Aug2025 15:02:05.850] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:04:15.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
+[16Aug2025 15:04:15.549] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:05:47.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
+[16Aug2025 15:05:47.747] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:06:20.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
+[16Aug2025 15:06:20.448] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:06:34.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:06:58.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 1.7733859900770028,-3.564540875082116,10.313961206901809
+[16Aug2025 15:07:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:10:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:10:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:11:50.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[16Aug2025 15:12:33.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:12:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:12:44.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6568, l='ServerLevel[world]', x=-986.23, y=77.00, z=1366.05] died, message: 'Unemployed hit the ground too hard whilst trying to escape 2apjnas'
+[16Aug2025 15:12:45.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6566, l='ServerLevel[world]', x=-987.62, y=83.92, z=1363.50] died, message: 'Unemployed was slain by 2apjnas'
+[16Aug2025 15:13:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:13:26.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.062067125401086,0.0,-2.555888094707825
