@@ -1,49 +1,49 @@
-[16Aug2025 00:35:46.158] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Aug2025 00:35:46.161] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[16Aug2025 00:35:49.246] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Aug2025 00:35:49.420] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Aug2025 00:35:49.852] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 00:35:49.854] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 00:35:49.855] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 00:35:49.857] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 00:35:50.246] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[16Aug2025 00:35:52.492] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Aug2025 00:35:52.538] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Aug2025 00:35:52.739] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
-[16Aug2025 00:35:53.869] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[16Aug2025 00:36:01.454] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Aug2025 00:36:01.454] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Aug2025 00:36:04.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[16Aug2025 00:36:04.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
-[16Aug2025 00:36:04.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Aug2025 00:36:04.271] [main/INFO] [journeymap/]: Initializing Packet Registries
-[16Aug2025 00:36:04.318] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[16Aug2025 00:36:04.318] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[16Aug2025 00:36:04.319] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[16Aug2025 00:36:04.319] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[16Aug2025 00:36:04.442] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[16Aug2025 00:36:04.449] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[16Aug2025 00:36:04.461] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[16Aug2025 00:36:04.465] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[16Aug2025 00:36:04.467] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
-[16Aug2025 00:36:04.468] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[16Aug2025 00:36:04.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[16Aug2025 00:36:04.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[16Aug2025 00:36:04.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[16Aug2025 00:36:04.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[16Aug2025 00:36:04.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.5 Target: null
-[16Aug2025 00:36:04.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[16Aug2025 00:36:04.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[16Aug2025 00:36:04.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[16Aug2025 00:36:04.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
-[16Aug2025 00:36:04.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[16Aug2025 00:36:04.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[16Aug2025 00:36:04.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[16Aug2025 00:36:04.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
-[16Aug2025 00:36:06.748] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Aug2025 00:36:07.989] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
-[16Aug2025 00:36:07.990] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
-[16Aug2025 00:36:10.318] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[16Aug2025 02:10:52.221] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Aug2025 02:10:52.225] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[16Aug2025 02:10:52.962] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Aug2025 02:10:53.029] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Aug2025 02:10:53.287] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 02:10:53.289] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 02:10:53.291] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 02:10:53.293] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Aug2025 02:10:53.463] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[16Aug2025 02:10:55.690] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Aug2025 02:10:55.739] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Aug2025 02:10:55.888] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 66 options available, 0 override(s) found
+[16Aug2025 02:10:56.836] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[16Aug2025 02:11:04.122] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Aug2025 02:11:04.123] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Aug2025 02:11:07.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Aug2025 02:11:07.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
+[16Aug2025 02:11:07.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Aug2025 02:11:07.276] [main/INFO] [journeymap/]: Initializing Packet Registries
+[16Aug2025 02:11:07.337] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[16Aug2025 02:11:07.338] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[16Aug2025 02:11:07.338] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[16Aug2025 02:11:07.338] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[16Aug2025 02:11:07.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[16Aug2025 02:11:07.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[16Aug2025 02:11:07.438] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[16Aug2025 02:11:07.449] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[16Aug2025 02:11:07.466] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[16Aug2025 02:11:07.471] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[16Aug2025 02:11:07.472] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[16Aug2025 02:11:07.473] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[16Aug2025 02:11:07.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[16Aug2025 02:11:07.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[16Aug2025 02:11:07.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.5 Target: null
+[16Aug2025 02:11:07.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[16Aug2025 02:11:07.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[16Aug2025 02:11:07.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[16Aug2025 02:11:07.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[16Aug2025 02:11:07.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16Aug2025 02:11:07.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[16Aug2025 02:11:07.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[16Aug2025 02:11:08.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
+[16Aug2025 02:11:09.326] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Aug2025 02:11:10.708] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
+[16Aug2025 02:11:10.708] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft-Server-Survival/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
+[16Aug2025 02:11:12.911] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
 	at net.minecraft.util.GsonHelper.m_13933_(GsonHelper.java:447) ~[server-1.20.1-20230612.114412-srg.jar%23137!/:?]
 	at net.minecraftforge.common.crafting.ConditionalRecipe$Serializer.fromJson(ConditionalRecipe.java:56) ~[forge-1.20.1-47.3.7-universal.jar%23142!/:?]
@@ -72,409 +72,46 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Aug2025 00:36:10.331] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[16Aug2025 00:36:10.503] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2749 advancements
-[16Aug2025 00:36:11.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[16Aug2025 00:36:11.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Aug2025 00:36:11.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Aug2025 00:36:11.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Aug2025 00:36:11.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Aug2025 00:36:11.913] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Aug2025 00:36:12.049] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Aug2025 00:36:12.050] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Aug2025 00:36:12.051] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Aug2025 00:36:12.052] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Aug2025 00:36:12.129] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Aug2025 00:36:12.131] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Aug2025 00:36:12.133] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[16Aug2025 00:36:12.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Aug2025 00:36:15.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Aug2025 00:36:19.081] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.097] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.100] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.101] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.102] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.162] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:19.709] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:20.160] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:20.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:21.168] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 00:36:21.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[16Aug2025 00:36:22.158] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
-[16Aug2025 00:36:22.488] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6830 ms
-[16Aug2025 00:36:22.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.375s)! For help, type "help"
-[16Aug2025 00:36:22.526] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Aug2025 00:36:22.559] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[16Aug2025 00:36:22.560] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[16Aug2025 00:52:13.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[16Aug2025 00:57:01.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:32899] logged in with entity id 420 at (-742.31206064843, 63.0, 1178.6391722775916)
-[16Aug2025 00:57:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[16Aug2025 00:57:01.945] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[16Aug2025 00:57:25.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas was kicked for floating too long!
-[16Aug2025 00:57:25.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Flying is not enabled on this server
-[16Aug2025 00:57:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
-[16Aug2025 00:57:40.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:47407] logged in with entity id 818 at (-744.2659707002271, 63.617440455995336, 1181.0970216602218)
-[16Aug2025 00:57:40.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[16Aug2025 00:57:40.876] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[16Aug2025 00:58:05.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c36b802[id=<null>,name=M1lanX,properties={},legacy=false] (/127.82.135.8:33449) lost connection: Disconnected
-[16Aug2025 00:58:10.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 00:58:24.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.034354466231434,0.0205752968174977,3.751557031147513
-[16Aug2025 00:58:27.732] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@663b626b[id=<null>,name=M1lanX,properties={},legacy=false] (/127.82.135.8:55879) lost connection: Disconnected
-[16Aug2025 00:58:27.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.577815689516456,0.0,3.7893797228007315
-[16Aug2025 00:58:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 00:58:35.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:45439] logged in with entity id 1720 at (-665.7975686926615, 75.91690808831828, 1323.9438982481147)
-[16Aug2025 00:58:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
-[16Aug2025 00:58:35.509] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
-[16Aug2025 00:58:52.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> oe
-[16Aug2025 00:59:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> te matastes al boos?
-[16Aug2025 00:59:02.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> tengo mucha plata
-[16Aug2025 00:59:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> yes
-[16Aug2025 00:59:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> te dio su cosa
-[16Aug2025 00:59:23.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> toma plata
-[16Aug2025 00:59:31.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> yes
-[16Aug2025 01:00:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> toma
-[16Aug2025 01:00:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 01:00:55.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> help
-[16Aug2025 01:01:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> q paso
-[16Aug2025 01:01:15.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -3.1362362432629425,0.0,10.29403069731461
-[16Aug2025 01:01:15.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -3.674182432455609,0.0,12.030860459335827
-[16Aug2025 01:01:15.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -4.215188031688172,0.0,13.77193761652893
-[16Aug2025 01:01:15.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -4.758892030576021,0.0,15.51676097626364
-[16Aug2025 01:01:15.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! -9.162139629705052,4.081038357748213,3.529849889663865
-[16Aug2025 01:01:15.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.304976017959689,0.0,17.264888486640075
-[16Aug2025 01:01:15.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.8531591551967495,0.0,19.0159302578827
-[16Aug2025 01:01:15.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! -10.190797958363305,4.272891593672071,3.9186334570467807
-[16Aug2025 01:01:15.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! -11.231256229778523,4.442106147756917,4.3110891668409295
-[16Aug2025 01:01:15.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -6.403193742604458,0.0,20.769542407208974
-[16Aug2025 01:01:15.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! -12.282122050705425,4.591353384459751,4.706783706241595
-[16Aug2025 01:01:15.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -6.954861309062721,0.0,22.525421630005212
-[16Aug2025 01:01:15.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! -13.342167330301663,4.7229894472316545,5.105334893355348
-[16Aug2025 01:01:15.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -7.50796916304364,0.0,24.283300411602113
-[16Aug2025 01:01:15.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! -13.403449529812178,4.8856424545964785,5.176853630907317
-[16Aug2025 01:01:15.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.460588577683097,0.0,17.480926227982764
-[16Aug2025 01:01:15.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -6.0160871994895615,0.0,19.242124125221835
-[16Aug2025 01:01:15.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -6.565963813167741,0.0,21.00668257255984
-[16Aug2025 01:01:15.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -7.074251287095308,0.0,22.78130346173066
-[16Aug2025 01:01:17.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 4.739137735492818,0.0,9.86500093074892
-[16Aug2025 01:01:17.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 5.390960579132297,0.0,11.571655729751228
-[16Aug2025 01:01:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[16Aug2025 01:01:25.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e jugar ahora<--[HERE]
-[16Aug2025 01:01:32.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> el ultimo dragon para tu entrenamiento
-[16Aug2025 01:01:35.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 7.040715283273698,-0.061685875858273675,8.365309850003086
-[16Aug2025 01:01:35.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.105342092155638,-0.06816083792644179,9.866130631720353
-[16Aug2025 01:01:35.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 9.14812248968542,-0.07387175447055938,11.388351511616747
-[16Aug2025 01:01:35.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.171634352402748,-0.07890878286247016,12.92944727810709
-[16Aug2025 01:01:35.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 6.218359626229244,-0.032925218155270386,9.17086512016931
-[16Aug2025 01:01:35.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.16331268777492,0.0394295063110377,-12.353042055476408
-[16Aug2025 01:01:35.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.16331268777492,0.0394295063110377,-12.353042055476408
-[16Aug2025 01:01:35.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.16331268777492,0.0394295063110377,-12.353042055476408
-[16Aug2025 01:01:35.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.16331268777492,0.0394295063110377,-12.353042055476408
-[16Aug2025 01:01:35.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -7.2160222905966975,0.0394295063110377,-10.7372819965492
-[16Aug2025 01:01:46.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 5.6187356125393535,2.0265567286461703,8.631766825370732
-[16Aug2025 01:02:05.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.458995327690957,0.554189531573428,-1.5988421671190736
-[16Aug2025 01:02:05.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 12.239417995405972,0.6123609710736986,-1.9338103109603253
-[16Aug2025 01:02:06.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.944797832009499,0.1083302946965432,-2.4919621635549447
-[16Aug2025 01:02:06.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 12.776213579490616,0.11970136691094524,-2.920678155161795
-[16Aug2025 01:02:06.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 14.609091320350785,0.12973065260405292,-3.3520819376092277
-[16Aug2025 01:02:06.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 16.4432585393713,0.13857648258536415,-3.7858563515783317
-[16Aug2025 01:02:06.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 18.278563078129253,0.1463785046288848,-4.221721662549271
-[16Aug2025 01:02:06.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.999831059502071,0.0578219654999117,-2.5931375908221526
-[16Aug2025 01:02:06.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 12.837023462587808,0.06389134569609212,-3.0324736319082604
-[16Aug2025 01:02:06.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 14.674996213691259,0.0692445390291283,-3.473244297996416
-[16Aug2025 01:02:06.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 16.513657231746322,0.07396605554886548,-3.9152803033364307
-[16Aug2025 01:02:10.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -4.874685471875296,-3.5644228580454893,-9.354266152210585
-[16Aug2025 01:02:10.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.427117743201052,-4.423690225559923,-10.478105478628322
-[16Aug2025 01:02:10.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.979379051038848,-5.341547701803137,-11.611999674780236
-[16Aug2025 01:02:18.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -3.3098942901349915,-6.787113705666215,-7.022997507252057
-[16Aug2025 01:02:18.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -3.8612969259961005,-8.001449211692233,-8.207768482887559
-[16Aug2025 01:02:18.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -4.412650095354138,-9.232476786102666,-9.395404393649414
-[16Aug2025 01:02:18.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -4.963959635256401,-10.478226764828136,-10.585567177192615
-[16Aug2025 01:02:20.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -3.307099701740185,-7.750823031296292,-7.188375338175547
-[16Aug2025 01:02:20.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -3.8582089989139376,-9.02917880724172,-8.390505476945918
-[16Aug2025 01:02:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -4.409303443549675,-9.18916246533719,-9.593452169592638
-[16Aug2025 01:02:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -4.960384788246927,-9.49025170987288,-10.797119062758384
-[16Aug2025 01:02:20.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.511454578798407,-9.915796081648821,-12.001421172781875
-[16Aug2025 01:02:26.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> y esto
-[16Aug2025 01:02:28.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved wrongly! 0.38298853968103685
-[16Aug2025 01:02:28.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved wrongly! 1.0
-[16Aug2025 01:02:28.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: Anyelo ando en llamada con Milan , no voy a poder jugar
-[16Aug2025 01:02:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> dejalo
-[16Aug2025 01:02:38.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Cover Me with Diamonds]
-[16Aug2025 01:03:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> inventen en llamada
-[16Aug2025 01:03:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: Anyelo ando en la consola del server
-[16Aug2025 01:03:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
-[16Aug2025 01:03:27.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> milan
-[16Aug2025 01:03:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> q
-[16Aug2025 01:03:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> hay iglu
-[16Aug2025 01:03:43.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 01:03:45.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:03:49.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 01:03:49.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3589ms or 71 ticks behind
-[16Aug2025 01:03:51.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:04:07.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Adventure Mode]
-[16Aug2025 01:05:50.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:06:21.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.677067292005944,0.0,7.835279794680446
-[16Aug2025 01:06:21.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -10.024748829819089,0.0,8.946206291639328
-[16Aug2025 01:06:21.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -11.390523110596746,0.0,10.055727019383312
-[16Aug2025 01:06:21.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.226383795616556,0.0,-6.654658379997045
-[16Aug2025 01:06:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.226383795616556,0.0,-6.654658379997045
-[16Aug2025 01:06:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.226383795616556,0.0,-6.654658379997045
-[16Aug2025 01:06:21.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.181592936732102,0.0,-6.720624639018297
-[16Aug2025 01:06:23.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -7.161533754529046,0.0,7.296209037328481
-[16Aug2025 01:06:23.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -7.546256312113059,0.0,8.646007938455568
-[16Aug2025 01:06:23.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -7.824137830979282,0.0,10.047270218146423
-[16Aug2025 01:06:23.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.007785553696408,0.0,11.49392319773051
-[16Aug2025 01:06:38.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.264632447707271,0.0,-5.956306581978879
-[16Aug2025 01:06:38.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.742867909726556,0.0,-7.203675148213733
-[16Aug2025 01:07:06.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -8.888207761247912,0.0,5.446716208594353
-[16Aug2025 01:07:06.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -10.505017482839918,0.0,6.10005642148144
-[16Aug2025 01:07:06.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -12.149016695436927,0.0,6.7023174670976005
-[16Aug2025 01:07:06.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 9.914993933224451,0.0,-3.443560428267574
-[16Aug2025 01:07:06.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 9.914993933224451,0.0,-3.443560428267574
-[16Aug2025 01:07:06.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 9.914993933224451,0.0,-3.443560428267574
-[16Aug2025 01:07:06.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 9.899913059585117,0.0,-3.4543523729810204
-[16Aug2025 01:07:12.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -9.51498177700455,0.0,-4.184072465377312
-[16Aug2025 01:07:12.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -10.62393399200269,0.0,-5.237892572684586
-[16Aug2025 01:08:01.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.00530008030384,0.0,-9.385987743284659
-[16Aug2025 01:08:01.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -5.770025794667021,0.0,-11.01697629176465
-[16Aug2025 01:08:01.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 4.453362404939185,0.0,9.899336203705161
-[16Aug2025 01:08:01.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 4.453362404939185,0.0,9.899336203705161
-[16Aug2025 01:08:54.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.39913544916109345
-[16Aug2025 01:08:54.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.4947559766264362
-[16Aug2025 01:08:54.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.1161861346138267
-[16Aug2025 01:08:54.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.6001086975398948
-[16Aug2025 01:08:54.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.2785095126265844
-[16Aug2025 01:08:54.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 1.9605236626211422
-[16Aug2025 01:08:54.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 2.6444712360827793
-[16Aug2025 01:08:54.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 3.3294533458933415
-[16Aug2025 01:08:54.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.6139964384997825
-[16Aug2025 01:08:54.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.6142926372980071
-[16Aug2025 01:08:54.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.4378382115171462
-[16Aug2025 01:08:54.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.3434209664034995
-[16Aug2025 01:08:54.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.2929001810199736
-[16Aug2025 01:08:54.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.26586751603704784
-[16Aug2025 01:08:55.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.2514028759778739
-[16Aug2025 01:08:57.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.31515608769183245
-[16Aug2025 01:08:57.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.5925673444984625
-[16Aug2025 01:08:57.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved wrongly! 0.4290526953799656
-[16Aug2025 01:10:08.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.859477572754301,0.050590718029340564,-6.338320317640864
-[16Aug2025 01:10:08.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.2561102960468,0.05590105813043067,-7.529054487824851
-[16Aug2025 01:10:08.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 11.636693946000037,0.06058477809959584,-8.746758469695123
-[16Aug2025 01:10:08.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 13.003122313268051,0.06471581911239355,-9.988249825473076
-[16Aug2025 01:10:08.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 14.35706572120769,0.06835939728568974,-11.250721645037402
-[16Aug2025 01:10:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.255348773833703,0.027003108970603762,-7.353534068419094
-[16Aug2025 01:10:08.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 9.58856809814516,0.027003108970603762,-8.65083186335346
-[16Aug2025 01:10:08.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.913221130197115,0.027003108970603762,-9.962524962253838
-[16Aug2025 01:10:09.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 12.230318692476203,0.027003108970603762,-11.286914719252081
-[16Aug2025 01:10:11.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 7.823778238221667,0.0,-8.136704531821806
-[16Aug2025 01:10:11.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 9.111697032890895,0.0,-9.516209136222415
-[16Aug2025 01:10:11.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.39639499779841,0.0,-10.900408641071863
-[16Aug2025 01:10:11.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 11.678252190856092,0.0,-12.288749048117324
-[16Aug2025 01:10:11.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 12.957603823142225,0.0,-13.680741730899626
-[16Aug2025 01:10:11.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 14.23474555082785,0.0,-15.075955720881666
-[16Aug2025 01:10:11.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 8.977730433527096,0.0,-9.711487960011027
-[16Aug2025 01:10:11.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 10.251203887528625,0.0,-11.11204907512547
-[16Aug2025 01:10:11.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! 11.52316106196723,0.0,-12.514820422424691
-[16Aug2025 01:10:15.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer frost (vehicle of 2apjnas) moved too quickly! -9.632349232993917,-1.9780019789562004,3.506410454275965
-[16Aug2025 01:10:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 01:10:31.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:10:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:10:49.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 01:11:01.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:11:06.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 4.295227977598785,0.3284538529812977,-9.719959316858649
-[16Aug2025 01:11:15.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 4.178554136738711,0.0,-9.645802537696682
-[16Aug2025 01:11:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:11:30.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.022178831562798,0.0,2.4400937868338133
-[16Aug2025 01:11:30.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:11:50.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! 8.67891493031452,0.6039184428989586,-5.021341423471995
-[16Aug2025 01:14:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:14:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:14:51.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:15:05.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:15:30.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:15:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:15:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:15:55.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 8.295747956602781,0.0,11.85715959107597
-[16Aug2025 01:15:57.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 3.4314610309169495,0.0,10.176767621706631
-[16Aug2025 01:15:59.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 10.570574102459517,0.0,9.785041786703005
-[16Aug2025 01:16:01.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.153166952459173,0.0,11.43049586652478
-[16Aug2025 01:16:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:16:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:16:22.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of M1lanX) moved too quickly! -4.389342187471755,-1.4220601634382604,-8.974080977376389
-[16Aug2025 01:16:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
-[16Aug2025 01:17:30.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 8.126682064147076,0.0,6.6247598218982375
-[16Aug2025 01:17:42.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 6.045038454046789,-0.010077696398710145,9.03023365780382
-[16Aug2025 01:17:46.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 8.368701479377819,0.0,6.258797205927749
-[16Aug2025 01:17:52.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 7.531057215086548,0.1929037426973963,7.84414110800185
-[16Aug2025 01:17:55.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 5.883551295463121,0.0,8.96492387708804
-[16Aug2025 01:18:15.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 1.3850716238403038,0.0,10.51533678381361
-[16Aug2025 01:18:20.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -2.6380613107577346,0.0,10.519366037565078
-[16Aug2025 01:18:59.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:19:35.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
-[16Aug2025 01:20:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
-[16Aug2025 01:20:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:20:47.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
-[16Aug2025 01:20:52.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 01:21:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:21:10.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:21:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:21:55.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:22:48.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:23:02.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:23:19.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:23:39.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 8.768280201560401,0.0,6.41332680465257
-[16Aug2025 01:23:51.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:23:51.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 8.988425077952797,0.0,5.324098929716456
-[16Aug2025 01:23:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:23:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:24:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:24:01.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:24:05.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:25:37.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was killed
-[16Aug2025 01:25:37.051] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-01.25.37.dat
-[16Aug2025 01:25:37.056] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1301 Y: 66 Z: 1240
-[16Aug2025 01:25:37.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Killed M1lanX]
-[16Aug2025 01:25:37.065] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
-[16Aug2025 01:27:24.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by M1lanX
-[16Aug2025 01:27:24.555] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.27.24.dat
-[16Aug2025 01:27:24.555] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1308 Y: 64 Z: 1252
-[16Aug2025 01:27:24.561] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:28:34.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.554960074576002,-0.08307781780646906,-3.9378617718016358
-[16Aug2025 01:29:00.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:29:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:30:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
-[16Aug2025 01:32:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:32:57.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Adventure Mode]
-[16Aug2025 01:33:27.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was doomed to fall by 2apjnas
-[16Aug2025 01:33:27.689] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-01.33.27.dat
-[16Aug2025 01:33:27.690] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1320 Y: 52 Z: 1218
-[16Aug2025 01:33:27.692] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
-[16Aug2025 01:33:35.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
-[16Aug2025 01:33:35.429] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.33.35.dat
-[16Aug2025 01:33:35.430] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1319 Y: 52 Z: 1219
-[16Aug2025 01:33:35.436] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:33:49.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 2apjnas
-[16Aug2025 01:34:20.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:34:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:34:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:34:33.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:34:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:34:51.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:34:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:35:02.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:36:07.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by M1lanX
-[16Aug2025 01:36:07.348] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.36.07.dat
-[16Aug2025 01:36:07.349] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1327 Y: 53 Z: 1220
-[16Aug2025 01:36:07.352] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:36:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:36:28.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:37:31.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:37:35.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:37:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:38:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:38:36.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
-[16Aug2025 01:39:32.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:39:36.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:39:57.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:40:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
-[16Aug2025 01:40:16.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:40:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> tst
-[16Aug2025 01:40:28.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:41:14.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Frostmaw
-[16Aug2025 01:41:14.028] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.41.14.dat
-[16Aug2025 01:41:14.028] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 480 Y: 66 Z: 1293
-[16Aug2025 01:41:14.037] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:41:23.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[16Aug2025 01:41:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:42:15.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Frostmaw
-[16Aug2025 01:42:15.826] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.42.15.dat
-[16Aug2025 01:42:15.829] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 498 Y: 64 Z: 1300
-[16Aug2025 01:42:15.841] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:42:26.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
-[16Aug2025 01:42:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:42:58.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:43:29.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:43:47.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Adventure Mode]
-[16Aug2025 01:43:50.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:44:03.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Adventure Mode]
-[16Aug2025 01:44:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:44:53.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
-[16Aug2025 01:44:53.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
-[16Aug2025 01:45:06.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:40215] logged in with entity id 25795 at (744.6999999880791, 70.0, 1303.699999988079)
-[16Aug2025 01:45:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
-[16Aug2025 01:45:06.207] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
-[16Aug2025 01:47:11.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
-[16Aug2025 01:47:11.377] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.47.11.dat
-[16Aug2025 01:47:11.399] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 743 Y: 72 Z: 1320
-[16Aug2025 01:47:11.404] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:47:19.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Scuttler
-[16Aug2025 01:47:19.021] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:47:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Scuttler
-[16Aug2025 01:47:27.539] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:47:30.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:48:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
-[16Aug2025 01:48:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:48:58.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:49:00.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:49:12.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:49:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:49:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:49:17.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:49:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by Dread Ghoul
-[16Aug2025 01:49:47.072] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-01.49.47.dat
-[16Aug2025 01:49:47.072] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 769 Y: 70 Z: 1335
-[16Aug2025 01:49:47.078] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
-[16Aug2025 01:49:52.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:49:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 01:49:56.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:50:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:50:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to M1lanX]
-[16Aug2025 01:50:15.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:50:25.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
-[16Aug2025 01:50:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:50:41.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
-[16Aug2025 01:50:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:51:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:51:17.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:51:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Beast
-[16Aug2025 01:51:35.225] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.51.35.dat
-[16Aug2025 01:51:35.226] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 747 Y: 72 Z: 1332
-[16Aug2025 01:51:35.231] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:51:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Ashes 'n Bones]
-[16Aug2025 01:51:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
-[16Aug2025 01:51:54.686] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:51:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
-[16Aug2025 01:52:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:52:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:52:23.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
-[16Aug2025 01:52:23.852] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:52:34.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:52:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 01:52:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:52:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:53:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
-[16Aug2025 01:53:03.650] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:53:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [Another Brick in the Wall]
-[16Aug2025 01:54:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [A Strange Grave Dust]
-[16Aug2025 01:54:48.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Ghoul
-[16Aug2025 01:54:48.489] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 01:55:46.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 01:55:53.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 01:59:28.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Ghoul
-[16Aug2025 01:59:28.601] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
-[16Aug2025 02:00:37.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
-[16Aug2025 02:01:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 02:01:49.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> NAI NAI NAI NAI
-[16Aug2025 02:01:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
-[16Aug2025 02:02:02.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> NEIN NEIN NEIN NEIN
-[16Aug2025 02:02:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
-[16Aug2025 02:06:11.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 02:06:24.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 02:06:44.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 02:06:53.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
-[16Aug2025 02:06:53.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 02:07:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
-[16Aug2025 02:07:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
-[16Aug2025 02:07:16.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:11:12.923] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[16Aug2025 02:11:13.084] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2749 advancements
+[16Aug2025 02:11:14.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Aug2025 02:11:14.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Aug2025 02:11:14.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Aug2025 02:11:14.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Aug2025 02:11:14.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Aug2025 02:11:14.440] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Aug2025 02:11:14.548] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Aug2025 02:11:14.548] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Aug2025 02:11:14.548] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Aug2025 02:11:14.549] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Aug2025 02:11:14.576] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Aug2025 02:11:14.577] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Aug2025 02:11:14.578] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Aug2025 02:11:14.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Aug2025 02:11:18.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Aug2025 02:11:22.692] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.719] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.727] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.737] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.742] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.749] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.761] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.768] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:22.789] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:23.080] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:23.760] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:24.073] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Aug2025 02:11:24.573] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[16Aug2025 02:11:24.955] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6883 ms
+[16Aug2025 02:11:24.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.390s)! For help, type "help"
+[16Aug2025 02:11:24.999] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Aug2025 02:11:25.033] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[16Aug2025 02:11:25.034] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16Aug2025 02:15:39.140] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ae228c3[id=<null>,name=M1lanX,properties={},legacy=false] (/127.82.135.8:46625) lost connection: Disconnected
+[16Aug2025 02:17:02.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2apjnas[/127.202.244.173:44171] logged in with entity id 419 at (-213.24730605063712, 75.50044026199419, 756.5652834825811)
+[16Aug2025 02:17:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas joined the game
+[16Aug2025 02:17:03.105] [Server thread/INFO] [Jade/]: Syncing config to 2apjnas (53fde1ce-5e17-3528-9667-f2cd2fabda1c)
+[16Aug2025 02:18:31.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [The Heart and the Flame]
+[16Aug2025 02:18:37.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:19:44.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
