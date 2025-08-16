@@ -2918,3 +2918,20 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 14:50:57.661] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-513, y:69, z:783, dim:minecraft:overworld]
 [16Aug2025 14:50:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
 [16Aug2025 14:50:57.681] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 14:53:28.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 14:53:28.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 14:55:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: oe q fue
+[16Aug2025 14:55:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> por?
+[16Aug2025 14:58:28.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 14:58:28.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 15:00:45.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:01:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[16Aug2025 15:01:09.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to rain]
+[16Aug2025 15:01:14.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to clear]
+[16Aug2025 15:01:38.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 10.03651019368931,0.530851796147978,-2.263961521529268
+[16Aug2025 15:01:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:02:05.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
+[16Aug2025 15:02:05.843] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-144, y:24, z:527, dim:minecraft:overworld]
+[16Aug2025 15:02:05.850] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:03:28.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 15:03:28.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
