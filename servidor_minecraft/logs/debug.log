@@ -3628,3 +3628,46 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 01:25:37.062] [Server thread/DEBUG] [tombstone/]: A new grave of the player M1lanX was created at position [x:1306, y:66, z:1243, dim:minecraft:overworld]
 [16Aug2025 01:25:37.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Killed M1lanX]
 [16Aug2025 01:25:37.065] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 01:26:26.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 01:26:26.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 01:27:24.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by M1lanX
+[16Aug2025 01:27:24.555] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.27.24.dat
+[16Aug2025 01:27:24.555] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1308 Y: 64 Z: 1252
+[16Aug2025 01:27:24.557] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:1307, y:64, z:1252, dim:minecraft:overworld]
+[16Aug2025 01:27:24.561] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:28:34.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.554960074576002,-0.08307781780646906,-3.9378617718016358
+[16Aug2025 01:29:00.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 01:29:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 01:30:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[16Aug2025 01:31:26.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 01:31:26.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 01:32:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 01:32:57.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Adventure Mode]
+[16Aug2025 01:33:27.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was doomed to fall by 2apjnas
+[16Aug2025 01:33:27.689] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-01.33.27.dat
+[16Aug2025 01:33:27.690] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1320 Y: 52 Z: 1218
+[16Aug2025 01:33:27.691] [Server thread/DEBUG] [tombstone/]: A new grave of the player M1lanX was created at position [x:1319, y:52, z:1218, dim:minecraft:overworld]
+[16Aug2025 01:33:27.692] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 01:33:35.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Dread Knight
+[16Aug2025 01:33:35.429] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.33.35.dat
+[16Aug2025 01:33:35.430] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1319 Y: 52 Z: 1219
+[16Aug2025 01:33:35.431] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:1318, y:52, z:1219, dim:minecraft:overworld]
+[16Aug2025 01:33:35.436] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:33:49.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 2apjnas
+[16Aug2025 01:34:20.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:34:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 01:34:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 01:34:33.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 01:34:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:34:51.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 01:34:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 01:35:02.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 01:36:07.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by M1lanX
+[16Aug2025 01:36:07.348] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-01.36.07.dat
+[16Aug2025 01:36:07.349] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1327 Y: 53 Z: 1220
+[16Aug2025 01:36:07.350] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:1326, y:53, z:1220, dim:minecraft:overworld]
+[16Aug2025 01:36:07.352] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 01:36:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 01:36:26.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 01:36:26.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 01:36:28.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]

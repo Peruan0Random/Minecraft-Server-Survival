@@ -33,6 +33,7 @@
       "minecraft:snowy_taiga": "2025-08-16 01:11:52 +0000",
       "minecraft:forest": "2025-08-15 23:51:24 +0000",
       "minecraft:ice_spikes": "2025-08-16 01:02:00 +0000",
+      "minecraft:frozen_ocean": "2025-08-16 01:29:05 +0000",
       "minecraft:snowy_beach": "2025-08-16 01:15:55 +0000",
       "minecraft:flower_forest": "2025-08-15 23:05:56 +0000",
       "minecraft:plains": "2025-08-15 23:06:50 +0000"
@@ -1798,9 +1799,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-16 01:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-16 01:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-16 01:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-16 01:22:23 +0000"
     },
     "done": true
   },
@@ -1822,6 +1859,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-08-16 01:22:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-08-16 01:08:10 +0000"
@@ -1831,6 +1874,24 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-16 01:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-16 01:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-08-16 01:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-16 01:22:11 +0000"
     },
     "done": true
   },
@@ -1855,6 +1916,18 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-16 01:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-16 01:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-16 01:22:11 +0000"
     },
     "done": true
   },
