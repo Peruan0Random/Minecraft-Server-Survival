@@ -771,7 +771,8 @@
       "bread": "2025-08-10 20:40:29 +0000",
       "golden_apple": "2025-08-10 21:04:42 +0000",
       "rotten_flesh": "2025-08-10 00:35:48 +0000",
-      "cooked_chicken": "2025-08-09 23:40:39 +0000"
+      "cooked_chicken": "2025-08-09 23:40:39 +0000",
+      "rabbit_stew": "2025-08-16 20:15:48 +0000"
     },
     "done": false
   },
@@ -4557,6 +4558,42 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-08-16 16:08:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-08-16 20:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-08-16 20:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 20:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-16 20:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-16 20:15:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-08-16 20:21:17 +0000"
     },
     "done": true
   },

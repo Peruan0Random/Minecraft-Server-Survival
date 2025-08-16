@@ -122,3 +122,32 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 20:05:04.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to NoobToMC]
 [16Aug2025 20:06:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
 [16Aug2025 20:07:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Summoned new Cockatrice]
+[16Aug2025 20:13:28.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to clear]
+[16Aug2025 20:16:19.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[16Aug2025 20:18:40.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 20:19:28.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to NoobToMC]
+[16Aug2025 20:19:30.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -0.11049175471043782,-10.188594643186804,-0.014037845394454962
+[16Aug2025 20:19:34.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 20:19:46.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.890745949916663,4.430493044549046,1.6651888659994825
+[16Aug2025 20:19:47.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.6298612454410772
+[16Aug2025 20:19:47.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.6727693462181605
+[16Aug2025 20:19:47.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 2.7493574692381344
+[16Aug2025 20:19:47.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 3.8556601001566833
+[16Aug2025 20:19:47.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.7576191219340558
+[16Aug2025 20:19:47.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 2.1453590702716383
+[16Aug2025 20:20:02.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 20:20:45.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 20:20:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 20:21:57.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 20:22:33.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.422506178981166,-0.008705655863799677,-4.58434100504445
+[16Aug2025 20:23:02.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to NoobToMC]
+[16Aug2025 20:23:28.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 4.746843954859287,-8.999609043533468,17.134891533405735
+[16Aug2025 20:23:31.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 20:24:06.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 20:25:19.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 20:25:23.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[16Aug2025 20:25:27.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 20:26:02.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[16Aug2025 20:26:05.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 20:29:14.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 20:29:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
