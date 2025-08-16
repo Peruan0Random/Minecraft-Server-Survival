@@ -3632,3 +3632,75 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Aug2025 23:50:09.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
 [15Aug2025 23:50:24.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> osino te doy una
 [15Aug2025 23:50:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[15Aug2025 23:50:31.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> a
+[15Aug2025 23:50:39.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> trajistes cama
+[15Aug2025 23:50:39.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:50:44.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> no
+[15Aug2025 23:50:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ya pera
+[15Aug2025 23:50:51.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[15Aug2025 23:50:56.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Applied effect Saturation to M1lanX]
+[15Aug2025 23:51:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[15Aug2025 23:51:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[15Aug2025 23:51:26.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:51:31.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> pon check point
+[15Aug2025 23:51:32.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ya
+[15Aug2025 23:52:02.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:52:16.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> encontrastes el punto mas debil de los dragones en cuerpo a cuerpo
+[15Aug2025 23:52:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:52:37.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Applied effect Saturation to M1lanX]
+[15Aug2025 23:52:40.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> pera
+[15Aug2025 23:52:46.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ponte en spectador
+[15Aug2025 23:53:00.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:53:08.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[15Aug2025 23:53:14.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ven
+[15Aug2025 23:53:20.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> pera
+[15Aug2025 23:53:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ontas
+[15Aug2025 23:53:34.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:53:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Applied effect Saturation to M1lanX]
+[15Aug2025 23:53:37.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> aca
+[15Aug2025 23:54:08.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[15Aug2025 23:54:13.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX walked into a cactus whilst trying to escape Ice Dragon
+[15Aug2025 23:54:13.628] [Server thread/DEBUG] [tombstone/]: A new grave of the player M1lanX was created at position [x:-937, y:67, z:1047, dim:minecraft:overworld]
+[15Aug2025 23:54:13.629] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[15Aug2025 23:54:38.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> esta abajo
+[15Aug2025 23:54:44.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 23:54:44.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 23:54:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:54:52.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> en la cueva
+[15Aug2025 23:54:53.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:54:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[15Aug2025 23:55:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[15Aug2025 23:55:01.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> EZZZZZ
+[15Aug2025 23:55:24.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> tu premio XD
+[15Aug2025 23:55:30.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> NO DIO ESCAMAS
+[15Aug2025 23:55:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Dragon Growth Hormone]
+[15Aug2025 23:55:45.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> es q le saque la sangre
+[15Aug2025 23:56:04.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> mas?
+[15Aug2025 23:56:07.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> SI
+[15Aug2025 23:56:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> me va a salir caro
+[15Aug2025 23:56:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> te acabo de dar todo lo q tenia
+[15Aug2025 23:56:56.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[15Aug2025 23:56:58.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ya
+[15Aug2025 23:56:59.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> dice q esta eb etapa 2
+[15Aug2025 23:57:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> mira
+[15Aug2025 23:57:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> en*
+[15Aug2025 23:57:10.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[15Aug2025 23:57:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[15Aug2025 23:57:25.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> un truco es fijarte abajo del nido de dragon
+[15Aug2025 23:57:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> porq
+[15Aug2025 23:57:45.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> abajo puede aver una cueva de dragon madre+}
+[15Aug2025 23:58:18.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> por ejemplo este no tiene
+[15Aug2025 23:58:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> asu
+[15Aug2025 23:58:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Applied effect Night Vision to M1lanX]
+[15Aug2025 23:58:46.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> pete creo q tengo para hacer mas comida
+[15Aug2025 23:58:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[15Aug2025 23:58:51.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[15Aug2025 23:58:55.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ok
+[15Aug2025 23:59:14.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> primero recolecta las pilas de plata
+[15Aug2025 23:59:44.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 23:59:44.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 23:59:44.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ya
+[15Aug2025 23:59:52.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> toma y dame la plata
+[16Aug2025 00:00:11.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> oooo
+[16Aug2025 00:00:31.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> veeeen
+[16Aug2025 00:00:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> con eso le hacer tp a ti
