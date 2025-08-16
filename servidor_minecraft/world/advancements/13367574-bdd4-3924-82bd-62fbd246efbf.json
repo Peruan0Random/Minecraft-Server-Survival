@@ -3799,15 +3799,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-08-15 03:00:55 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-08-15 02:57:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-08-15 03:00:55 +0000"
     },
     "done": true
   },
@@ -3847,12 +3847,6 @@
     },
     "done": true
   },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-08-15 03:10:31 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-15 03:00:55 +0000"
@@ -3868,6 +3862,12 @@
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-08-15 03:00:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-15 03:10:31 +0000"
     },
     "done": true
   },

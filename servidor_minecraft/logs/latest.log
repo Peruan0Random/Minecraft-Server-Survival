@@ -133,3 +133,128 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 02:31:00.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoobToMC[/127.71.230.70:56895] logged in with entity id 3341 at (-1923.1269043150912, 64.0, 315.693167104724)
 [16Aug2025 02:31:00.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC joined the game
 [16Aug2025 02:31:00.619] [Server thread/INFO] [Jade/]: Syncing config to NoobToMC (13367574-bdd4-3924-82bd-62fbd246efbf)
+[16Aug2025 02:31:59.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
+[16Aug2025 02:32:08.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.6055966804863147
+[16Aug2025 02:32:27.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 02:32:27.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to NoobToMC]
+[16Aug2025 02:32:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 02:33:36.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 02:33:49.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[16Aug2025 02:33:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 02:34:01.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 02:34:28.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:34:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 02:34:31.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:34:35.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:34:40.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 02:34:44.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:34:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:35:00.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:35:13.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 02:35:29.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:35:39.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 02:35:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:35:52.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.7803935594506584
+[16Aug2025 02:35:52.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.9377018463290971
+[16Aug2025 02:35:52.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 3.222974788336112
+[16Aug2025 02:35:52.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.03085401066528
+[16Aug2025 02:35:52.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.1018584755140637
+[16Aug2025 02:35:53.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.1644844135105359
+[16Aug2025 02:35:53.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.219686746128673
+[16Aug2025 02:35:53.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.2684089481927003
+[16Aug2025 02:35:53.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.311381930413063
+[16Aug2025 02:35:53.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.3492503560366913
+[16Aug2025 02:35:53.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.3826840521314807
+[16Aug2025 02:35:53.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.4121725720872291
+[16Aug2025 02:35:53.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.43814770199333
+[16Aug2025 02:35:53.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.241598339380289
+[16Aug2025 02:35:53.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.0682418015558142
+[16Aug2025 02:35:53.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.9153413351943982
+[16Aug2025 02:35:53.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.7804831238638599
+[16Aug2025 02:35:53.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.6615381814701777
+[16Aug2025 02:35:53.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.5566287422789173
+[16Aug2025 02:35:53.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.4640986169124517
+[16Aug2025 02:35:53.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.3824870463390653
+[16Aug2025 02:35:53.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.31050564109341394
+[16Aug2025 02:35:57.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to NoobToMC]
+[16Aug2025 02:36:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 02:36:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:36:21.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:36:59.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:37:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:37:14.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by NoobToMC
+[16Aug2025 02:37:14.579] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-02.37.14.dat
+[16Aug2025 02:37:14.582] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1777 Y: 65 Z: 140
+[16Aug2025 02:37:14.584] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 02:37:17.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [A Flaming Sword]
+[16Aug2025 02:37:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 02:37:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported M1lanX to NoobToMC]
+[16Aug2025 02:37:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 02:38:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 02:38:30.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[16Aug2025 02:38:30.155] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-02.38.30.dat
+[16Aug2025 02:38:30.155] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1348 Y: 72 Z: -85
+[16Aug2025 02:38:30.171] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 02:38:37.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 02:38:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[16Aug2025 02:38:51.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 02:39:35.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by NoobToMC
+[16Aug2025 02:39:35.566] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2apjnas with unique ID travelersbackpack.standard_16.08.2025-02.39.35.dat
+[16Aug2025 02:39:35.567] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1310 Y: 72 Z: -102
+[16Aug2025 02:39:35.569] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 02:39:37.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has made the advancement [Draconic Evolution]
+[16Aug2025 02:40:03.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was killed
+[16Aug2025 02:40:03.537] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_16.08.2025-02.40.03.dat
+[16Aug2025 02:40:03.538] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1310 Y: 72 Z: -106
+[16Aug2025 02:40:03.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Killed NoobToMC]
+[16Aug2025 02:40:03.540] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[16Aug2025 02:40:13.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Banned 2apjnas: Banned by an operator.]
+[16Aug2025 02:40:13.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas lost connection: Disconnected
+[16Aug2025 02:40:13.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas left the game
+[16Aug2025 02:40:13.556] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:40:20.745] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7149ab69[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:57299): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:20.746] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7149ab69[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:57299) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:20.793] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:40:26.045] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@48bd3518[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:39221): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:26.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48bd3518[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:39221) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:26.094] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:40:33.396] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2add5b2a[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:51455): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:33.397] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2add5b2a[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:51455) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:33.443] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:40:42.295] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1410c765[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:50921): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:42.296] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1410c765[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:50921) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:42.343] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:40:50.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was killed
+[16Aug2025 02:40:50.238] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_16.08.2025-02.40.50.dat
+[16Aug2025 02:40:50.238] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1313 Y: 73 Z: -108
+[16Aug2025 02:40:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Killed NoobToMC]
+[16Aug2025 02:40:50.240] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[16Aug2025 02:40:50.392] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@403b98ca[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:42229): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:50.392] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@403b98ca[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:42229) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:50.444] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:40:55.793] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@72678a6f[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:43111): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:55.793] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72678a6f[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:43111) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:40:55.844] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:41:09.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7a063b74[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:47517): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:41:09.547] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a063b74[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:47517) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:41:09.593] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 02:41:11.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set the time to 1000]
+[16Aug2025 02:41:17.442] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4116a61b[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:55057): You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:41:17.442] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4116a61b[id=53fde1ce-5e17-3528-9667-f2cd2fabda1c,name=2apjnas,properties={},legacy=false] (/127.202.244.173:55057) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16Aug2025 02:41:17.492] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
