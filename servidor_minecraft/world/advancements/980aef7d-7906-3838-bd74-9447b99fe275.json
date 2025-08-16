@@ -28,6 +28,7 @@
       "minecraft:taiga": "2025-08-15 23:50:30 +0000",
       "minecraft:frozen_river": "2025-08-16 00:09:00 +0000",
       "minecraft:beach": "2025-08-16 02:33:15 +0000",
+      "minecraft:sparse_jungle": "2025-08-16 02:52:50 +0000",
       "minecraft:river": "2025-08-16 00:07:31 +0000",
       "minecraft:snowy_plains": "2025-08-16 00:07:32 +0000",
       "minecraft:dripstone_caves": "2025-08-15 23:52:10 +0000",
@@ -37,6 +38,7 @@
       "minecraft:frozen_ocean": "2025-08-16 01:29:05 +0000",
       "minecraft:snowy_beach": "2025-08-16 01:15:55 +0000",
       "minecraft:flower_forest": "2025-08-15 23:05:56 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-16 02:54:22 +0000",
       "minecraft:savanna": "2025-08-16 02:33:42 +0000",
       "minecraft:plains": "2025-08-15 23:06:50 +0000"
     },
@@ -1685,6 +1687,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-16 02:59:41 +0000",
       "minecraft:spider": "2025-08-16 01:41:15 +0000",
       "minecraft:stray": "2025-08-16 01:42:47 +0000",
       "minecraft:zombie": "2025-08-15 23:34:49 +0000"
@@ -2102,6 +2105,102 @@
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-08-16 02:25:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-16 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-08-16 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-08-16 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-08-16 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-08-16 03:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-16 03:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-16 03:02:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-08-16 02:51:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-16 03:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-16 02:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-16 03:02:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-16 02:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-16 03:02:35 +0000"
     },
     "done": true
   },
