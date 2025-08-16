@@ -2897,6 +2897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-16 22:28:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-08-16 22:38:11 +0000"
@@ -2915,21 +2921,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-16 22:28:48 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
     "criteria": {
       "has_item": "2025-08-16 22:38:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-08-16 22:43:01 +0000"
     },
     "done": true
   },
@@ -2942,24 +2936,6 @@
   "iceandfire:recipes/tools/myrmex_jungle_sword": {
     "criteria": {
       "has_item": "2025-08-16 22:38:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-08-16 22:43:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2025-08-16 22:43:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-16 22:43:01 +0000"
     },
     "done": true
   },
@@ -2981,15 +2957,75 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-08-16 22:38:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-08-16 22:43:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 22:43:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-08-16 22:43:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-16 22:43:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-08-16 22:43:01 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+  "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
-      "has_item": "2025-08-16 22:38:11 +0000"
+      "has_logs": "2025-08-16 22:56:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-08-16 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-08-16 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-08-16 22:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-16 23:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-08-16 22:56:07 +0000"
     },
     "done": true
   },

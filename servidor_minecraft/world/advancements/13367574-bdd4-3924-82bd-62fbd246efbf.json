@@ -4074,6 +4074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-08-16 22:55:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-08-16 22:38:14 +0000"
@@ -4083,6 +4089,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2025-08-16 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
     },
     "done": true
   },
@@ -4122,6 +4134,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-08-16 21:41:39 +0000"
@@ -4155,6 +4173,12 @@
   "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
     "criteria": {
       "has_item": "2025-08-16 22:38:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
     },
     "done": true
   },
@@ -4197,6 +4221,12 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-08-16 22:45:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
     },
     "done": true
   },
@@ -4296,6 +4326,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-16 22:39:30 +0000"
@@ -4326,6 +4362,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_boots": {
     "criteria": {
       "has_item": "2025-08-16 22:46:40 +0000"
@@ -4335,6 +4377,18 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-08-16 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
     },
     "done": true
   },
@@ -4365,6 +4419,18 @@
   "iceandfire:recipes/combat/myrmex_jungle_leggings": {
     "criteria": {
       "has_item": "2025-08-16 22:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-08-16 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-08-16 22:55:11 +0000"
     },
     "done": true
   },
@@ -4437,6 +4503,12 @@
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-08-16 22:46:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-08-16 23:01:36 +0000"
     },
     "done": true
   },
