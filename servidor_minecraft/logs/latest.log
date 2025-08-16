@@ -202,3 +202,62 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 03:07:33.782] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_16.08.2025-03.07.33.dat
 [16Aug2025 03:07:33.783] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1505 Y: 67 Z: 0
 [16Aug2025 03:07:33.790] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[16Aug2025 03:08:36.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/8525, l='ServerLevel[world]', x=-1520.70, y=74.00, z=30.17] died, message: 'Scribe was slain by Vindicator'
+[16Aug2025 03:08:40.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has reached the goal [Fortuitous Militia]
+[16Aug2025 03:08:53.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by Vex
+[16Aug2025 03:08:53.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-03.08.53.dat
+[16Aug2025 03:08:53.320] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1516 Y: 73 Z: 37
+[16Aug2025 03:08:53.331] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 03:09:27.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 03:09:31.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was killed by Evoker using magic
+[16Aug2025 03:09:31.234] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_16.08.2025-03.09.31.dat
+[16Aug2025 03:09:31.236] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1556 Y: 74 Z: -3
+[16Aug2025 03:09:31.238] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[16Aug2025 03:09:31.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 03:09:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Vex
+[16Aug2025 03:09:43.779] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 03:09:58.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was killed by Witch using magic
+[16Aug2025 03:09:58.681] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_16.08.2025-03.09.58.dat
+[16Aug2025 03:09:58.681] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1562 Y: 73 Z: -9
+[16Aug2025 03:09:58.684] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[16Aug2025 03:10:18.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8721, l='ServerLevel[world]', x=-1536.76, y=72.25, z=39.44] died, message: 'Unemployed was slain by Vindicator'
+[16Aug2025 03:10:55.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 03:11:02.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 03:11:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by Ravager
+[16Aug2025 03:11:47.028] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-03.11.47.dat
+[16Aug2025 03:11:47.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1557 Y: 73 Z: -4
+[16Aug2025 03:11:47.032] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 03:11:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC was killed by Evoker using magic
+[16Aug2025 03:11:47.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for NoobToMC with unique ID travelersbackpack.standard_16.08.2025-03.11.47.dat
+[16Aug2025 03:11:47.131] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1568 Y: 74 Z: -4
+[16Aug2025 03:11:47.134] [Server thread/INFO] [tombstone/]: The player NoobToMC has successfully been saved
+[16Aug2025 03:11:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ravager
+[16Aug2025 03:11:50.701] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 03:11:57.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 03:12:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 03:12:10.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/8505, l='ServerLevel[world]', x=-1541.11, y=73.00, z=30.30] died, message: 'Cartographer was slain by Ravager'
+[16Aug2025 03:12:25.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8504, l='ServerLevel[world]', x=-1562.45, y=76.00, z=14.45] died, message: 'Armorer was slain by Vindicator'
+[16Aug2025 03:12:39.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8720, l='ServerLevel[world]', x=-1542.51, y=71.25, z=42.27] died, message: 'Unemployed was slain by Vindicator'
+[16Aug2025 03:12:56.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[16Aug2025 03:13:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has completed the challenge [Hero of the Village]
+[16Aug2025 03:13:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has completed the challenge [Hero of the Village]
+[16Aug2025 03:13:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC has completed the challenge [Hero of the Village]
+[16Aug2025 03:14:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the time to 1000]
+[16Aug2025 03:14:17.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[16Aug2025 03:14:21.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 03:14:39.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/8506, l='ServerLevel[world]', x=-1528.51, y=75.00, z=15.47] died, message: 'Nitwit was slain by M1lanX'
+[16Aug2025 03:14:39.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Neighborhood Brawl]
+[16Aug2025 03:15:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Applied effect Saturation to NoobToMC]
+[16Aug2025 03:15:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
+[16Aug2025 03:15:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 03:15:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 03:15:26.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 03:16:18.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 0.6491269390303387
+[16Aug2025 03:16:18.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.2644201553919174
+[16Aug2025 03:16:18.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 1.8071087722228185
+[16Aug2025 03:16:18.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 2.285760132267569
+[16Aug2025 03:16:18.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 2.7079306318271392
+[16Aug2025 03:16:18.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Killer Fire (vehicle of NoobToMC) moved wrongly! 3.080285012438708
+[16Aug2025 03:16:39.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 03:18:06.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 03:18:59.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [What a Deal!]
