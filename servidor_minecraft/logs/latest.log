@@ -477,3 +477,45 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 22:02:18.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
 [16Aug2025 22:03:14.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was killed by NoobToMC using magic
 [16Aug2025 22:03:14.300] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 22:04:03.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to rain]
+[16Aug2025 22:04:05.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> es mi desición pe
+[16Aug2025 22:04:24.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> ya no importa
+[16Aug2025 22:04:24.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> milexy dice q se ve culero
+[16Aug2025 22:04:29.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> XD
+[16Aug2025 22:04:53.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> se pasa de rosca mi drogon
+[16Aug2025 22:05:07.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 22:05:31.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was killed
+[16Aug2025 22:05:31.575] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.gold_16.08.2025-22.05.31.dat
+[16Aug2025 22:05:31.576] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -477 Y: 77 Z: 788
+[16Aug2025 22:05:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Killed M1lanX]
+[16Aug2025 22:05:31.580] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 22:05:45.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> q fue
+[16Aug2025 22:05:51.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[16Aug2025 22:06:13.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 22:06:46.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 22:06:47.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 22:06:48.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 22:07:58.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[16Aug2025 22:08:42.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 22:09:03.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 22:09:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 22:09:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 22:09:48.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 22:10:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was killed
+[16Aug2025 22:10:04.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Killed M1lanX]
+[16Aug2025 22:10:04.665] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 22:10:10.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 22:10:21.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 22:10:28.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to clear]
+[16Aug2025 22:10:28.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 22:10:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[16Aug2025 22:11:42.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to rain]
+[16Aug2025 22:11:46.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 0.5247089560903078
+[16Aug2025 22:11:46.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 1.2799834112568647
+[16Aug2025 22:11:46.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 1.9983090953422789
+[16Aug2025 22:11:46.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 2.696864228701145
+[16Aug2025 22:12:08.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set the weather to clear]
+[16Aug2025 22:12:57.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 22:13:06.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 22:13:13.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 22:13:18.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
