@@ -146,3 +146,9 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 03:44:20.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
 [16Aug2025 03:45:11.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC lost connection: Disconnected
 [16Aug2025 03:45:11.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoobToMC left the game
+[16Aug2025 03:51:53.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
+[16Aug2025 03:52:47.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to rain]
+[16Aug2025 03:55:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 03:55:55.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 03:56:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 03:56:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
