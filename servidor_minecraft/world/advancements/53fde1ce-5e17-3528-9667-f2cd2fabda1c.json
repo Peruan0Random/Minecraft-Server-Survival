@@ -4524,9 +4524,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_rose_bush": "2025-08-16 15:38:00 +0000"
+      "has_paper": "2025-08-16 14:44:14 +0000"
     },
     "done": true
   },
@@ -4536,9 +4536,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/throw_trident": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "shot_trident": "2025-08-16 16:08:58 +0000"
+      "has_log": "2025-08-16 15:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-16 15:38:00 +0000"
     },
     "done": true
   },
@@ -4548,15 +4554,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:adventure/throw_trident": {
     "criteria": {
-      "has_paper": "2025-08-16 14:44:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-16 15:20:39 +0000"
+      "shot_trident": "2025-08-16 16:08:58 +0000"
     },
     "done": true
   },

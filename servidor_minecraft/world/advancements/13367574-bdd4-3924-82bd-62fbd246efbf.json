@@ -3978,6 +3978,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-16 03:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-16 03:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-08-16 03:41:11 +0000"
@@ -3987,12 +3999,6 @@
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-08-16 03:44:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-08-16 03:41:09 +0000"
     },
     "done": true
   },
@@ -4023,12 +4029,6 @@
   "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
     "criteria": {
       "has_dragonsteel_ice_ingot": "2025-08-16 03:44:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-08-16 03:41:09 +0000"
     },
     "done": true
   },
