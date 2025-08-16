@@ -156,3 +156,44 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 15:12:45.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6566, l='ServerLevel[world]', x=-987.62, y=83.92, z=1363.50] died, message: 'Unemployed was slain by 2apjnas'
 [16Aug2025 15:13:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
 [16Aug2025 15:13:26.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.062067125401086,0.0,-2.555888094707825
+[16Aug2025 15:19:35.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.566787750813546,0.0,-11.876012117893424
+[16Aug2025 15:20:04.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:20:21.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was turned into KFC by Fire Dragon
+[16Aug2025 15:20:21.107] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:20:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was incinerated by Fire Dragon
+[16Aug2025 15:20:33.804] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:21:03.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:21:50.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[16Aug2025 15:22:24.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 5.027061115594279,0.0,-10.35851293339283
+[16Aug2025 15:22:28.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -6.833583821343382,0.9831079158072242,-7.7455402452794715
+[16Aug2025 15:22:39.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 6.335227109454991,-3.0847396630668698,-8.772906658392913
+[16Aug2025 15:22:41.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.120287308048319,-4.0498372215344745,-5.565493401573804
+[16Aug2025 15:22:52.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -3.2333006657931946,2.121176649262381,-10.40834875861401
+[16Aug2025 15:24:26.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:24:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[16Aug2025 15:24:27.582] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:25:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:26:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:26:22.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:26:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:27:03.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[16Aug2025 15:27:03.949] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 15:27:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:29:26.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 6.33698670473359,0.0,14.870538528006819
+[16Aug2025 15:29:36.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 13.878670217500257,0.6362399971041128,-11.22863896250442
+[16Aug2025 15:29:50.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 9.626233518583376,0.0,-8.455815638503282
+[16Aug2025 15:30:00.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.553457538071598,0.0,-6.6787384206597835
+[16Aug2025 15:30:03.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -10.700609870204062,0.0,2.0955291169693737
+[16Aug2025 15:30:10.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! 16.65958242918532,0.0,2.704577504312738
+[16Aug2025 15:30:15.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.216744482847389,7.189623281012132,-14.839447861171266
+[16Aug2025 15:30:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 15:31:07.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[16Aug2025 15:31:23.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:31:30.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: oe Milan va a entrar ahorita
+[16Aug2025 15:31:36.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> ns
+[16Aug2025 15:32:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to 2apjnas: que va a entrar ahora milan pq me a llamado
+[16Aug2025 15:32:11.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> aaa
+[16Aug2025 15:32:44.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:50167] logged in with entity id 28895 at (-476.5872680144335, 69.0, 782.7204324371135)
+[16Aug2025 15:32:44.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
+[16Aug2025 15:32:44.638] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
+[16Aug2025 15:33:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
