@@ -3240,3 +3240,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 03:57:04.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Aug2025 04:02:04.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Aug2025 04:02:04.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 04:02:47.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Draconic Evolution]
+[16Aug2025 04:04:22.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the weather to clear]
+[16Aug2025 04:07:04.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 04:07:04.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 04:07:24.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 04:07:58.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2apjnas moved too quickly! -9.741951852737998,3.1909013491950162,-3.8217047280742236
+[16Aug2025 04:08:07.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 04:08:08.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 04:08:39.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was blown up by Creeper
+[16Aug2025 04:08:39.317] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-744, y:78, z:964, dim:minecraft:overworld]
+[16Aug2025 04:08:39.363] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 04:08:46.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
+[16Aug2025 04:09:17.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX hit the ground too hard
+[16Aug2025 04:09:17.805] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-04.09.17.dat
+[16Aug2025 04:09:17.808] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -477 Y: 69 Z: 779
+[16Aug2025 04:09:17.809] [Server thread/DEBUG] [tombstone/]: A new grave of the player M1lanX was created at position [x:-478, y:69, z:779, dim:minecraft:overworld]
+[16Aug2025 04:09:17.811] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 04:12:07.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 04:12:07.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

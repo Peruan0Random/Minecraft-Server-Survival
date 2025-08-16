@@ -2503,6 +2503,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-08-16 04:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-16 03:49:39 +0000"
@@ -2536,6 +2542,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-16 03:49:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-08-16 04:09:41 +0000"
     },
     "done": true
   },
