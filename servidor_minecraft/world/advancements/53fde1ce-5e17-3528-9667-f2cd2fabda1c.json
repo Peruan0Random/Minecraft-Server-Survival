@@ -799,12 +799,14 @@
       "minecraft:spider": "2025-08-09 23:36:59 +0000",
       "minecraft:creeper": "2025-08-10 00:58:03 +0000",
       "minecraft:evoker": "2025-08-16 03:07:28 +0000",
+      "minecraft:zombified_piglin": "2025-08-16 03:47:03 +0000",
       "minecraft:witch": "2025-08-10 20:22:37 +0000",
       "minecraft:enderman": "2025-08-09 23:35:54 +0000",
       "minecraft:silverfish": "2025-08-10 21:18:56 +0000",
       "minecraft:vex": "2025-08-16 03:08:54 +0000",
       "minecraft:zombie": "2025-08-09 23:55:48 +0000",
-      "minecraft:drowned": "2025-08-14 02:00:25 +0000"
+      "minecraft:drowned": "2025-08-14 02:00:25 +0000",
+      "minecraft:zombie_villager": "2025-08-16 03:28:15 +0000"
     },
     "done": false
   },
@@ -4440,12 +4442,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-08-16 03:13:04 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-08-16 03:04:29 +0000"
@@ -4461,6 +4457,60 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-08-16 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-16 03:13:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-08-16 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-16 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-08-16 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-08-16 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-16 03:41:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-16 03:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-16 03:41:14 +0000"
     },
     "done": true
   },
