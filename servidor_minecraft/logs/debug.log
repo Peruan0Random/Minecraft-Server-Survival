@@ -3679,3 +3679,66 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 15:53:32.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Aug2025 15:53:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [16Aug2025 15:53:53.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:56:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 15:56:39.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 15:57:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Creative Mode]
+[16Aug2025 15:58:14.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 15:58:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 15:58:32.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 15:58:32.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 15:59:04.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:59:11.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to M1lanX]
+[16Aug2025 15:59:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 15:59:33.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 15:59:34.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:02:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 16:03:32.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 16:03:32.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 16:03:52.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:04:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:04:19.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:04:23.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:04:27.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:04:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:05:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Ferrous Wroughtnaut
+[16Aug2025 16:05:20.443] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-622, y:32, z:861, dim:minecraft:overworld]
+[16Aug2025 16:05:20.450] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 16:06:00.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 16:06:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:06:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:07:00.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 16:07:09.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Teleported M1lanX to 2apjnas]
+[16Aug2025 16:07:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 16:08:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:08:29.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:08:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 16:08:32.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 16:08:32.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 16:08:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas has made the advancement [A Throwaway Joke]
+[16Aug2025 16:09:13.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 16:09:26.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:10:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by Fire Dragon
+[16Aug2025 16:10:12.891] [Server thread/DEBUG] [tombstone/]: A new grave of the player 2apjnas was created at position [x:-3252, y:-13, z:2454, dim:minecraft:overworld]
+[16Aug2025 16:10:12.901] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 16:10:28.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX burned to death
+[16Aug2025 16:10:28.855] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.gold_16.08.2025-16.10.28.dat
+[16Aug2025 16:10:28.856] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3253 Y: -2 Z: 2485
+[16Aug2025 16:10:28.857] [Server thread/DEBUG] [tombstone/]: A new grave of the player M1lanX was created at position [x:-3254, y:-2, z:2485, dim:minecraft:overworld]
+[16Aug2025 16:10:28.859] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 16:10:46.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:10:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 16:11:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:11:22.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:11:23.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 16:11:27.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 16:13:02.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:13:32.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 16:13:32.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 16:14:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX has made the advancement [Not Today, Thank You]
+[16Aug2025 16:14:19.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set the time to 1000]
+[16Aug2025 16:14:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 16:14:21.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Spectator Mode]
+[16Aug2025 16:14:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 16:14:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 16:14:39.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M1lanX: Set own game mode to Survival Mode]
+[16Aug2025 16:14:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
