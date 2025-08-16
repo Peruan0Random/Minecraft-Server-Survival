@@ -845,3 +845,46 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 23:25:49.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
 [16Aug2025 23:25:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> pasen dragones pe
 [16Aug2025 23:26:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> cofre
+[16Aug2025 23:26:10.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 23:26:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by Ice
+[16Aug2025 23:26:18.893] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:26:33.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 23:27:07.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 23:27:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Creative Mode]
+[16Aug2025 23:27:17.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 23:27:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 23:27:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Made M1lanX a server operator]
+[16Aug2025 23:27:38.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 23:27:40.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 23:27:50.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Made M1lanX no longer a server operator]
+[16Aug2025 23:28:17.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by NoobToMC using [PIPILIN]
+[16Aug2025 23:28:17.040] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-23.28.17.dat
+[16Aug2025 23:28:17.040] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -476 Y: 64 Z: 786
+[16Aug2025 23:28:17.042] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:28:19.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-481, y=65, z=786}
+[16Aug2025 23:28:32.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> ptmr dejen de matr
+[16Aug2025 23:28:46.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> xd
+[16Aug2025 23:29:08.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by NoobToMC using [PIPILIN]
+[16Aug2025 23:29:08.394] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-23.29.08.dat
+[16Aug2025 23:29:08.395] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -483 Y: 70 Z: 781
+[16Aug2025 23:29:08.396] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:29:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by 2apjnas
+[16Aug2025 23:29:25.062] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:29:26.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-480, y=66, z=787}
+[16Aug2025 23:31:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M1lanX> pasa dragones pe
+[16Aug2025 23:31:30.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <2apjnas> pero no destruyas
+[16Aug2025 23:31:45.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 23:31:50.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> anyelo
+[16Aug2025 23:32:06.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> me tengo q me ir a bañar
+[16Aug2025 23:32:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> juegen
+[16Aug2025 23:32:24.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX was slain by NoobToMC using [PIPILIN]
+[16Aug2025 23:32:24.030] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for M1lanX with unique ID travelersbackpack.standard_16.08.2025-23.32.24.dat
+[16Aug2025 23:32:24.030] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -481 Y: 70 Z: 743
+[16Aug2025 23:32:24.031] [Server thread/INFO] [tombstone/]: The player M1lanX has successfully been saved
+[16Aug2025 23:32:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> oe y anyelo
+[16Aug2025 23:32:59.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 23:33:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Teleported NoobToMC to 2apjnas]
+[16Aug2025 23:33:09.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoobToMC moved too quickly! -0.33761584921609256,-9.999998569470996,-0.3875086022579808
+[16Aug2025 23:33:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> milan ve juagndo
+[16Aug2025 23:34:08.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M1lanX lost connection: Disconnected
+[16Aug2025 23:34:08.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX left the game
