@@ -225,3 +225,27 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Aug2025 20:57:42.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
 [16Aug2025 20:58:02.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
 [16Aug2025 20:58:58.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Spectator Mode]
+[16Aug2025 21:02:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 21:03:23.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 21:04:10.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Teleported 2apjnas to NoobToMC]
+[16Aug2025 21:04:23.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 21:04:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 21:05:36.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 21:05:48.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 21:06:35.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M1lanX[/127.82.135.8:50153] logged in with entity id 27003 at (-477.82674737002645, 69.0, 783.0110859761201)
+[16Aug2025 21:06:35.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M1lanX joined the game
+[16Aug2025 21:06:35.581] [Server thread/INFO] [Jade/]: Syncing config to M1lanX (980aef7d-7906-3838-bd74-9447b99fe275)
+[16Aug2025 21:07:01.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoobToMC> oe milan
+[16Aug2025 21:08:07.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 21:08:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
+[16Aug2025 21:08:46.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 0.37032273066176913
+[16Aug2025 21:08:46.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 1.2275699336643129
+[16Aug2025 21:08:46.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 2.0749850625455224
+[16Aug2025 21:08:46.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manzana y mi pipillin (vehicle of M1lanX) moved wrongly! 2.917751655873701
+[16Aug2025 21:10:36.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Gave 260 [Raw Chicken] to NoobToMC]
+[16Aug2025 21:10:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Spectator Mode]
+[16Aug2025 21:10:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2apjnas was slain by M1lanX
+[16Aug2025 21:10:50.023] [Server thread/INFO] [tombstone/]: The player 2apjnas has successfully been saved
+[16Aug2025 21:10:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoobToMC: Set own game mode to Survival Mode]
+[16Aug2025 21:11:22.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Creative Mode]
+[16Aug2025 21:11:29.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [2apjnas: Set own game mode to Survival Mode]
