@@ -27,6 +27,8 @@
     "criteria": {
       "minecraft:taiga": "2025-08-15 23:50:30 +0000",
       "minecraft:frozen_river": "2025-08-16 00:09:00 +0000",
+      "minecraft:cherry_grove": "2025-08-16 22:12:11 +0000",
+      "minecraft:birch_forest": "2025-08-16 22:12:25 +0000",
       "minecraft:beach": "2025-08-16 02:33:15 +0000",
       "minecraft:sparse_jungle": "2025-08-16 02:52:50 +0000",
       "minecraft:river": "2025-08-16 00:07:31 +0000",
@@ -39,6 +41,7 @@
       "minecraft:snowy_beach": "2025-08-16 01:15:55 +0000",
       "minecraft:flower_forest": "2025-08-15 23:05:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-16 02:54:22 +0000",
+      "minecraft:meadow": "2025-08-16 22:12:37 +0000",
       "minecraft:savanna": "2025-08-16 02:33:42 +0000",
       "minecraft:plains": "2025-08-15 23:06:50 +0000"
     },
@@ -2639,6 +2642,60 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-16 21:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-08-16 21:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-16 21:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-16 21:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-16 21:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-08-16 21:13:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 21:29:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-16 21:33:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-08-16 21:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-16 21:36:47 +0000"
@@ -2651,33 +2708,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-08-16 21:11:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-16 21:36:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-08-16 21:11:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-08-16 21:10:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 21:29:46 +0000"
     },
     "done": true
   },
@@ -2696,24 +2729,6 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-16 21:36:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2025-08-16 21:39:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-08-16 21:39:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-08-16 21:39:23 +0000"
     },
     "done": true
   },
@@ -2765,12 +2780,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2025-08-16 21:35:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-16 21:36:47 +0000"
@@ -2789,51 +2798,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonarmor_gold_head": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 21:57:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-08-16 21:11:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-16 21:36:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-08-16 21:33:24 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-08-16 21:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-16 21:46:06 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-08-16 21:40:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-08-16 21:08:33 +0000"
     },
     "done": true
   },
@@ -2849,9 +2816,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_orange_tulip": "2025-08-16 21:13:05 +0000"
+      "has_cobbled_deepslate": "2025-08-16 21:36:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-08-16 21:39:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 21:39:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-08-16 21:39:23 +0000"
     },
     "done": true
   },
@@ -2861,21 +2846,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-16 21:36:47 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-08-16 21:39:23 +0000"
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-16 21:40:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-08-16 21:40:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-16 21:46:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_gold_neck": {
     "criteria": {
       "has_the_recipe": "2025-08-16 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 21:57:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-08-16 22:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-16 22:19:11 +0000"
     },
     "done": true
   },
